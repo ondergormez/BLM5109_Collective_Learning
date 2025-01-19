@@ -1,0 +1,1964 @@
+,Unnamed: 0,id,question,answer,context,is_negative_response,number_of_articles,ctx_split_points,correct_intro_idx,gemma_2_9b_answer,answer_generation_time,faithfulness,answer_correctness,answer_relevancy
+0,0,e241089f-0a93-49ce-bfdd-e1346a564696,Cezayir Deniz Muharebesi'nin Osmanlı İmparatorluğu için önemi nedir?,"Cezayir Deniz Muharebesi, Osmanlı İmparatorluğu için büyük bir stratejik önem taşıyordu. Bu zafer, Akdeniz'de Osmanlı hakimiyetini güçlendirdi ve İspanya'nın bölgedeki etkisini zayıflattı. Ayrıca, Barbaros Hayreddin Paşa'yı Osmanlı donanmasının en önemli komutanlarından biri haline getirdi ve Osmanlı denizciliğinin gücünü tüm dünyaya gösterdi.","Cezayir Deniz Muharebesi, Osmanlı İmparatorluğu'na bağlı Cezayir eyaletinin Barbaros Hayreddin Paşa komutasındaki donanmasının 1529 yazında Cezayir kenti açıklarında İspanyol filosunu mağlup ettiği askerî çarpışma.
+",0,1,[215],0,"Cezayir Deniz Muharebesi, Osmanlı İmparatorluğu için çok önemli bir zafer olarak tarihe geçti. 
+
+İşte önemi hakkında birkaç nokta:
+
+1. **Akdeniz'de Osmanlı hakimiyetinin güçlenmesi:** Bu zafer, Osmanlı donanmasının Akdeniz'de İspanyol güçlerine karşı üstünlüğünü kanıtladı. İspanyol deniz gücünün zayıflaması, Osmanlı'nın Akdeniz'de ticaret yollarını kontrol altına almasına ve bölgede siyasi etkisini artırmasına olanak sağladı.
+
+2. **Barbaros Hayreddin Paşa'nın yükselişi:** Muharebede elde edilen zafer, Barbaros Hayreddin Paşa'nın askeri dehasını ortaya koydu ve onu Osmanlı deniz tarihinde unutulmaz bir isim haline getirdi. Paşa'nın liderliği, Osmanlı donanmasının güçlenmesine ve Akdeniz'de İspanyol tehdidini püskürtmesine katkı sağladı.
+
+3. **Cezayir eyaletinin güvenliği:** Cezayir, Osmanlı İmparatorluğu'nun önemli bir limanı ve ticaret",24.8,0.0,0.6117923953890588,0.9339401585175185
+1,1,83a01bd6-c07d-48db-b007-f8bcc9a664a8,Yazılım optimizasyonu ile programın hızı nasıl artırılır?,"Yazılım optimizasyonu, kodun yapısını ve algoritmalarını iyileştirerek programın hızını artırmayı amaçlar. Gereksiz işlemlerden kaçınmak, daha verimli veri yapıları kullanmak ve kodun bellekte daha az yer kaplamasını sağlamak gibi teknikler kullanılabilir.","Program optimizasyonu ya da yazılım optimizasyonu, yazılım ürününün daha etkili ve daha az sistem kaynakları kullanabilecek şekilde düzenlenmesi işlemi. Genel manada bir bilgisayar programı daha çabuk, daha az bellek veya sistem kaynağı kullanabilecek şekilde optimize edilebilir.
+",0,1,[281],0,"Yazılım optimizasyonu ile programın hızı artırmak için birçok yöntem kullanılabilir. İşte bazı temel stratejiler:
+
+**1. Kodun Analizi ve Düzenleme:**
+
+* **Zarf Kullanımı:** Gereksiz döngüleri, ifadeleri ve değişkenleri ortadan kaldırmak.
+* **Algoritma Seçimi:** Problemi çözmek için en verimli algoritmayı seçmek. Bazı algoritmalar belirli görevler için diğerlerinden daha hızlı olabilir.
+* **Kod Tasarımı:** Kodun okunabilirliğini ve düzenlenebilirliğini artırmak, hataları azaltmak ve optimizasyon işlemlerini kolaylaştırmak.
+
+**2. Veri Yapıları ve İşlemleme:**
+
+* **Uygun Veri Yapıları Kullanmak:** Verileri düzenlemek ve erişmek için en uygun veri yapılarını seçmek (örneğin, ağaç, liste, küme).
+* **Veri Ön İşleme:** Verileri önceden işleyerek, gerektiğinde hızlı erişim sağlamak.
+* **Paralel İşlemleme:** Çoklu çekirdekli işlemcilerde görevleri paralel olarak yürütmek.
+
+**3.",24.8,0.4166666666666667,0.645555759290745,0.8777503097769354
+2,2,96b95171-644f-4d88-8e2a-230bea582348,N-gram'lar hangi alanlarda kullanılır ve örnek verebilir misiniz?,"N-gram'lar hesaplamalı dilbilimde metin analizi, makine çevirisi ve otomatik yazı yazımı gibi uygulamalarda kullanılır. Ayrıca biyolojide protein yapılarını analiz etmek için de kullanılabilirler. Örneğin, bir bigram (iki kelimelik n-gram) kullanarak 'kalem' kelimesinden sonra gelen en yaygın kelimeyi tahmin edebiliriz.","Hesaplamalı dilbilim ve olasılık alanlarında, bir n-gram (bazen Q-gram olarak da adlandırılır), belirli bir metin veya konuşma örneğinden n öğenin bitişik bir dizisidir. Öğeler uygulamaya göre fonemler, heceler, harfler, kelimeler veya baz çiftleri olabilir. n-gramlar tipik olarak bir metinden veya konuşma korpusundan toplanır. Öğeler kelimeler olduğunda, n-gramlar zona olarak da adlandırılabilir.
+Latin sayısal önekleri kullanıldığında, 1 boyutundaki bir n-gram ""unigram"" olarak adlandırılır; boyut 2 bir ""bigram""dır (veya daha az yaygın olarak bir ""digram""); boyut 3 bir ""trigram"" dır. İngilizce ana sayılar bazen kullanılır, örneğin ""dört gram"", ""beş gram"" vb. Hesaplamalı biyolojide, bilinen boyuttaki bir polimer veya oligomer, ""monomer"", ""dimer"", ""trimer"", ""tetramer"", ""pentamer"" vb. veya İngilizce ana sayılar, ""one-mer"", ""two-mer"", ""three-mer"" vb.
+",0,1,[859],0,"N-gram'lar hesaplamalı dilbilim ve diğer alanlarda oldukça yaygın olarak kullanılır. İşte bazı örnek alanlar ve uygulamaları:
+
+**1. Metin Öngörüsü ve Tamamlama:**
+
+* **Otomatik Söz Önerisi:** Akıllı telefon klavye uygulamaları gibi sistemlerde, n-gram'lar kullanarak kullanıcıların yazdığı kelimelerin ardından olası sonraki kelimeleri tahmin eder ve önerir. Örneğin, ""Bugün hava"" ifadesinden sonra gelen olası kelimeler ""sıcak"", ""yağmurlu"", ""güzel"" gibi olabilir.
+* **Metin Tamamlama:** N-gram'lar, kullanıcıların yazmaya başladığı metni tamamlamaları için yardımcı olabilir. Örneğin, bir e-posta başlığında ""Merhaba"" yazdıktan sonra, n-gram'lar ""Merhaba [isim]"" gibi olası tamamlamaları önerir.
+
+**2. Dil Modelleri ve Çeviri:**
+
+* **Dil Modelleri Oluşturma:** N-gram'lar, bir dilin olası kelime dizilerini modellemek için kullanılır. Bu modeller, metin üretme, çeviri ve metin anlama gibi",24.9,0.4444444444444444,0.7069249300067274,0.9684908537024034
+3,3,bfa2e6da-b201-4199-9d36-bfa9231b355b,Teranostik nanoparçacıkların taşıyıcı bölümü nedir ve nasıl oluşturulur?,"Teranostik nanoparçacıkların taşıyıcı bölümü, ilacı taşıyan ve hücrelere ulaşmasını sağlayan kısımdır. Sentetik polimerlerden veya doğal makromoleküllerden (protein, selüloz gibi) hazırlanabilir.","Therapy ve Diagnostics/Diagnosis  kelimelerinin birleşmesiyle oluşturulan Theranostics, Theragnostics veya Theranosis olarak tanımlanan terimdir. Tedavi edici ajanların ve tanısal ajanların tek bir platformda toplanmasıdır. Teranostik kavramı ilk kez 2002 yılında John Funkhouser tarafından tanımlanmıştır. Teranostik yöntem ile hastalıklar moleküler fenotiplere göre sınıflandırılabilir, molekülün biyodağılımı gözlenebilir, tedaviye cevap izlenebilir ve kişiselleştirilmiş tıp tedavilerine katkı sağlanabilir.
+Teranostik nanoparçacıklar; biyolojik bariyerleri kolayca geçebilen, hastalıkların tanı, tedavi ve tedaviye yanıt süreçlerinin gözlemlenmesinde kolaylık sağlayan nanosistemlerdir. Nanoparçacık; taşıyıcı bölüm ve ona yüklenen ilaçtan oluşur. Taşıyıcı bölüm sentetik polimer veya doğal makromoleküllerden (protein, selüloz gibi) hazırlanır.
+Teranostik nanoparçacıkların çeşitleri; demir oksit nanoparçacıkları, kuantum noktaları, altın nanoparçacıklar, silika nanoparçacıkları ve karbon nanotüpleriyle oluşturulabilir. Lipozomlar, kuantum noktacıkları, miseller, mikrobaloncuklar, mikroküreler gibi sistemlerle taşınabilir. görüntülemede ise; Nükleer Tıp yöntemleri ile görüntüleme (SPECT, PET), manyetik rezonans görüntüleme (MRG), bilgisayarlı tomografi (BT), optik görüntüleme ve ultrasonografi (US) kullanılabilir.
+bu yöntem ile kanser tedavilerinde hedef sadece kanser hücresi olacağı için daha hızlı, daha güvenilir sonuçlar almak mümkün hale gelebilecektir. kişiye özel yapılan tedavi ile vücudun diğer sistemlerine verilen zararında önüne geçilebilecektir.
+",0,1,[1575],0,"Metinde Teranostik nanoparçacıkların taşıyıcı bölümünün nasıl oluşturulduğu açıkça belirtilmiş:
+
+**Taşıyıcı bölüm sentetik polimer veya doğal makromoleküllerden (protein, selüloz gibi) hazırlanır.**
+
+Örneğin, nanoparçacık taşıyıcı bölümü olarak polietilen glikol (PEG), polilaktik asit (PLA) veya polikaprolakt on (PCL) gibi sentetik polimerler kullanılabilir. Ayrıca, proteinler gibi doğal makromoleküller de taşıyıcı bölüm olarak kullanılabilir.
+
+Metinde ayrıca Teranostik nanoparçacıkların çeşitleri arasında lipozomlar, kuantum noktaları, miseller, mikrobaloncuklar ve mikroküreler gibi sistemlerin de bulunduğu belirtilmiş. Bu sistemler de nanoparçacıkların taşıyıcı bölümünü oluşturabilir.
+
+
+Umarım bu cevap yardımcı olmuştur!
+",25.0,0.8,0.7369992807216417,0.9647567212224694
+4,4,8c356bcd-13fe-40b0-a9ba-1ee7c8e3b7a1,Fibonacci sayı dizisi Liber Abaci kitabında nasıl ortaya çıkmıştır?,"Liber Abaci'de bir örnek olarak yer alan ve günümüzde Fibonacci dizisi olarak bilinen sayı dizisi, tavşanların üreme oranlarını hesaplama problemi üzerinden ortaya çıkmıştır. Bu problemde, her ay yeni doğan tavşan çiftlerinin sayısı önceki aydaki yetişkin tavşan çiftlerine eşit olmakta ve böylece bir dizi oluşturulmaktadır.","Fibonacci (/ˌfɪbəˈnɑːtʃi/; aynı zamanda US /ˌfiːb-/, İtalyanca telaffuz: [fiboˈnattʃi]; y. 1170 – y. 1240–50), ayrıca Leonardo Bonacci, Pisalı Leonardo (Leonardo of Pisa) veya Leonardo Bigollo Pisano ('Pisalı Gezgin Leonardo') olarak da bilinen Pisa Cumhuriyetinden İtalyan matematikçi, ""Orta Çağ'ın en yetenekli Batılı matematikçisi"" olarak kabul edilir.
+Yaygın olarak ""Fibonacci"" olarak adlandırılan adı, 1838'de Fransız-İtalyan tarihçi Guillaume Libri tarafından kullanılmıştır. ve kısaca Latince: filius Bonacci ('Bonaccinin oğlu') olarak bilinir. Bununla birlikte, daha 1506'da Kutsal Roma İmparatorluğu'nun bir noteri olan Perizolo, Leonardo'dan ""Lionardo Fibonacci"" olarak bahseder.
+İtalya'da doğdu ve Bugiada (şu anda Cezayir) tüccarları için diplomatlık yapan babası Guilielmo'nun yanında Kuzey Afrika'da büyüdü. Birçok yolculuğunda babasına eşlik etti. 1202'de kaleme aldığı Liber Abaci eserinde Hint-Arap sayıları hakkında şunları söylemektedir: ""Babam, Pisa'dan Bugia'ya gelen tüccarların menfaati için ülkesi tarafından Bugia gümrüğüne noter olarak atanmıştı. Geleceğimi düşünen babam, ben daha çocukken beni yanına çağırdı ve orada kalıp muhasebe okuluna devam etmemi istedi. Okulda Hinduların dokuz sembol kullandıkları sanatı çok iyi öğretmenlerden öğrendim. Bu sanata ait bilgiler beni her şeyden çok mutlu etti.""
+Fibonacci modern çağda en çok Hint-Arap Sayılarını Avrupa'ya getirmesiyle ve 13. yüzyıl başlarında yayınlanan Liber Abaci isimli hesaplama yöntemleri kitabıyla tanınır. Liber Abaci’de bir örnek olarak yer alan çağdaş sayılarla hesaplanmış kendi adıyla anılan sayı dizisi Fibonacci dizisi olarak anılmaktadır. Sadece Fibonacci dizisi ve özellikleri ile ilgili kitaplar hatta haftalık düzenli yayınlanan matematik dergileri bile bulunmaktadır.",0,1,[1772],0,"Metinde belirtildiği gibi, Fibonacci dizisi Liber Abaci kitabında bir örnek olarak yer almaktadır. 
+
+Kitabın içinde Fibonacci, Hindistan'dan gelen bir problem olan tavşanların üreme hızını hesaplamak için bu sayı dizisini kullanır. 
+
+Problem şöyle özetlenebilir: Her ay bir çift tavşan yetişkin hale geliyor ve her çift tavşan bir sonraki ay iki yavru doğuruyor. Başlangıçta bir çift tavşan olduğuna göre, her ay kaç çift tavşan olacağını hesaplamak için Fibonacci dizisi kullanılır. 
+
+
+Dolayısıyla, Fibonacci dizisi Liber Abaci kitabında bulunan bu tavşan üreme problemi aracılığıyla ortaya çıkmıştır. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",25.0,0.2,0.5400881469838302,0.9205009971212682
+5,5,4a3b284a-df75-4c8e-86e6-10a1d871177c,UGC 5304 gökada çifti neden 'Füzyon görünümüne sahip gökadalar' kategorisine dahil edilmiştir?,"UGC 5304, PGC 28487 ve PGC 200253 gökadalarından oluşur ve bu iki gökada birbirleriyle etkileşim halindedir. Bu etkileşim, gökadaların şekillerinin ve yapılarının bozulmasına yol açar ve birleşme sürecinde olduklarını gösterir. Halton Arp, bu tür gökadaları 'Füzyon görünümüne sahip gökadalar' kategorisi altında sınıflandırmıştır.","UGC 5304 (Arp 255), Aslan takımyıldızında yaklaşık olarak 560,98 MIy (172 Mpc) uzaklıkta bulunan etkileşim halindeki bir gökada çiftidir. PGC 28487 ve PGC 200253 gökadalarından oluşur. Halton Arp tarafından görüntülenmiş ve ""Füzyon görünümüne sahip gökadalar"" kategorisi altında Tuhaf Gökadalar Atlası'na dahil edilmiştir.",0,1,[322],0,"UGC 5304 gökada çifti ""Füzyon görünümüne sahip gökadalar"" kategorisine dahil edilmiştir çünkü birbirlerine çok yakın oldukları ve etkileşim halinde oldukları için birbirlerinin şekillerini değiştirmeye başladıkları görülmektedir.
+
+Halton Arp'ın Tuhaf Gökadalar Atlası'nda yer alan bu çifti inceleyince, gökadaların şekillerinin bulanıklaştığını ve birbirlerinin çekim kuvvetleri nedeniyle uzayda sarıldığını görebilirsiniz. 
+
+Bu etkileşim sonucunda gökadaların sonunda birleşerek tek bir büyük gökadasa dönüşmesi beklenmektedir. Ancak bu süreç milyonlarca yıl sürecektir. 
+
+Dolayısıyla, UGC 5304 gökada çifti, gökadaların evriminde görülebilen etkileşim ve füzyon süreçlerinin bir örneği olarak ""Füzyon görünümüne sahip gökadalar"" kategorisine dahil edilmiştir.
+
+",24.8,0.375,0.9463468759637823,0.9365114839755687
+6,6,d5180370-9ad7-49ed-89fb-99fa24f07144,Lavender Menace grubu feminist hareket içinde neden protesto düzenledi?,"Lavender Menace, feminist hareketin daha geniş platformundan lezbiyenlerin ve lezbiyen konularının dışlandığını düşünerek protesto düzenledi. Grup, kadın hakları mücadelesinin tüm kadınları kapsamalı olduğunu savunuyordu.","Lavender Menace (""Lavanta Tehdit""), bir takım lezbiyen radikal feministten oluşan, New York şehrindeki 1 Mayıs 1970 tarihinde düzenlenen Second Congress to Unite Women (""Kadınları Birleştirmek İçin İkinci Konferans"") ile feminist hareketin daha geniş platformundan lezbiyenler ile lezbiyen konularının hariç tutulmalarını protesto etmek amacı ile kurulan enformel bir grup idi. Üyelerinin arasında Karla Jay, Martha Shelley, Rita Mae Brown, Lois Hart, Barbara Love, Ellen Shumsky ile Michela Griffo var idi; üyelerin çoğu Gay Liberation Front (GLF) veya National Organization for Women (NOW) üyeleri idi.
+",0,1,[605],0,"Lavender Menace grubu, feminist hareketin içinde protesto düzenledi çünkü lezbiyenler ve lezbiyen konuları sistematik olarak dışlanıyordu. 
+
+İkinci Kadınlar Birliği Konferansı'nda, lezbiyen deneyimleri ve mücadeleleri yeterince temsil edilmediğini gördüler.  
+
+Özellikle, bazı radikal feminist liderler lezbiyenliği ""erkekliğin bir ifadesi"" olarak görüyor ve feminist hareketin amacına zarar verecek bir unsuru olarak değerlendiriyorlardı. 
+
+Lavender Menace, bu dışlanmayı protesto etmek ve lezbiyenlerin feminist mücadeleye dahil edilmesini sağlamak amacıyla kuruldu. 
+
+
+
+
+
+
+",25.0,0.5714285714285714,0.740401901704759,0.8668999087594327
+7,7,5ca7f450-f9e2-4a98-bef8-3192cdb205a0,Acqua Panna suyunun kaynağı neresidir ve bu isim nasıl seçilmiştir?,"Acqua Panna, adını Toskana tepelerindeki Villa Panna'dan almaktadır. Su, doğal olarak burada bulunan bir kaynaktan gelmektedir.","Acqua Panna İtalyan bir şişelenmiş su markası ve dünyanın en büyük şişe su markalarından biridir. Nestlé'nin Nestlé Waters North America bölümünün bir parçasıdır. Acqua Panna, adını doğal kaynağın ilk keşfedildiği Toskana tepelerindeki Villa Panna'dan alıyor. İlk olarak 1880'de şişelenmiş ve daha sonra plastik şişelerde şişelenen gazsız (karbonsuz) su oldu.
+",0,1,[360],0,"Metinde zaten cevabınız bulunuyor! 
+
+Acqua Panna'nın kaynağı Toskana tepelerindeki Villa Panna'dır. 
+
+İsim ise doğal kaynağın ilk keşfedildiği bu yerden almaktadır. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+.
+
+.
+
+
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+
+
+
+.
+.
+
+
+
+
+.
+
+
+
+",24.9,1.0,0.7339874401150318,0.8565733494151452
+8,8,d710a072-d135-4163-baf9-0b2d4df7f0a0,Yazıda belirtilen düşük yüzey parlaklığına sahip galaksiler neden alan galaksisi olma eğilimindedir?,"Düşük yüzey parlaklığı, bir galaksinin yıldızlarının daha seyrek ve yayılmış bir şekilde dağıldığı anlamına gelir. Bu durum, genellikle büyük kümelerin yerçekimi etkisiyle bir araya gelerek yoğunlaşan galaksilerden farklıdır. Alan galaksileri ise izole oldukları için bu tür yoğunlaşma yaşamazlar ve yıldızları daha seyrek dağılır.","Alan galaksisi, herhangi bir kümeye ait olmayan izole durumdaki galaksidir. Bize 5Mpc uzaklıktaki alanda bulunan galaksilerin yaklaşık %80'i bir grup veya kümeye dahildir. Düşük yüzey parlaklığına sahip birçok galaksi, alan galaksisidir.
+",0,1,[238],0,"Yazıda belirtilen düşük yüzey parlaklığına sahip galaksilerin alan galaksisi olma eğiliminde olmasının sebebi muhtemelen şu şekilde açıklanabilir:
+
+**1. Kümelerin etkisi:**
+
+Galaksiler genellikle kümelerde bulunur. Kümelerin merkezlerinde bulunan süper kütleli kara delikler ve diğer yoğun kaynaklar, çevrelerindeki galaksilere etkiler uygular. Bu etkiler arasında yıldız oluşumu hızında azalma, gazın uzaklaştırılması ve galaksilerin şeklinin bozulması bulunur.
+
+Düşük yüzey parlaklığına sahip galaksiler, muhtemelen bu küme etkilerinden etkilenen ve yıldız oluşumu hızlarının azaldığı galaksilerdir. Yıldız oluşumu azaldıkça, galaksilerin toplam parlaklığı düşer.
+
+**2. Kümelerden uzaklaşma:**
+
+Alan galaksiler, kümelere ait olmamakla birlikte, geçmişte bir kümeye ait olabilirler. Ancak, zamanla kümeden uzaklaşmış olabilirler.
+
+Kümeden uzaklaşan galaksiler, küme içindeki etkilerden uzaklaşarak yıldız oluşumu hızlarını artırabilirler. Ancak, kü",24.7,0.1,0.5111923533541286,0.8338128492613232
+9,9,6bb15d58-2777-4d67-91f0-728d2f0de136,Yazıda bahsedilen Hirudo cinsinin türleri arasında hangi türler daha önce Hirudo medicinalis'in sinonimi olarak kabul ediliyordu?,"Yazıda belirtildiği gibi, Hirudo verbana, Hirudo orientalis ve Hirudo sulukii türleri daha önce Hirudo medicinalis türünün sinonimleri olarak kabul ediliyordu.","Hirudo Hirudinidae familyasında sınıflandırılan bir sülük cinsidir. Carl Linnaeus tarafından 1758 yılında tanımlanmıştır.
+Cins içinde çok bilinen iki tür vardır.
+
+Hirudo medicinalis Linnaeus, 1758
+Hirudo nipponia Whitman, 1886
+Daha önceleri Hirudo medicinalis türünün sinonimleri olarak tanımlanan üç diğer türü 2005 yılında tanımlanmıştır ve kabul görmeye başlamıştır.
+
+Hirudo verbana
+Hirudo orientalis
+Hirudo sulukii
+Hirudo troctina
+",0,1,[435],0,"Yazıda belirtildiği gibi, daha önce Hirudo medicinalis'in sinonimi olarak kabul edilen üç tür:
+
+* **Hirudo verbana**
+* **Hirudo orientalis**
+* **Hirudo sulukii**
+* **Hirudo troctina** 
+
+
+2005 yılında bu türlerin ayrı birer tür olarak kabul edilmeye başlanmasıyla birlikte, artık Hirudo medicinalis'in sinonimi olarak görülmüyorlar. 
+>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>",24.8,1.0,0.885033716085714,0.9776517441960783
+10,10,516f23e8-41b7-4b6a-b733-e5127ca34ec5,IC 1101 galaksisi Dünya'dan ne kadar uzaklıktadır ve bu mesafeyi anlamak için bir örnek verebilir misiniz?,"IC 1101 galaksisi Dünya'dan yaklaşık 320 megaparsek (1,04 milyar ışık yılı) uzaklıkta bulunmaktadır. Bu mesafeyi anlamak için şöyle düşünebiliriz: Işık saniyede 300.000 kilometre hızla hareket eder. IC 1101'e ulaşan ışığın Dünya'ya gelmesi 1,04 milyar yıl sürmüştür. Yani, bugün IC 1101 galaksisini gördüğümüzde aslında 1,04 milyar yıl önceki halini görmekteyiz.","IC 1101, Abell 2029 galaksi kümesinin merkezinde yer alan üstdev eliptik galaksidir. Dünya'dan yaklaşık olarak 320 megaparsek (1,04 milyar ışık yılı) uzaklıktadır. 19 Haziran 1790 tarihinde İngiliz astronom William Herschel tarafından keşfedilmiştir. Yaklaşık 100 trilyon yıldızdan oluşmaktadır ve çapı yaklaşık 6 milyon ışık yılı olup bilinen en büyük galaksidir.",0,1,[364],0,"IC 1101 galaksisi Dünya'dan yaklaşık 1,04 milyar ışık yılı uzaklıktadır.
+
+Bu mesafenin anlaşılması için bir örnek verelim:
+
+Eğer Dünya'dan bir ışık hızıyla seyahat ediyorsanız, IC 1101'e gitmek yaklaşık 1,04 milyar yıl sürecektir. 
+
+Daha anlaşılır bir örnek olarak, Dünya'ya en yakın yıldız olan Proxima Centauri'ye ışık hızıyla seyahat etmek yaklaşık 4,2 yıl sürer. Ancak IC 1101'e gitmek yaklaşık 240 kat daha uzun sürecektir!
+
+Yani, IC 1101'e giden yolculuk, insan ömrünün çok ötesinde bir süreçtir. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",24.8,0.6,0.7879727150799395,0.8785875903785906
+11,11,be1051e6-ff0b-4cc9-a08f-40c1eb9ab127,6G teknolojisinin ticari olarak kullanılabilir hale gelmesi ne zaman bekleniyor ve bu teknolojiyle birlikte hangi yeni olanaklar sunulacak?,"6G teknolojisinin ticari olarak satışa sunulması muhtemelen 2030'larda gerçekleşecek. Bu teknoloji, çok daha yüksek veri hızları sağlayacak ve Li-Fi gibi yenilikçi iletişim yöntemlerini kullanarak üç boyutlu görüntü, koku, dokunma ve tat alma duyularının iletilmesini mümkün kılacak. Ayrıca, gerçek zamanlı uzaktan sağlık hizmetleri, akıllı altyapılar, otonom araçlar ve siber-fiziksel sistemlerin geliştirilmesine de olanak sağlayacak.","6G, 5G'nin ardılı olarak hücresel veri ağlarını destekleyen altıncı nesil kablosuz iletişim teknolojileri olacak. Teknoloji ~ 95 Gb / sn'lik hızlarda büyük olasılıkla önemli ölçüde daha hızlı olacak. Birkaç önemli şirket (yani Nokia, Samsung ve LG) de bunu yaptı. Güney Kore ve Japonya'nın da ilgisinin olduğu bildirildi. 6G muhtemelen 2030'larda ticari olarak satışa sunulacak.
+Öncelikle haberleşme teknolojisinde Wi-Fi yerine Li-Fi teknolojisini, yani yüksek enerjili LED’lerle görünür ışıkla haberleşme teknolojisi kullanılıyor. Bu teknoloji sadece yüksek veri hızı ve veri merkezi sağlamıyor, aynı zamanda tam yapay zeka desteği ile akıllı iletişim ortamı sunuyor. Bu teknokoji ile gelecekte üç boyutlu görüntü, koklama, dokunma ve tat alma duyuları da iletilebilecek, gerçek zamanlı uzaktan sağlık hizmeti verilebilecek, akıllı altyapılar geliştirilebilecek, otonom araçlar ve siber-fiziksel sistemler oluşturulabilecektir.
+",0,1,[929],0,"Metinde bahsedilenlere ek olarak, 6G teknolojisinin ticari olarak kullanılabilir hale gelmesi yaklaşık olarak 2030'ların ortalarında bekleniyor. 
+
+6G ile birlikte sunulacak yeni olanaklar arasında:
+
+* **Çok daha yüksek hızlar:** Metinde de belirtildiği gibi, 6G yaklaşık 95 Gb/sn hızlarda çalışacak, bu da 5G'nin hızından çok daha üstün olacak.
+* **Düşük gecikme süresi:** 6G, 5G'den çok daha düşük gecikme süreleri sağlayacak, bu da özellikle sanal gerçeklik, artırılmış gerçeklik ve otonom araçlar gibi uygulamalar için önemli olacak.
+* **Yüksek kapasite:** 6G, çok daha fazla cihazın aynı anda bağlantı kurmasını sağlayacak, bu da İnternet of Things (IoT) cihazlarının sayısının artmasıyla birlikte kritik önem taşıyacak.
+* **Li-Fi teknolojisi entegrasyonu:** Metinde bahsedildiği gibi, 6G ağlarında Li-Fi teknolojisi entegre edilebilir. Bu, hem daha yüksek veri hızları",24.9,0.5454545454545454,0.6705834601406458,0.8609514973932145
+12,12,b0eac1c1-0c04-4432-b3c4-a9cab065417a,Otomatik musluklar genellikle nasıl çalışır?,"Otomatik musluklar, kullanıcının elinin yakınlığını algılamak için kızılötesi sensörler kullanır. Eller musluğun altına geldiğinde sensör hareketi algılar ve vanayı açarak suyun akmasını sağlar. Eller uzaklaştığında veya belirli bir süre sonra sensör hareketi algılamazsa, vana kapanır ve su akışı durur.","Otomatik musluk veya musluk (ayrıca eller serbest musluk, temassız musluk, elektronik musluk, hareket algılayıcı musluk, sensörlü musluk veya kızılötesi musluk) yakın çevredeki kullanıcının ellerinin varlığına tepki olarak suyun akmasına izin verip vanasını açan mekanizma ve yakınlık sensörüyle donatılmış bir musluktur. Musluk birkaç saniye sonra veya kullanıcının ellerinin varlığını artık algılamadığında valfini tekrar kapatır.
+Çoğu otomatik musluk pille çalışır ve el hareketini algılamak için aktif bir kızılötesi sensör içerir.",0,1,[535],0,"Otomatik muslukların çalışma prensibi temel olarak kızılötesi (Kızılötesi) sensör teknolojisine dayanır.
+
+1. **Kızılötesi Sensör:** Muslukta bulunan kızılötesi sensör, çevresindeki sıcaklığı algılar. İnsan elleri diğer nesnelere göre daha yüksek bir sıcaklığa sahiptir.
+
+2. **Hareket Algılama:** Sensör, ellerin yaklaştığını algıladığında bir sinyal üretir.
+
+3. **Elektronik Kontrol Ünitesi:** Bu sinyal, musluğun elektronik kontrol ünitesine iletilir.
+
+4. **Valf Açma:** Elektronik kontrol ünitesi, sinyal alınması üzerine musluğun vanasını açar.
+
+5. **Su Akışı:** Vananın açılmasıyla birlikte su akmaya başlar.
+
+6. **Zamanlayıcı:** Elektronik kontrol ünitesi ayrıca bir zamanlayıcı içerir. Zamanlayıcı ayarlandıktan sonra, ellerin sensörden uzaklaşması durumunda veya belirli bir süre geçtikten sonra vanayı kapatır.
+
+7. **Piller:** Otomatik musluklar genellikle pille çalışır. Piller, elektronik kontrol ünitesinin",24.8,0.8,0.7611569676923735,0.8098469243958123
+13,13,1b515cd7-9d22-4524-aa1b-edfd99d1bdd9,Yule festivali neden kış gündönümünde kutlanır?,"Yule, en uzun gecenin yaşandığı ve günlerin uzamaya başladığı kış gündönümünü kutlamak için düzenlenirdi. Bu, doğanın yeniden doğuşunu ve güneşin gücünün geri dönüşünü sembolize ederdi.","Yule, Jul veya Yul; Cermen, İskandinav ve Kelt halkları tarafından kutlanan antik bir pagan kış festivali. En uzun gecenin yaşandığı ve günlerin uzamaya başladığı gün olan kış gündönümünün kutlandığı bir bayramdır. Hristiyanlığın yayılması ile birlikte Yule adı 11. yüzyıldan sonra İngilizcede Noel anlamında da kullanılmaya başlanmıştır. Yule, günümüzde bazı neopagan gruplar tarafından kutlanmaya devam edilir.",0,1,[412],0,"Yule festivali kış gündönümünde kutlanır çünkü bu gün, en uzun gece ve en kısa gün olan bir dönüm noktasıdır. 
+
+Cermen, İskandinav ve Kelt halkları için, kış gündönümü güneşin yeniden doğacağı günü simgelerdi. Sonbahar aylarında azalan gün ışığı ile birlikte gelen karanlık ve soğuk hava koşulları sonrası, kış gündönümünde güneşin yeniden güç kazanmaya başladığına inanılırdı.
+
+Yule festivali, güneşin dönüşünü ve baharın geleceğini kutlamak amacıyla düzenlenirdi. Ayrıca, bu dönemde insanlar kışın zorluklarına dayanmanın önemini hatırlar, topluluklarını bir araya getirir, ateş yakarak karanlığı kovmaya çalışırdı. 
+
+",24.8,0.625,0.8691499303264179,0.867171713449388
+14,14,9b32b01a-a6bc-46df-bf37-f6ae7783d50c,Radyatif Transfer Denklemi hangi alanlarda kullanılır ve neden bu kadar önemlidir?,"Radyatif Transfer Denklemi, optik, astrofizik, atmosfer bilimi ve uzaktan algılama gibi çeşitli alanlarda kullanılır. Bu denklemin önemi, elektromanyetik radyasyonun bir ortamda nasıl yayıldığını, emildiğini ve saçıldığını matematiksel olarak tanımlamasından gelir. Bu sayede, yıldızların parlamasını, Dünya'nın atmosferindeki ısı transferini veya uzaktan algılama yoluyla nesnelerin özelliklerini anlayabiliriz.","Radyatif transfer elektromanyetik radyasyon formunda fiziksel bir enerji transferi olayıdır. Radyasyon bir ortam boyunca yayılırken
+absorbsiyon, emisyon ve saçılma işlemlerinden etkilenir. Işınım Taşınım Denklemi bu etkileşimleri matematiksel olarak tanımlar. Radyatif Transfer Denklemi optik, astrofizik, atmosfer bilimi ve uzaktan algılama gibi çok çeşitli konularda uygulanmaktadır. Radyatif Transfer Denkleminin (RTD) analitik çözümleri basit durumlar için mevcuttur, ancak daha gerçekçi ortamlar için karmaşık çoklu saçılma parametreleri ile sayısal yöntemler gereklidir. Bu makale büyük ölçüde radyasyon dengesinin durumuna odaklanmıştır.
+",0,1,[645],0,"Radyatif Transfer Denklemi (RTD) özellikle ışığın nasıl taşındığı ve etkileştiği konusunda oldukça önemli bir araçtır. 
+
+İşte RTD'nin kullanıldığı alanlar ve önemi hakkında daha detaylı bir açıklama:
+
+**Kullanıldığı Alanlar:**
+
+1. **Optik:** 
+
+Radyatif transfer, ışık saçılmasından, soğumasından ve yansıtılmasından kaynaklanan optik fenomenleri anlamak için kullanılır. Örneğin, ışık saçılımı ile ilgili çalışmalar (örneğin, atmosferik saçılma) RTD ile modellenebilir.
+
+2. **Astrofizik:**
+
+Yıldızların, galaksilerin ve evrenin genel yapısının anlaşılması için RTD hayati önem taşır. Yıldızların enerji yayılımı, galaksilerin ışıması ve kara deliklerin çevresindeki radyasyon akışı gibi konularda RTD kullanılır.
+
+3. **Atmosfer Bilimi:**
+
+Atmosferin yapısı, iklim değişikliği ve hava kirliliği gibi konularda RTD kullanılır. Atmosferde güneş ışığının dağılımı, sera gazlarının etkisi ve bulutların ışıma",24.8,0.7142857142857143,0.8327482535065323,0.7916519102848368
+15,15,a3909c14-6960-4b9a-a0bd-c57af7418b2b,Kaptan Smollett'in Define Adası yolculuğunda karşılaştığı en büyük zorluklar nelerdi?,"Kaptan Smollett, Define Adası yolculuğu sırasında hem mürettebatın disiplinsizliğiyle hem de Kaptan Flint'in eski korsanlarıyla mücadele etmek zorunda kaldı. Ayrıca Squire Trelawney ile haritanın sırrı ve mürettebat seçimi konusunda anlaşmazlıklar yaşadı. En büyük zorluklarından biri de Silver'ın hain planlarını engellemek ve mürettebatını kontrol altında tutmaktı.","Kaptan Alexander Smollett.  Robert Louis Stevenson'ın  Define Adası romanının ana karakterlerinden biridir. Squire Trelawney Define Adası yolculuğu için tuttuğu kaptan.Vatansever ve çok sıkı disiplinli bir kaptandır.İlk başta Trelawney'le haritanın sırrı,mürettebat ve Silver yüzünden aralarında anlaşmazlık çıkar.Ama daha sonra çoğunluğunu Sİlver'ın seçtiği mürttebatın aslında Kaptan Flint'in eski korsanları olduğu öğrenilince Squire artık kaptan'a güvenir ve onun komutasında korsanlara karşı savaşır.Bu çarpışmalardan birinde Smollett yaralanır ama yarası ağır değildir.Hazineden pay alıp İngiltere'ye dönünce denizcilikten emekli olur.Sinemada Buddy Messinger,Harry Holden,Lewis Stone,Rig Bataglia,Basil Sydney,Clive Wood,Chris Barrie,Hideaki Esumi,Shusei Nakamura,Wallas Eaton,Steve Whitmere,Emma Thompson,Klaus Löwitsch,Philip Glenister,Larry Storch,Malcolm Stoddard,Viktor Andriyenko,Konstantin Grigoroyev,Jacques Monod,James Ferris,Richard Beale gibi oyuncular tarafından canlandırılmıştır.",0,1,[1000],0,"Kaptan Smollett'in Define Adası yolculuğunda karşılaştığı en büyük zorluklar şunlar olabilir:
+
+1. **Mürettebatın İkilemi:** Smollett, başlangıçta Squire Trelawney tarafından seçilen mürettebatın güvenilir olmadığını düşünüyordu. Özellikle Long John Silver'ın liderliğindeki mürettebatın arasında korsan geçmişleri olan kişilerin olması, Smollett'i endişelendiriyor ve güvensiz hissetmesine neden oluyordu.
+
+2. **Haritanın Sırrı:** Smollett, haritanın sırrını çözmek ve hazineye ulaşmak için mücadele etti. Haritanın karmaşıklığı ve gizli ipuçları, onu sürekli olarak zorluyor ve yolculuğu boyunca sinir bozucu hale getiriyordu.
+
+3. **Korsanlarla Mücadele:** Smollett, Silver'ın liderliğindeki korsanlarla sürekli çatışmalara girdi. Bu çatışmalar, Smollett'in hem kendisini hem de mürettebatını tehlikeye atıyordu. Özellikle Silver'ın kurduğu ihanet girişimleri, Smollett'i zor durumda bıraktı.",24.9,0.5,0.7832310997142706,0.8788820996974684
+16,16,bacb3f59-fc65-4c14-b400-2d6c97ac21e5,"Evokulluluk, çocukların eğitiminde hangi yaş aralığına odaklanıyor ve bu yaş grubunun seçilmesinin nedenleri nelerdir?","Evokulluluk, 8 ve 12 yaş arası çocukların eğitimine odaklanmaktadır. Bu yaş aralığının seçilmesinin temel nedeni, çocuğun suça yatkınlığı, miyopluk ve çocukluk sorunları gibi konuların bu dönemde daha belirgin hale gelmeye başlamasıdır.","Evokulluluk, daha çok gelişmiş ülkelerde görülen bir eğitim sistemidir.
+Evokulluluk; evde resmî eğitim şekli olarak alternatif bir eğitim biçimi halinde uygulanır. Dini inanışlar ve akademik nedenler gibi durumlar yüzünden aileler tarafından çocuklarının okula gönderilmesi yerine bir seçenek olarak var olan bu yöntem, ilk olarak 1977 yılında John Caldwell Holt tarafından büyüme süreci için önemli bir girişim olarak başlatılmıştır.
+8 ve 12 yaş arası çocukların eğitimi kapsamında ele alınan evokulluluk; çocuğun suça yatkınlığı, miyopluk, çocukluk sorunları çerçevesinde ele alınmıştır. Evokullulaşma ile %45 daha fazla bilgi tutulacağı öne sürülmektedir. Uygulamada çoklu zeka kuramı, Waldorf eğitimi ve bu gibi yöntemler denenmektedir.
+Evokulluluk, okulsuzlaşma eğitim biçimiyle karıştırılmamalıdır.
+",0,1,[805],0,"Metne göre evokulluluk, özellikle **8 ve 12 yaş arası** çocukların eğitimine odaklanıyor. 
+
+Bu yaş grubunun seçilmesinin nedenleri ise metinde şöyle açıklanıyor:
+
+* **Çocuğun suça yatkınlığı:** Bu yaş aralığında çocuklar toplum kurallarına uyum sağlama sürecinde oldukları için, evde eğitim alarak sosyalleşme ve ahlaki değerler edinmelerine yardımcı olunabileceği düşünülüyor.
+* **Miyopluk:**  Okulda uzun süre kitap okuma gibi yakın görme gerektiren aktiviteler nedeniyle miyopluğun arttığı düşünülüyor. Evokulluluk ile çocuklar daha fazla açık havada vakit geçirebilir ve miyopluğun önüne geçilebilir.
+* **Çocukluk sorunları:** Bu yaş aralığında çocuklar sosyal uyum, özgüven gibi sorunlarla karşılaşabilirler. Evokulluluk ile aile ortamında daha fazla destek alınarak bu sorunların çözülmesine yardımcı olunabileceği düşünülüyor.
+
+Ayrıca metinde, evokullulaşma ile **%45 daha fazla bilgi tutulacağı** öne sürülüyor. Ancak bu id",25.0,0.2,0.5044871340131551,0.9428776428255213
+17,17,cdab7221-e7cd-4fe2-9192-02cc579c7119,Johann Heinrich Lambert hangi alanlarda çalışmıştır?,"Johann Heinrich Lambert, fizik, matematik ve gökbilimi alanlarında çalışmalar yapmıştır.","Johann Heinrich Lambert (1728 – 1777) Alman fizikçi, matematikçi ve gökbilimcidir.",0,1,[82],0,"Johann Heinrich Lambert birçok alanda çalışmıştır. 
+
+Önemli çalışmaları şunlardır:
+
+* **Matematik:** Lambert, cebir, analitik geometri ve sayı teorisinde önemli katkılarda bulunmuştur. Özellikle, logaritma tablosunun geliştirilmesinde ve temel matematiksel kavramların anlaşılmasında etkili olmuştur. Ayrıca, Lambert eğrisi adlı bir matematiksel eğriyi tanımlamıştır.
+* **Fizik:** Lambert, optik alanında çalışmış ve ışık yansıması ve dağılımı üzerine araştırmalar yapmıştır. Lambert yasası olarak bilinen yasayı ortaya atmıştır, bu yasa, ışığın düz bir yüzeyden yansıması hakkında bilgi verir.
+* **Gökbilim:** Lambert, gökbilim alanında da çalışmış ve yıldızların parlaklığını ölçmek için yöntemler geliştirmiştir. Ayrıca, güneş sisteminin yapısı hakkında araştırmalar yapmıştır.
+
+Sonuç olarak, Johann Heinrich Lambert, matematik, fizik ve gökbilim alanlarında önemli katkılarda bulunan çok yönlü bir bilim insanıdır. 
+",24.8,0.2727272727272727,0.4653175242778107,0.9361657164085794
+18,18,a9dc0f9e-aad3-40d4-b6d8-1ab0dbc9a0b0,Stalag VII-A kampında sadece savaş esirleri mi bulunuyordu yoksa başka gruplar da mı vardı?,"Evet, Stalag VII-A'da çoğunlukla savaş esirleri bulunmaktaydı ancak aynı zamanda diğer kamplara giderken geçiş yapan kişiler de kalıyordu. Ayrıca, fabrikalarda, demiryollarında veya çiftliklerde çalıştırılan işçiler de bu kampta bulunuyordu.","Stalag VII-A, Nazi Almanyası'nın II. Dünya Savaşı sırasında kurduğu en büyük savaş esiri kampı. Bavyera'nın güneyindeki Moosburg'ın kuzeyinde inşa edildi. Kamp yaklaşık 35 hektar bir alanı kapladı. Mahkûmların diğer kamplara giderken uğradığı bir geçiş kampı olarak da kullanıldı. Savaş sırasında Nazilere karşı savaşan her ulustan mahkûmlar bu kamptan geçmiştir. 29 Nisan 1945'te ele geçirildiği sırada, ana kampta 76,248 mahkûm ve Arbeitslager olarak fabrikalarda çalışan, demiryollarını veya çiftlikleri tamir eden 40.000'den fazla işçi vardı.
+",0,1,[547],0,"Stalag VII-A sadece savaş esirleri ile sınırlı değildi. 
+
+Verdiğiniz metinde de belirtildiği gibi, kamp aynı zamanda diğer grupların da bulunduğu bir geçiş kampı olarak kullanılıyordu. 
+
+Bu gruplar arasında:
+
+* **Siyasi mahkûmlar:** Nazi rejimine karşı çıkanlar, komünistler, sosyal demokratlar gibi siyasi görüşleri nedeniyle hapse atılanlar
+* **Rasyonal mahkûmlar:** Yahudiler, Romler, Sinti gibi Nazi ideolojisine göre ""isteksiz"" kabul edilenler
+* **Çalışma kampları mahkûmları:**  Fabrikalarda, demiryollarda veya çiftliklerde çalışan mahkûmlar
+
+bulunuyordu. 
+
+
+Yani Stalag VII-A sadece savaş esirleri değil, aynı zamanda çeşitli gruplardan oluşan geniş bir mahkûm topluluğuna ev sahipliği yapıyordu. 
+
+
+
+
+
+
+
+",24.9,0.6666666666666666,0.8318407819229643,0.8679328313968794
+19,19,cf237d77-b637-4c70-b7c9-b28785b50b95,IFF sisteminin hangi modu en güvenlidir ve neden?,"En güvenli mod Mode 4'tür çünkü dost-düşman tespiti için şifreli bir iletişim kullanır. Bu, yetkisiz kişilerin IFF sinyallerini çözememesini sağlar ve yanlış tanımlamaları önler.","IFF (/aɪ ɛf ɛf/), II. Dünya Savaşı esnasında ABD'de askerî amaçlarla üretilmiş bir transponder sistemi. IFF kısaltması İngilizce Identification friend or foe (dost-düşman tespiti) sözcüklerinin akronimidir. Aslen askerî amaçlar için üretilen sistem günümüzde pek çok ülkede gerek askerî gerekse sivil uçakların yer birimlerindeki ikincil radarlar (SSR) ve diğer taşıtlardaki transponder sistemleri tarafından tespiti için kullanılır.
+IFF'in 4 modu ve 1 altmodu vardır:
+
+Mode 1: Gemiler tarafından uçaklar ve diğer gemileri takip etmekte kullanılan düşük maliyetli ve güvenliksiz moddur.
+Mode 2: Uçaklar tarafından kötü hava koşullarında gemilere radar kontrollü iniş yaklaşmasında kullanılır.
+Mode 3: Hem askerî hem de sivil havacılıkta uçakların konumlarının ATC'lere bildirilmesinde kullanılır.
+Mode 4: Dost-düşman tespitinde (IFF) kullanılan güvenli ve şifreli moddur.
+Mode C: Uçakların irtifâsını bildiren moddur.
+Güvenliksiz kodlar ATC tarafından verilir pilot tarafından manüel şekilde uçaktaki IFF cihazına girilir.",0,1,[1022],0,"IFF sisteminin en güvenli modu **Mode 4**'tür. 
+
+İşte nedenleri:
+
+* **Şifreleme:** Mode 4, diğer modlara kıyasla şifrelenmiş bir iletişim protokolü kullanır. Bu sayede düşman uçakların veya sistemlerin IFF sinyalinizi çalması veya sahte bir kimlik oluşturması zorlaşır.
+* **Dost-Düşman Tespiti:** Mode 4, asıl amacı olan dost-düşman tespiti için özel olarak tasarlanmıştır. 
+* **Güvenli Kimlik Doğrulama:** Mode 4, sadece yetkili istasyonlardan gelen kodları tanıyarak kimlik doğrulamasını sağlar. Bu sayede sahte IFF sinyallerinin tespit edilmesi kolaylaşır.
+
+Diğer modlarda ise güvenlik seviyesi daha düşüktür. Örneğin, Mode 1 ve 2 güvenliksiz kodlar kullanırken, Mode 3 sadece uçak konumlarını bildirir ancak kimlik doğrulamasını sağlamaz. Mode C ise sadece irtifa bilgisini iletir ve güvenlik açısından özel bir öneme sahip değildir.
+
+
+
+Sonuç olarak, IFF",25.1,0.5,0.6316967677870489,0.8756208840854022
+20,20,c824c657-336e-4174-9aa1-675fa1af91ad,Fritz Dietrich hangi savaş suçlarından dolayı asıldı?,Metinde Fritz Dietrich'in hangi spesifik savaş suçlarından dolayı yargılandığı ve idam edildiği hakkında bilgi verilmemiştir.,"Fritz Dietrich (6 Ağustos 1898 – 22 Ekim 1948) bir Alman SS subayı ve Nazi Partisi üyesiydi . Kimya ve fizik doktorası yaptı. Adı Emil Diedrich olarak da geçmektedir.  II. Dünya Savaşı sonrasında, savaş suçlarından dolayı asıldı.
+",0,1,[230],0,"Fritz Dietrich, özellikle **Auschwitz toplama kampında işlenen savaş suçlarından** dolayı asıldı. 
+
+Özellikle, kampta işkence ve katliamların düzenlenmesinde aktif rol oynadığı ve Yahudi mahkumlarının ölümüne sebep olan eylemlerden sorumlu tutuldu. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+.
+..
+..
+..
+..
+..
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.",25.0,0.0,0.22146279522142637,0.867483325905134
+21,21,c8e031fd-7890-40a1-a639-155eb4ff6ee5,Windows MultiPoint Server 2012'den sonra MultiPoint teknolojisi nasıl devam etti?,"Windows MultiPoint Server 2012, bağımsız bir ürün olarak son sürüm oldu. Ardından Windows Server 2016 ile birlikte MultiPoint Hizmetleri adı altında Windows Server'a entegre edildi.","Windows MultiPoint Server, aynı anda birden çok bağımsız bilgisayar istasyonları veya tek bir bilgisayara bağlı terminalleri barındırmak için Uzak Masaüstü Hizmetleri (Remote Desktop Services) teknolojisini kullanarak Microsoft Windows Server dayalı bir işletim sistemidir. Windows MultiPoint Server 2012, bağımsız bir SKU olarak son sürümdür ve Windows Server 2016-da MultiPoint Hizmetleri tarafından yerini aldı.
+",0,1,[415],0,"Windows MultiPoint Server 2012'den sonra MultiPoint teknolojisi, Windows Server 2016 ile birlikte MultiPoint Hizmetleri adıyla entegre edildi. Ancak, bu entegre versiyon bağımsız bir ürün olmaktan çıktı.
+
+Yani, MultiPoint artık ayrı bir SKU olarak sunulmuyor. Bunun yerine, Windows Server 2016 ve sonrasında gelen sürümlerde bulunan Remote Desktop Services'in bir parçası haline geldi.
+
+Bu değişiklik sonucunda, MultiPoint teknolojisine erişmek için artık Windows Server lisansına sahip olmak gerekiyor. Ayrıca, MultiPoint Hizmetleri, Remote Desktop Services ile birlikte gelen diğer özelliklerden yararlanıyor.
+
+Ancak, MultiPoint Hizmetleri'nin sunmuş olduğu temel özellikler değişmedi. Hala birden çok kullanıcıya aynı anda erişim sağlamak, her kullanıcı için bağımsız bir masaüstü deneyimi sunmak ve maliyetleri düşürmek amacıyla kullanılabilmektedir.
+
+
+Özetle, Windows MultiPoint Server 2012'den sonra MultiPoint teknolojisi, Windows Server'ın bir parçası haline geldi ve bağımsız bir ürün olmaktan çıktı.
+",25.0,0.6363636363636364,0.35488200915019,0.9036820036584546
+22,22,b4b50866-1b02-4fea-88f0-a287839572a2,Ming Xiaoling Mozolesi'nin inşası neden Zhu Yuanzhang hayattayken başlamıştır?,"Ming Xiaoling Mozolesi'nin inşasına Zhu Yuanzhang henüz hayattayken, 1381 yılında başlanmıştır. Bu durum, imparatorun ölümünden sonra yapılacak törenlerin ve hazırlıkların karmaşıklığını önlemek ve mezarının ihtişamlı bir şekilde inşa edilmesini sağlamak amacıyla gerçekleştirilmiştir.","Ming Xiaoling Mozolesi (Çince: 明孝陵; pinyin: Míng Xiào Líng), Ming hanedanının kurucusu Zhu Yuanzhang'ın mezarıdır. Çin'in, Nankin şehrinin tarihi merkezinin doğusunda bulunan Mor Dağı'nın güney ucunda yer alır. Efsaneye göre, mezarın soyulmasını önlemek için, 13 eş cenaze birliği gerçek gömü alanını gizlemek için 13 farklı yerde defin işlemi gerçekleştirmiştir.
+Mozolenin inşası, Zhu Yuanzhang halen hayatta iken, 1381'de başladı ve 1405 yılında, oğlu Yonglo döneminde 100.000 işçinin çalışması sonucunda tamamlandı. Türbenin orijinal duvarı 22.5 kilometreden uzun idi. Türbe 5.000 askerin ağır gözetiminde inşa edildi.
+",0,1,[622],0,"Metinde verilen bilgilere göre, Ming Xiaoling Mozolesi'nin inşasının Zhu Yuanzhang hayattayken başlamasının nedeni mezarın soyulmasını önlemek için alınan önlemlerle ilgilidir.
+
+Efsaneye göre, mezarın soyulmasını önlemek için 13 eş cenaze birliği gerçek gömü alanını gizlemek amacıyla 13 farklı yerde defin işlemi gerçekleştirmiştir. 
+
+Bu efsanenin doğruluğu tartışmalı olsa da, metinde belirtildiği gibi, Zhu Yuanzhang mezarının inşasına başlamasının nedeni olası soygunlara karşı alınan önlemler olabilir. 
+",25.1,0.5,0.41807465609620587,0.0
+23,23,88485492-24d6-4817-9eac-3824f928b387,De re coquinaria'nın yazarı hakkında kesin bir bilgi var mı?,"Hayır, De re coquinaria'nın yazarı hakkında kesin bir bilgi yok. En yaygın görüş Marcus Gavius Apicius veya Caelius Apicius olduğunu öne sürüyor ancak net bir kanıt bulunmuyor.","De re coquinaria, (Türkçe: Yemek bahsi hakkında) iddialar doğrultusunda Roma İmparatoru Tiberius döneminde yazıldığı öne sürülen, günümüze kadar gelebilmiş yemek tarifleri derlemesidir.
+Milattan önce 1. yüzyılda ortaya çıkmış bu derlemenin adı Türkçeye ""yemek bahsi hakkında"" veya ""yemek sanatı"" şeklinde tercüme edilebilir. Yazarının ismiyle birlikte anıldığından kısaca Apicius olarak da bilinir. Bir görüşe göre yazarı Marcus Gavius Apicius'tur. Bu kişi zengin bir Romalı tüccar olması yanında ince zevkleri olan, lüks ve şatafata düşkün bir gurmedir. Bir diğer iddia ise yazarının Caelius Apicius adında olduğunu öne sürmektedir. En önemli ispatları ise en eski nüshaların başlangıcında bulunan ""API CAE"" ifadesidir.
+",0,1,[721],0,"Metinde de belirtildiği gibi, De re coquinaria'nın yazarı hakkında kesin bir bilgi bulunmamaktadır. 
+
+Yazarın isminin Apicius olduğu bilinmektedir ancak hangi Apicius'un olduğu konusunda iki ana görüş bulunmaktadır:
+
+1. **Marcus Gavius Apicius:** Bu görüşe göre yazar zengin bir Romalı tüccar ve gurme olan Marcus Gavius Apicius'tur. Ancak bu iddiayı destekleyen doğrudan bir kanıt bulunmamaktadır.
+
+2. **Caelius Apicius:** En eski nüshaların başlangıcında bulunan ""API CAE"" ifadesi, yazarın Caelius Apicius olduğunu düşündürmektedir. Ancak bu ifade tek başına yeterli bir kanıt olmamaktadır.
+
+Sonuç olarak, De re coquinaria'nın yazarı hakkında kesin bir bilgiye sahip değiliz. Hem Marcus Gavius Apicius hem de Caelius Apicius adları yazarlıkla ilişkilendirilmektedir ancak hangisinin gerçek yazar olduğu hala tartışılmaktadır. 
+",25.1,0.9090909090909091,0.5183926712572944,0.0
+24,24,0ae8eec8-6f87-470a-80b3-12029b2a9af5,Kanonik sözcüğü hangi alanlarda kullanılır? Örnek verebilir misiniz?,"Kanonik sözcüğü teolojiden matematiğe kadar çok geniş bir yelpazede kullanılır. Örneğin, teolojide Kutsal Kitap'ın kanonik kitapları, matematiksel problemlerde ise çözümün kanonik formu gibi.","Kanonik sözcüğü, Yunanca kanon (kanun, kural) kökünden türemiş bir sıfat. ""genel olarak kabul edilen"" veya ""otoritelerce doğrulanmış"" anlamlarında kullanılır. Teolojiden matematiğe kadar çok geniş bir kullanım alanı vardır.",0,1,[223],0,"Doğru, ""kanonik"" sözcüğü Yunanca kökenli olup, genel olarak kabul edilen veya otoritelerce doğrulanmış anlamında kullanılır. 
+
+İşte bazı alanlardaki kullanım örnekleri:
+
+**Teoloji:**
+
+* **Kanonik kitaplar:** Hristiyanlığın kutsal kitapları olan İncil'in kanonik kitapları, yani genel kabul görmüş kitapları ifade eder.
+* **Kanonik yorum:** Bir dini metnin kanonik yorumu, o metne dair kabul görmüş ve otoriteler tarafından onaylanmış yorumu ifade eder.
+
+**Hukuk:**
+
+* **Kanonik hukuk:** Kilise hukukunun eski adıyla, Katolik Kilisesi'nin kendi iç düzenini düzenleyen hukuk sistemidir.
+* **Kanonik yargı:** Kanonik hukukun uygulanması konusunda yetkili olan yargı kuruluşlarıdır.
+
+**Edebiyat:**
+
+* **Kanonik eserler:** Edebiyat tarihinde önemli kabul görmüş ve genel olarak okunan eserlerdir. Örneğin, Batı edebiyatında kanonik eserler arasında Homer'in İlyada ve Odysse",24.9,0.25,0.8494926292129443,0.8163650077203056
+25,25,bca05bdf-4cff-41c7-a17d-b1c6204c3b5f,Aksa Akrilik Kimya Sanayii A.Ş.'nin çevreyle ilgili geçmişi hakkında daha fazla bilgi verebilir misiniz?,"Metinde, Aksa'nın 2005 yılında İstanbul Sanayi Odası tarafından Çevre Ödülü'ne layık görülmesine rağmen, şirketin geçmişte büyük bir çevre felaketiyle ilgili tartışmalı olaylar yaşadığı belirtiliyor. Ancak metin bu olaylara dair ayrıntılı bilgi vermiyor.","Aksa Akrilik Kimya Sanayii A.Ş., Akkök Holding'e bağlı, 1968 yılında kurulan iplik eğirme ve dokumasız kumaşlar için karbon elyaf, doğal beyaz ve solüsyon boyalı akrilik elyaf üreten bir Türk şirketidir. Dow Chemical ile birlikte karbon elyaf üretmek amacıyla 2012 yılında DowAksa ortak girişimi kuruldu. Aksa, Borsa İstanbul'da işlem görüyor.
+Şirket, İstanbul Sanayi Odası (İSO) tarafından 2005 yılı Çevre Ödülü'ne layık görüldü. Bu, şirketin büyük bir çevre felaketiyle ilgili tartışmalı geçmişi nedeniyle bazıları tarafından ironik olarak değerlendirildi.",0,1,[558],0,"Aksa Akrilik Kimya Sanayii A.Ş.'nin çevre ile ilgili geçmişi hakkında daha fazla bilgi vermek için elimden geleni yapacağım ancak dikkat çekmek istediğim nokta, kaynakların sınırlı olması nedeniyle objektif bir değerlendirme yapmakta zorlanmam.
+
+Şirketin 2005 yılında İstanbul Sanayi Odası (İSO) tarafından Çevre Ödülü'ne layık görülmesi, çevreye duyarlı olduğunu gösterse de, aynı zamanda şirketin geçmişte çevresel sorunlara karıştığı iddiaları nedeniyle bazıları tarafından ironik olarak yorumlandı.
+
+Özellikle şirketin kuruluş yıllarında ve sonrasında çevre kirliliği ile ilgili şikayetler alındığı bilinmektedir. Ancak bu iddiaların detayları ve şirketin bu konudaki önlemleri hakkında net bilgi edinmek için daha fazla araştırmaya ihtiyaç vardır.
+
+Şirketin 2012 yılında Dow Chemical ile birlikte DowAksa ortak girişimi kurması, karbon elyaf üretimi alanında çevre dostu teknolojilere yatırım yaptığını gösteriyor olabilir. Ancak bu ortaklığın şirketin geçmişteki çevresel sorunlarını gidermek için ne",25.0,0.45454545454545453,0.34285514092389624,0.0
+26,26,fda82bac-1fec-4cd8-8060-0c9b0d8eac15,Havana Club'ın ABD dışında satılmaya başlanmasıyla ilgili önemli bir olay nedir?,"Havana Club, Küba Devrimi'nden sonra kamulaştırıldıktan sonra 1993 yılında Fransız Pernod Ricard ve Küba hükümeti tarafından kurulan Corporación Cuba Ron adlı ortak girişim ile ABD dışında dünyaya ihraç edilmeye başlanmıştır.","Havana Club, Kübalı bir rom markasıdır. İlk olarak 1934 yılında José Arechabala S.A. tarafından üretilmeye başlanmıştır.
+Havana Club, Küba Devrimi'nden sonra kamulaştırıldı. 1993 yılında, Fransız Pernod Ricard ve Küba hükûmeti tarafından kurulan Corporación Cuba Ron adında bir ortak girişim ile ABD dışında dünyaya ihraç edilmeye başlandı. Pernod Ricard tarafından pazarlanan Havana Club, 2012-2013'te satılan yaklaşık 4 milyon kasayla dünyanın beşinci büyük rom markasıdır ve 120'den fazla ülkede satılmaktadır.
+Diğer bir Küba kökenli bir damıtımcı olan Bacardi, orijinal Arechabala Havana Club tarifini satın aldıktan sonra, 1994 yılında Porto Riko'da üretilen ve Amerika Birleşik Devletleri'nde satılan rakip bir ürün olan Havana Club Rum'u üretmeye başladı.
+",0,1,[763],0,"Havana Club'ın ABD dışında satılmaya başlanmasıyla ilgili önemli olay, **1993 yılında Fransız Pernod Ricard ve Küba hükümeti tarafından kurulan Corporación Cuba Ron ortak girişiminin kurulmasıdır.** 
+
+Bu ortak girişim sayesinde Havana Club, ABD dışında dünyaya ihraç edilmeye başlandı ve bugün dünya çapında tanınan bir marka haline geldi. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+.
+
+.
+
+.
+.
+.
+.
+
+
+
+
+
+.
+.
+.
+
+
+
+
+.
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+",25.0,1.0,0.7391658749245653,0.8904807257649371
+27,27,5dfda1ab-3fe4-4e06-aebd-16d37abfe839,Su analizinin farklı amaçları nelerdir ve bu amaçlar için hangi parametreler incelenir?,"Su analizi, suyun kalitesini değerlendirmek için çeşitli amaçlarla kullanılır. Çevresel su kalitesi analizinde, bir su kütlesinin ekosistemi destekleme yeteneği incelenir. Atık su analizinde ise kirli suyun özellikleri belirlenir. Ham su kalitesi analizinde, içme suyu olarak kullanılmadan önceki suyun özellikleri değerlendirilir. Hazır su kalitesi analizinde ise arıtılmış suyun güvenilirliği kontrol edilir. Son olarak, endüstriyel kullanımlar için yapılan su analizlerinde, suyun laboratuvar, imalat veya soğutma gibi amaçlar için uygunluğu araştırılır.","Su analizi, su kalitesini analiz etmek için kullanılan çeşitli prosedürlerin geniş bir tanımıdır. Mevzuat gerekliliklerini yerine getirmek ve su güvenliğini korumak için her gün milyonlarca su kalitesi testi yapılmaktadır.
+Aşağıdaki parametreleri değerlendirmek için su analizi yapılabilir:
+
+ortamın veya çevresel su kalitesi - bir yüzey suyu kütlesinin bir ekosistem olarak su yaşamını destekleme yeteneği. Bkz. Çevresel izleme, Tatlı su çevre kalite parametreleri ve Biyoendikatör.
+atık su – arıtmadan önce veya arıtmadan sonra kirli suyun (evsel atık su veya endüstriyel atık) özellikleri. Bkz. Çevre kimyası ve Atık su kalite göstergeleri.
+""ham su"" kalitesi – bir su kaynağının evsel tüketim (içme suyu) için arıtılmadan önceki özellikleri. Bkz. Mikrobiyolojik su analizi, bulanıklık ve sert su gibi spesifik testler.
+""hazır"" su kalitesi - bir belediyenin su arıtma tesisinde arıtılmış su. Bkz. Mikrobiyolojik su analizi ve Su kalitesi göstergeleri.
+suyun laboratuvar, imalat veya su soğutma gibi endüstriyel kullanımlar için uygunluğu. Bkz. Arıtılmış su.
+",0,1,[1060],0,"Su analizi oldukça kapsamlı bir alandır ve farklı amaçlara hizmet eder. İşte bazı temel amaçlar ve her amaç için incelenen parametreler:
+
+**1. Ortam/Çevresel Su Kalitesi Analizi:**
+
+* **Amaç:** Bir yüzey su kütlesinin ekosistem olarak su yaşamını destekleme yeteneğini değerlendirmek.
+* **İncelenen Parametreler:**
+    * **Kimyasal Parametreler:** Oksijen ihtiyacı (BOD, COD), pH, çözünmüş oksijen, azot ve fosfor seviyeleri, ağır metaller, organik kirleticiler
+    * **Biyolojik Parametreler:** Biyoçeşitlilik, mikrobiyal sayılar, biyoindikatörler (algal türleri, böcek larvaları)
+    * **Fiziksel Parametreler:** Sıcaklık, şeffaflık, bulanıklık, elektrik iletkenliği
+
+**2. Atık Su Analizi:**
+
+* **Amaç:** Arıtmadan önce veya arıtmadan sonra kirli suyun (evsel veya endüstriyel) özelliklerini belirlemek ve atık su arıtma süreç",25.0,0.5714285714285714,0.7957089517587216,0.8367825403270995
+28,28,57f32900-0423-471d-bbfd-0d50e5a17dee,Muson ikliminin etkileri nelerdir?,"Muson iklimi, bol yağışlı bir iklim tipidir ve bu da sık sık sel felaketlerine yol açabilir. Ayrıca, muson yağmurları şiddetli olabileceğinden, özellikle karaya vurdukları sahil kesimlerinde ciddi sel baskınlarına ve dev dalgalara sebep olabilirler. Ancak, muson yağmurları aynı zamanda tarım için de hayati önem taşır ve bölgenin zengin biyoçeşitliliğinin korunmasına yardımcı olur.","Muson iklimi, tropikal iklim özellikleri taşıyan Güney, Güneydoğu ve Doğu Asya’da etkilidir. Görkemli yağmur bulutları, aralıksız yağış ve güçlü rüzgârları başta gelen özelliğidir. En yağışlı iklim tipidir dolayısı ile sık  sık sel felaketi görünür.
+Buralarda Yaz mevsimleri ılık ve yağışlı, kışlar kuru ve soğuk geçer. Bu yönüyle savan iklimi ile benzerlik gösterir. Sıcaklık ortalaması bütün yıl 10 °C nin üstündedir. Yıllık sıcaklık farkı daha kuzeyde yer aldığından Savan iklimine göre fazladır.
+Yıllık yağış miktarı 1000-1500 milimetre civarındadır. Ancak kıyı kesimlerde bu yağış miktarı çok daha fazla olabilmektedir. Dünyanın en fazla yağış alan yeri, Hindistan’ın kuzey doğusunda yer alan Assam bölgesindeki Çerapunçi'dir. Yıllık 12000 mm yağış alabilmektedir.
+Hindistan'da su ve nehirler kutsal sayılır, her sene Muson mevsiminde nehirlerde törenler yapılır. Ganj nehri, bu törenlerin merkezini oluşturur.
+Bitki örtüsü kışın yaprağını döken geniş yapraklı muson ormanlarıdır. Muson ormanlarının tipik ağacı ise tik ağacıdır.
+Muson, yaz ve kış aylarında farklı davranışlar göstermektedir. Hint yarımadasının Asya kıtasını sıkıştırması ile yükselen Himalaya Dağları, Hint Okyanusundan gelen nemli ve göreceli olarak soğuk ya da sıcak olan havanın tüm yağışını aynı periyotlarla Hint anakarası üzerinde bırakmasına yol açmaktadır.
+Amerika'nın Las Vegas kentini de kapsayan kesiminde, Asya musonuna göre sakin kalmakla birlikte Amerika kıtasına ait Muson sistemi bulunmaktadır. Yaz Musonları, üç aylık bir dönemde etkili olur. Soğuk olan Hint Okyanusundan anakaraya doğru esen nemli rüzgâr, alçak basınç alanı oluşturarak bol miktarda yağış bırakır.
+Kış aylarında ise karadan denize doğru serin ve kuru eser.
+Nisan-Eylül ayları arasında Güney Asya'da kara sıcaklığı ortalaması 45 derece iken, denizlerde sıcaklık 25 derece olur. Muson yağmurları şiddetli olabileceğinden, özellikle karaya vurdukları sahil kesimlerinde ciddi sel baskınlarına ve dev dalgalara sebep olurlar.
+",0,1,[1980],0,"Muson ikliminin etkileri oldukça çeşitlidir:
+
+**Olumlu Etkiler:**
+
+* **Verimli Tarım:** Yüksek yağış miktarı, özellikle Güney ve Güneydoğu Asya'da tarım için elverişli bir ortam sağlar. Bu bölgelere pirinç, şeker kamışı gibi tropikal ürünlerin yetiştirilmesi olanağı sağlar.
+* **Su Kaynakları:** Muson yağmurları, nehirleri besleyerek su kaynaklarını doldurur. Bu, içme suyu ihtiyacını karşılamak ve sulama amacıyla kullanılmak üzere su depolar oluşturmak için önemlidir.
+
+**Olumsuz Etkiler:**
+
+* **Sel Felaketleri:** Aşırı yağışlar, özellikle kıyı bölgelerinde sel felaketlerine neden olabilir. Bu sel felaketleri, yaşam kaybına, evlerin tahrip olmasına ve tarım alanlarının zarar görmesine yol açabilir.
+* **Sağlık Sorunları:** Yağışlı hava koşulları, sıtma, dizanteri gibi hastalıkların yayılmasına zemin hazırlayabilir.
+* **Ekonomik Kayıplar:**",25.3,1.0,0.7951199678491154,0.8523314297796212
+29,29,a6465e69-531f-45cd-801d-53d6112ac003,"GE'nin faaliyet alanları bu kadar genişken, hangi alanda en başarılı olduğunu söyleyebiliriz?","Metinde GE'nin hangi alanda en başarılı olduğu net bir şekilde belirtilmemiş. Ancak, Financial Times tarafından 6 yıl üst üste dünyanın en saygın şirketi seçilmesi, şirketin genel olarak çok başarılı olduğunu gösteriyor.","General Electric, 1876 yılında Thomas Edison tarafından kurulan, bir dönem Amerika'nın elektrik dağıtımını tekelinde tutan şirkettir. Elektronik ve bankacılık sektörlerinde faaliyet göstermektedir.
+Jet motorlarından enerji üretimine, finansal hizmetlerden su ve proses teknolojilerine, medikal görüntülemeden medyaya, tıbbi cihaz sektöründen nükleer silah başlığı için parça üretmeye kadar birçok alanda faaliyet göstermektedir.
+Financial Times tarafından 1999, 2000, 2001, 2002, 2003, 2004 yıllarında dünyanın en saygın şirketi olarak seçilmiştir. Ayrıca çalışan anneler için en iyi 100 şirket içerisindedir.
+Sloganı; ""En önemli ürünümüz ilerlemektir.""
+GE, Nükleer silah başlığı programını 1990 yılları başındaki protestolar nedeniyle kapatmıştır.
+",0,1,[749],0,"GE'nin faaliyet alanları gerçekten çok geniş. Ancak, onların en başarılı olduğu alan olarak **enerji üretimi** ve **sağlık sektörü**'nü söyleyebiliriz.
+
+İşte nedenleri:
+
+* **Enerji Üretimi:** GE, jet motorları, rüzgar enerjisi türbinleri ve enerji santralleri gibi alanlarda lider konumdadır. Özellikle gaz türbinleri teknolojisinde dünya çapında tanınır.
+* **Sağlık Sektörü:** GE Healthcare, tıbbi görüntüleme cihazları, teşhis araçları ve tedavi çözümleri konusunda dünya liderlerinden biridir. MR cihazları, bilgisayarlı tomografi cihazları ve ultrason cihazları gibi ürünler ile sağlık sektöründe önemli bir paya sahiptir.
+
+Financial Times tarafından dünyanın en saygın şirketi olarak seçilmesi de GE'nin genel başarısını gösteriyor. Ancak, enerji üretimi ve sağlık sektöründe elde ettiği lider konum, onların en başarılı olduğu alanları işaret ediyor. 
+
+
+Umarım bu cevap yardımcı olmuştur.
+",25.0,0.25,0.38853044155051125,0.9146329290446089
+30,30,df82ba15-81c2-442e-b9ef-e9179ce54947,Veri soyutlaması ile kontrol soyutlamasının farkı nedir ve bu kavramlar neden önemlidir?,"Veri soyutlaması, veri yapıları üzerinde yapılan soyutlamadır ve nesnenin iç durumunu (örneğin 'yas' değişkeni) korumayı amaçlar. Kontrol soyutlaması ise yöntemler veya işlevler üzerinde yapılır ve bu yöntemlerin dışarıdan müdahale edilmesini engeller. Her iki kavram da kodun okunabilirliğini, sürdürülebilirliğini ve güvenilirliğini artırır çünkü karmaşık detayları gizleyerek daha basit bir arayüz sunarlar.","Bilgisayar bilimlerinde soyutlama, daha çok nesne yönelimli programlama ile ön plana çıkar. Nesne tanımlanırken verinin kulanılması veya veriye erişilmesi için gerekli detayların azaltılması işlemidir.
+Soyutlama kabaca veri (İngilizce: data) ve kontrol (İngilizce: control) soyutlaması olarak yapılır. Veri soyutlaması, veri yapıları üzerinde yapılan soyutlamadır. Kontrol soyutlaması ise yapısal programlama ile gelen altprogram (İngilizce: subprogram), işlev (İngilizce: function) gibi kavramlar üzerinde yapılan soyutlamadır.
+Örnek olarak bir ""kişi"" nesnesinde, kişinin yaşını tutan bir tam sayı değişkeni olan ""yas"" değişkenini ele alalım. Bu ""yas"" değişkenine, programın çalıştırma anında, ""-10"" gibi bir değer atanmasını kimse engelleyemez. İşte burada nesne yönelimli programlamanın getirdiği görünürlük (İngilizce: visibility) ve özellik (İngilizce: property) tanımlama gibi yetenekler kullanarak ""yas"" değerine gerçek bir değerin girilmesi garanti edilebilir. İşte buna veri soyutlaması adı verilir.
+Benzer şekilde soyutlama işleminin verileri taşıyan değişkenlerin değil de yöntem (İngilizce: method) veya işlevlerin üzerinde yapılması işlemine kontrol soyutlaması adı verilir. Yani yöntem ile yapılan işlemlerin bir başka nesne tarafından müdahale edilemeyecek hale sokulması işlemidir.
+",0,1,[1298],0,"Metinde güzel bir şekilde açıklanmış ancak biraz daha detaylandırmak gerekirse:
+
+**Veri Soyutlaması:**
+
+* Veri soyutlaması, bir nesnenin veri üyelerine (örneğin, değişkenler) erişimi sınırlayarak, dış dünyadan bu verilerin doğrudan değiştirilmesini engellemeyi amaçlar.
+* Örnek olarak, ""kişi"" nesnesinde ""yas"" değişkenine sadece belirli yöntemler aracılığıyla erişilebilir hale getirmek veri soyutlamasıdır. Böylece, dışarıdan ""yas"" değişkenine -10 gibi hatalı bir değer atanmasını önleriz.
+
+**Kontrol Soyutlaması:**
+
+* Kontrol soyutlaması, bir nesnenin davranışlarını (yöntemleri veya işlevleri) gizleyerek, dış dünyanın bu davranışları nasıl uyguladığını görmezden gelmesini sağlar.
+* Örnek olarak, ""kişi"" nesnesinde ""yas"" değerini güncellemek için özel bir yöntem olan ""yasıGüncelle()"" tanımlamak kontrol soyutlamasına örnektir. Dış dünyadan bu yöntemi kullanarak ""yas"" değerini değiştirebilir",25.0,0.5,0.41265491614849575,0.7773744493072346
+31,31,a76e7494-6299-4129-a12a-488f234833c5,VCL'nin popülerliğinin azalmasında hangi faktörler etkili olmuştur?,"VCL'nin popülaritesinde düşüşe neden olan etkenlerden biri, Borland'ın geliştirdiği CLX kütüphanesinin VCL kadar popüler olmamasıdır. Ayrıca, C#, Java ve Python gibi yeni programlama dillerinin yükselişi de VCL'nin popülaritesini etkilemiştir.","VCL (Visual Component Library ya da Görsel Bileşen Kütüphanesi), Delphi, C++ Builder ve Kylix yazılım geliştirme ortamlarında kullanılmak üzere Borland tarafından Object Pascal kullanılarak geliştirilmiş bileşen tabanlı bir yazılım kütüphanesidir.
+Borland ürünlerinin genelinde yoğun olarak kullanılır. Popüler olma nedenlerinden birisi de Borland'ın hızlı uygulama geliştirme (RAD) ortamları içerisinde gelmesidir. Borland, gelişen süreci de göz önüne alarak GNU/Linux ve diğer işletim sistemlerinde de kullanılmak üzere VCL'den türetilerek geliştirilen CLX (Component Library for Cross Platform) kütüphanesini geliştirmiştir. Fakat bu VCL kadar popüler olmamıştır. Elbette, diğer tarafta gelişen C#, Java, Python gibi dillerin bu popülarite kaybında büyük etkisi olmuştur.
+",0,1,[775],0,"VCL'nin popülerliğinin azalmasında etkili olan faktörler şunlardır:
+
+**1. Rekabetin Artması:**
+
+* **C#, Java, Python gibi dillerin yükselişi:**  Bu dillerin geniş toplulukları, zengin kütüphane ekosistemleri ve çapraz platform uyumluluğu nedeniyle VCL gibi bileşen tabanlı kütüphanelere olan talebi azalttı.
+
+**2. Borland'ın Yönetim Değişiklikleri:**
+
+* **Borland'ın satın alınması:**  2008 yılında Embarcadero tarafından satın alınması sonrasında, VCL'ye yapılan yatırımlar azaldı.
+* **Odak noktanın değişmesi:** Embarcadero, Delphi ve C++ Builder'ın geleceğini şekillendirmek için daha çok FireMonkey (FMX) arayüz kütüphanesine odaklandı.
+
+**3. VCL'nin Sınırlamaları:**
+
+* **Çapraz platform uyumluluğu eksikliği:**  CLX kütüphanesi olmasına rağmen, VCL'nin çapraz platform uyumluluğu sınırlıydı.
+* **Modern teknolojil",24.9,0.5,0.3383003507677923,0.8773083435283278
+32,32,cf7b21e9-a8be-4e0e-bc07-fa4d2a5ecbe8,Usturlabın İslam dünyasında kullanımı hakkında bilgi verir misiniz?,"Usturlap, İslam dünyasında astronomi ölçümlerinin yanı sıra yerel saatin ve namaz vakitlerinin hesaplanmasında da kullanılıyordu. 9. yüzyılda Harran'daki üniversitede usturlab hakkında çeşitli eserler yazılmış ve Ali bin İsa gibi alimler tarafından bu konuda önemli çalışmalar yapılmıştır. Ayrıca, Selçuklu Sultanı Mesûd döneminde Ebu'l Kasım Hibetullah usturlabın gelişimine büyük katkılarda bulunmuştur.","Usturlap (Yunanca: ἁστρολάβον, astrolabon, 'yıldız-yakalar'), astronomi ölçümlerinde kullanılmış tarihi bir ölçüm cihazıdır. Kullanım alanları arasında Güneş, Ay, gezegen ve yıldızın konumlarını belirlemek yer alır. Ayrıca yerel saatin ve İslam dininde namaz vakitleri usturlap sayesinde hesaplanıyordu. Bazı matematik problemlerinin çözümlenmesinde de usturlap kullanılırdı.
+İlk olarak Apollonios (MÖ 240) ve Hipparkos (MÖ 150) tarafından keşfedildiği, Batlamyus tarafından kullanıldığı ve Philoponos'un(en) altıncı yüzyılın ilk yarısında bu aletten bahsettiği batılı kaynaklarda bildirilmektedir. 9. yüzyılda Harran'daki büyük üniversitede Abbasi halifelerinin ilim ve kültür verdikleri önem neticesinde usturlap hakkında çeşitli eserlerin yazıldığı bilinmektedir. Bu konuda yazılan en eski kitap, 829-830 senesinde Bağdat'ta ve 833 senesinde Şam'da çalışan Ali bin İsa'ya aittir. Başka bir rivayete göre de usturlabı ilk keşfeden kişi Selçuklu Sultanı Mesûd tarafından Bağdat Rasathanesi'ne memur olarak görevlendirilen ve Bedî' ul Usturlabi şöhretiyle tanınan Ebu'l Kasım Hibetullah'tır. Sultan Mesûd namına hazırladığı Ziyc'leri 1130'da tamamlamıştır. Ondan yaklaşık İkiyüz yıl sonra astronomi alimlerinden Muhammed bin İbrahim, usturlab ve rubû tekniğini en yüksek seviyeye çıkarmış, usturlabları 10 ve rubûları 2 Dinara satmıştı. O, bu tekniğe dair ""Keşf ur-reyb fî amel il-ceyb"" adıyla bir eser de yazmıştır.
+Bu konu hakkında kitap yazan diğer alimler Biruni, Nasirüddin Tusi ve Habeşül Hasib'dir.
+
+Biruni gibi alimler yıldızların yerini bir çark ile belirleyen mekanik usturlaplar da geliştirmişlerdir. Bunlar Şamin ve Ez-Zerkali tarafından geliştirilmiş ve mekanik saatin temeli ortaya çıkmıştır. 12. yüzyılda Şerafeddin el-Tusî usturlaba yeni bir şekil vererek baston şeklinde bir usturlap geliştirmiştir. 1365'te Fransa'da doğan Jean Fusoris da Avrupa kıtasındaki ilk usturlabı yapmıştır. 17. yüzyıla kadar Avrupa'da yoğun olarak kullanılan usturlap, 18. yüzyıldan sonra yavaş yavaş önemini kaybetmiş, doğu ülkelerindeyse kullanımı 20. yüzyıla kadar sürmüştür.",0,1,[2072],0,"Metinde zaten İslam dünyasında usturlabın kullanımına dair oldukça detaylı bilgiler bulunuyor. 
+
+Özetle, İslam dünyasında usturlab 9. yüzyıldan itibaren yaygın bir şekilde kullanılmaya başlandı. 
+
+İşte metinde geçen önemli noktalar:
+
+* **Abbasi Halifelerinin Desteği:** 9. yüzyılda Harran'daki büyük üniversitede ilim ve kültür verilen önem sayesinde usturlab hakkında çeşitli eserler yazıldı.
+* **Ali bin İsa ve Ebu'l Kasım Hibetullah:** Usturlab hakkında yazılan en eski eserlere sahip olan alimler arasında Ali bin İsa ve Ebu'l Kasım Hibetullah bulunuyor.
+* **Usturlabın Kullanım Alanları:** İslam dünyasında usturlap, Güneş, Ay, gezegen ve yıldızların konumlarını belirlemek, yerel saatin ve namaz vakitlerinin hesaplanmasında, ayrıca bazı matematik problemlerinin çözümünde kullanılıyordu.
+* **İleri Düzey Usturlapların Geliştirilmesi:** Biruni gibi alimler, yıldızların yerini bir çark ile belir",25.3,1.0,0.8156081121296705,0.963986416213428
+33,33,36bdc798-0ce4-4b7f-a28f-83a59fa2c8b8,Taylor teoremi neden önemlidir?,"Taylor teoremi, karmaşık fonksiyonları daha basit polinomlarla yaklaştırabilmemizi sağlar. Bu, fonksiyonların davranışlarını anlamamızı, hesaplamalar yapmamızı ve grafiklerini çizmemizi kolaylaştırır. Ayrıca, hata payını tahmin edebilmemizi sağlayarak yaklaşımın doğruluğu hakkında bilgi verir.","Kalkülüste Taylor teoremi, türevi tanımlı bir işleve bir nokta çevresinde, katsayıları yalnızca işlevin o noktadaki türevine bağlı olan polinomlar cinsinden bir yaklaştırma dizisi üreten bir sonuçtur. Teorem, yaklaştırma hesaplamalarındaki hata payına ilişkin kesin sonuçlar da verebilmektedir. Brook Taylor adlı matematikçinin 1712 yılında yaptığı çalışmalarından ötürü ismi bu şekilde anılan teoremin aslında bundan 41 yıl önce (1671 yılında) James Gregory tarafından bulunduğu bilinmektedir.
+Taylor teoremine göre k defa türevlenebilir bir fonksiyona, verilen bir noktada yakınsayan k derece polinoma Taylor polinomu denir. Birinci derece Taylor polinomu doğrusal yaklaşım (İngilizce: linear approximation) olarak, ikinci derece Taylor polinomuysa karesel yaklaşım (İngilizce: quadratic approximation) olarak da bilinir.
+",0,1,[824],0,"Taylor teoremi kalkülüste oldukça önemli bir yere sahiptir çünkü:
+
+1. **Fonksiyonları Yakınsak Polinomlarla Temsil Etmek:**
+
+Taylor teoremi, karmaşık fonksiyonları basitleştirilmiş polinomlarla temsil etmemizi sağlar. Bu, fonksiyonların değerlerini hesaplamak, grafiklerini çizmek ve fonksiyonların davranışını anlamak için pratik bir araç haline gelir. Özellikle, fonksiyonun türevlerinin bilinmesi durumunda, Taylor polinomu aracılığıyla fonksiyonun yaklaşık değerlerini hesaplamak çok kolaylaşır.
+
+2. **Hata Payını Belirlemek:**
+
+Taylor teoremi, yaklaştırma hesaplamalarında ortaya çıkabilecek hatayı sınırlamak için kesin sonuçlar verir. Bu, özellikle bilimsel hesaplamalarda veya mühendislik uygulamalarında önemlidir, çünkü hata payının kontrol altında tutulması gerekir.
+
+3. **Fonksiyonların Davranışını Anlamak:**
+
+Taylor polinomları, bir fonksiyonun belirli bir noktada ve çevresindeki davranışını anlamamıza yardımcı olur. Örneğin, birinci derece Taylor polinomu, fonksiyonun o noktada doğrusal yaklaşım",24.9,0.5,0.6354480123710835,0.8491716181868565
+34,34,570f34af-7ea2-4f16-9e35-5b1b69791c87,"Yazıda sadece avlanmak veya haşerelere karşı önlem amaçlı kapanlardan bahsediliyor. Peki, başka hangi amaçlarla kapanlar kullanılabilir?","Kapanlar, avlanma ve haşere kontrolü dışında bilimsel araştırmalarda da kullanılır. Örneğin, hayvanları yakalamak ve takip etmek için özel olarak tasarlanmış kapanlar vardır. Ayrıca, bazı bölgelerde nadir türlerin sayısını belirlemek veya popülasyonlarını izlemek için de kapanlar kullanılabilir.","Kapan, genel anlamıyla avlanmak veya haşerelere (örneğin fare kapanı) karşı önlem amaçlı kurulan düzeneklerdir.
+",0,1,[112],0,"Kapanların kullanımı avlanma ve haşere kontrolüne indirgenemez. İşte başka amaçlarla kullanılan kapan örnekleri:
+
+**1. Bilimsel Araştırma:**
+
+* **Hayvan gözlemi:** Kapanlar, hayvanların davranışlarını gözlemlemek veya beslenme alışkanlıklarını anlamak için kullanılabilir.
+* **Biyolojik çeşitlilik çalışmaları:** Kapanlar, belirli bölgelerdeki hayvan popülasyonlarını tespit etmek veya tür çeşitliliğini incelemek için kullanılabilir.
+
+**2. Endüstriyel Uygulamalar:**
+
+* **Yenilenebilir enerji:** Kapanlar, rüzgar türbinlerindeki kuş çarpışmalarını önlemek için kullanılabilir.
+* **İnşaat sektörü:** Kapanlar, inşaat alanlarında hayvanların girmesini önlemek veya malzemeleri korumak için kullanılabilir.
+
+**3. Eğlence ve Eğitim:**
+
+* **Oyuncak kapanlar:** Çocuklar için eğlence amaçlı tasarlanmış kapanlar, yaratıcılık ve problem çözme becerilerini geliştirmek için kullanılabilir.
+* **Eğitim amaçlı kapanlar:** Okullarda veya müzel",24.8,0.0,0.582276541819166,0.7843574012237662
+35,35,bb76b037-3ed9-481e-b228-3a768ed4d9f3,Bu oyun hangi ülkede geliştirildi ve yayınlandı?,Oyun Almanya'da ITE Media tarafından geliştirildi ve yayınlandı.,"Hugo and the Animals of the Ocean, ITE Media tarafından geliştirilen ve yayınlanan 2002 yapımı ""Play and Learn"" serisine ait bir eğitim video oyunudur. Almanya'da Hugo und das Geheimnis der Meere ve Türkiye'de Hugo Denizin Altında olarak da bilinmektedir. Oyunun Türkiye dağıtımı Hürriyet Gazetesi tarafından Hürriyet Game Club adı altında yapılmıştır.
+",0,1,[353],0,"Verdiğiniz bilgilere göre oyunun geliştirildiği ve yayınlandığı ülke Almanya'dır. 
+
+İçerisinde ""Hugo und das Geheimnis der Meere"" adının Almanca olduğunu görüyoruz. Ayrıca oyunun Türkiye'de yayınlandığını ancak orijinal olarak Almanya'da geliştirildiğini belirttiğiniz için cevabım Almanya'dır. 
+>>>>>>
+>
+>>>>>>>>>",24.8,1.0,0.783210766658301,0.9789503484783045
+36,36,66c864b3-4007-4538-b630-cadcdcfa983a,Kriptogram çözmek için hangi yöntemler kullanılabilir?,"Kriptogramlar genellikle basit ikame şifreleri kullanarak şifrelenir, bu nedenle çözümlemede sıklık analizi ve desen tanıma gibi teknikler kullanılabilir. Ayrıca, kriptogramda kullanılan dilin bilgisine ve olası anahtar kelimelerin bulunmasına da dayanabilir.","Bir kriptogram, kısa bir şifrelenmiş metin parçasından oluşan bir bulmaca türüdür. Genellikle metni şifrelemek için kullanılan şifre, kriptogramın elle çözülebileceği kadar basittir. Her harfin farklı bir harf veya sayı ile değiştirildiği ikame şifresi sıklıkla kullanılır. Bulmacayı çözmek için orijinal harfleri kurtarmak gerekir. Bir zamanlar daha ciddi uygulamalarda kullanılmış olsalar da, artık çoğunlukla gazete ve dergilerde eğlence amaçlı basılmaktadırlar.
+Diğer klasik şifre türleri bazen kriptogram oluşturmak için kullanılır. Buna bir örnek, bir mesajı şifrelemek için bir kitap veya makalenin kullanıldığı kitap şifresidir.
+",0,1,[637],0,"Kriptogram çözmek için kullanılabilir yöntemler şunlardır:
+
+**1. Frekans Analizi:**
+
+* İngilizce gibi düzenli dillerde, bazı harfler diğerlerinden daha sık görülür. Örneğin, 'e', 'a', 'o' gibi ünlüler en sık karşılaşılan harfler arasında yer alır.
+* Kriptogramdaki harflerin sıklık dağılımını inceleyerek, orijinal metinde sık görülen harfleri tahmin etmek mümkündür.
+
+**2. İkame Şifresi Çözme Teknikleri:**
+
+* **Alfabe Sıralaması:** Eğer kriptogramda kısa kelimeler varsa, alfabe sıralamasına göre harfleri yerleştirerek kelimeleri tahmin etmek mümkün olabilir.
+* **Bilinen Kelimeler:** Kriptogramda bilinen kelimeler varsa (örneğin, ""the"", ""and"", ""a"" gibi), bu kelimeler kullanılarak diğer harflerin yerleri tahmin edilebilir.
+* **Çift Harf Analizi:** İngilizce'de sık görülen çift harf kombinasyonlarını (örneğin, ""th"", ""he"", ""in"") arayarak, k",24.8,0.3333333333333333,0.531946138986582,0.8716813408106692
+37,37,9836a6aa-a8af-4910-be02-5ee7e3d38a22,Christian Wirth'ün Reinhard Operasyonu'ndaki görevi neydi ve bu operasyonun amacı neydi?,"Christian Wirth, Reinhard Operasyonu'nda Odilo Globocnik'in yardımcısıydı. Bu operasyonun amacı, işgal edilen Polonya'daki Yahudileri sistematik olarak katletmekti. Wirth, operasyonda T-4 programından esinlenerek engelli insanların zehirli gaz veya iğnelerle öldürülmesini içeren yöntemlerin geliştirilmesinde rol oynadı.","Christian Wirth (24 Kasım 1885 - 26 Mayıs 1944), üst düzey Alman polis ve SS subayı. Reinhard Operasyonu olarak bilinen operasyonda işgal edilen Polonya'daki Yahudilerin katledilmesinde görev yaptı.
+Reinhard Operasyonu'ndan sorumlu Odilo Globocnik'in yardımcısıydı. Bu operasyondaki görevi engelli insanların zehirli gazla veya zehirli iğneyle öldürülmesini içeren T-4 operasyonu'nu geliştirmekti.",0,1,[397],0,"Christian Wirth'ın Reinhard Operasyonu'ndaki görevi, Odilo Globocnik'in yardımcısı olarak, özellikle de işgal altındaki Polonya'da Yahudilerin sistematik katledilmesi için tasarlanan T-4 operasyonunu uygulamaktı. 
+
+T-4 operasyonu, engelli insanların zehirli gaz veya zehirli iğnelerle öldürülmesini içeriyordu. Wirth, bu operasyonu geliştirmede ve uygulanmasında merkezi bir rol oynadı. Ayrıca, ölüm kamplarının inşasında ve yönetiminde de görev aldı.
+
+Reinhard Operasyonu'nun amacı ise, Avrupa'daki Yahudilerin yok edilmesiydi. Bu operasyon kapsamında, milyonlarca Yahudi, özellikle de Polonya'da, ölüm kamplarında öldürüldü. 
+
+Wirth, bu korkunç operasyonlarda oynadığı rol nedeniyle, ""Ölüm Komutanı"" olarak anılmaktadır. 
+
+",24.9,0.42857142857142855,0.5424111386122833,0.8960332726626485
+38,38,47f82487-f89a-4872-ac61-6032318e8b33,At terbiyesinin amacı nedir?,"At terbiyesinin temel amacı, standardize edilmiş eğitim yöntemleri kullanarak bir atın doğal atletik yeteneğini ve gönüllülüğünü geliştirmek ve binek at potansiyelini en üst seviyeye çıkarmaktır.","At terbiyesi veya dresaj (Fransızca ""eğitmek, terbiye etmek""), olimpik bir spor dalıdır. At eğitiminin belli kurallar ve rekabet ortamı çerçevesinde geliştirildiği, amatör seviyeden olimpik seviyeye kadar turnuvaları düzenlenen popüler bir spordur. En önemli amacı; standardize edilmiş yoğun eğitim yöntemlerini, bir atın doğal atletik yeteneğini ve gönüllüğünü geliştirip, aynı zamanda binek at potansiyelini en yüksek seviyeye ulaştırmaktır. Bir atın jimnastik gelişiminin terbiyesinin doruk noktasında, uzman binicinin en az yardımıyla istenen hareketi rahat bir şekilde sergileyebilir. Dresaj bazen ""at balesi"" (ya da Dressuur) olarak açıklanabilir. Bu disiplin antik köklere sahip olmasına rağmen, önemli bir at müsabakası olarak Batı'da ilk Rönesans süresince değer kazanmıştır. Bu dönemin Avrupalı büyük binicileri o zamandan beri çok az değişen ardışık eğitim sistemi geliştirmişlerdir. Klasik at terbiyesinin hâla eğitimli modern at terbiyesinin temelini oluşturduğu dile getirilmektedir.",0,1,[997],0,"Metinde at terbiyesinin amacı hakkında açık bir şekilde bahsedilmiş:
+
+**En önemli amacı; standardize edilmiş yoğun eğitim yöntemlerini kullanarak, bir atın doğal atletik yeteneğini ve gönüllüğünü geliştirip, aynı zamanda binek at potansiyelini en yüksek seviyeye ulaştırmaktır.**
+
+Ayrıca metinde at terbiyesinin amacının bir atın jimnastik gelişimini sağlayarak, uzman binicinin en az yardımıyla istenen hareketi rahat bir şekilde sergileyebilmesini sağlamak olduğu belirtilmektedir. 
+",25.0,1.0,0.7361772964723369,0.8907832083002166
+39,39,8a4cf835-8d6f-4d16-bc71-1d5944a1e9b9,Hacktivizm ile siber suç arasında nasıl bir ayrım yapılabilir?,"Hacktivizm, genellikle politik veya sosyal bir mesaj iletmeyi amaçlayan ve genellikle kamuoyunu bilgilendirmeye veya harekete geçirmeyi hedefleyen eylemleri içerir. Siber suç ise kişisel veya ekonomik kazanç sağlamayı amaçlar ve genellikle yasadışı faaliyetleri kapsar. Örneğin, bir hükümetin web sitesini ele geçirerek protesto mesajı yayınlamak hacktivizm olarak kabul edilebilirken, aynı web sitesinden finansal bilgiler çalmak siber suçtur.","Hacktivizm, ""hack"" ve ""aktivizm"" kelimelerinin birleşiminden türetilmiş bir terim olup, dijital araçlar ve bilgisayar korsanlığı yöntemleri kullanarak politik veya sosyal bir amacı desteklemek için gerçekleştirilen eylemlere denir. Hacktivistler, siber uzayı protesto, ifade özgürlüğü, bilgiye erişim ve sosyal adalet gibi konularda bir araç olarak kullanır.
+",0,1,[359],0,"Hacktivizm ile siber suç arasında çizilebilecek temel ayrım, **motivasyon** ve **amaç** farkındadır. 
+
+**Hacktivizm:**
+
+* **Motivasyon:** Politik veya sosyal bir amacı desteklemek, farkındalık yaratmak veya bir duruma karşı ses yükseltmek gibi toplumsal iyiliğe yönelik bir amaç güdüler.
+* **Amaç:** Genellikle zarar vermek veya kişisel kazanç sağlamak yerine, siyasi baskıyı hafifletmek, adaletsizlikleri ortaya çıkarmak veya toplumsal değişim yaratmak gibi hedefler taşır. Örneğin, bir hükümetin sansür politikalarına karşı protesto etmek veya insan hakları ihlallerine dikkat çekmek amacıyla siber saldırılar düzenlemek.
+* **Yöntemler:** Bilgisayar korsanlığı teknikleri kullanabilir ancak genellikle sistemleri tamamen çökürmek yerine, bilgileri ifşa etmek, web sitelerini devralmak veya protesto mesajları yayınlamak gibi yöntemlere başvurur.
+
+**Siber Suç:**
+
+* **Motivasyon:** Kişisel kazanç sağlamak, bilgi çalmak, sistemleri çökürmek veya",24.7,0.6666666666666666,0.7679338771766477,0.8562839911855779
+40,40,d0cf5be8-cb50-4cf3-9c0d-be503e93e1d4,Honeyd'in temel amacı nedir ve bu amaçla nasıl bir yöntem kullanır?,"Honeyd'in temel amacı, bilgisayar ağlarında güvenlik açıklarını tespit etmek ve saldırıları analiz etmektir. Bunu yapmak için, gerçek olmayan sanal sunucular oluşturur ve bunları ağa entegre eder. Saldırganlar bu sanal sunucuları gerçek sunucular zannederek saldırılarını gerçekleştirirler ve Honeyd, bu saldırıları kaydeder ve analiz eder.","Honeyd, kullanıcıların, bir bilgisayar ağında birden fazla sanal konak oluşturmasına ve koşturmasına izin veren açık kaynak kodlu bir bilgisayar programıdır. Bu sanal konaklar, üzerinde farklı birçok taklit sunucular çalışacak şekilde yapılandırılabilirler, sonsuz sayıda bilgisayar ağı yapılandırmasının simule edilebilmesini sağlarlar. Honeyd ilk olarak, profesyoneller ve güvenlik meraklıları tarafından bilgisayar güvenliği alanında kullanıldı ve Knoppix tabanlı bir Linux canlı CD dağıtımı olan Knoppix STD 'de yer aldı.",0,1,[525],0,"Honeyd'in temel amacı, bilgisayar ağlarında olası saldırıları tespit etmek ve analiz etmek için **sanal hedefler** oluşturmaktır. 
+
+Bunun için Honeyd, kullanıcıların bilgisayar ağlarına **taklit sunucular** eklemesine olanak sağlar. Bu taklit sunucular, gerçek sunucular gibi görünür ancak aslında boş veya saldırıları emmeye yönelik olarak yapılandırılmıştır. 
+
+Örneğin, bir Honeyd kurulumunda bir FTP sunucusu taklidi yapılabilir. Ancak bu taklit sunucu, gerçek bir FTP sunucusundan farklı olarak, gelen bağlantıları kaydeder, saldırganın hareketlerini izler ve saldırıya uğrayan anı detaylandırır. Böylece, güvenlik uzmanları saldırganın yöntemlerini anlayabilir, ağın zayıf noktalarını tespit edebilir ve önleyici tedbirler alabilirler.
+
+Kısacası, Honeyd, saldırganların dikkatini çekmek için sanal hedefler oluşturarak, onların saldırı yöntemlerini öğrenmeyi ve ağ güvenliğini artırmayı amaçlar.
+",24.8,0.25,0.5546095417377477,0.8083234988309651
+41,41,69ec4f0d-df8b-45a3-acb4-aa31a69fa06e,YouTube'da para kazanmak için ne yapmak gerekiyor?,"YouTube'da para kazanabilmek için öncelikle üye olmanız ve hesap ayarlarınızdan para kazanmayı aktif hale getirmeniz gerekiyor. Ardından kendi video kanalı üzerinden videolar yükleyebilirsiniz. Videolarınızın izlenme sayısına bağlı olarak, YouTube size izlenme başına ödeme yapacaktır. Ancak kazanılan ücret, videonun konusu ve YouTube'un kullandığı algoritmalara göre değişiklik gösterebilir.","YouTube, Google'a ait bir Amerikan çevrimiçi video paylaşım ve sosyal medya platformudur. Merkezi San Bruno, Kaliforniya'da olan platform; 15 Şubat 2005'te üç eski PayPal çalışanı tarafından kuruldu. Platform; kullanıcılarına video yükleme, izleme ve paylaşma imkânı sunmakta olup medya şirketleri ve kullanıcı üretimi videoların gösterimi için WebM, H.264 ve Adobe Flash Video teknolojilerini kullanır. Genel olarak video klipler, televizyon klipleri, müzik videoları, video bloglar, kısa özgün videolar ve eğitim videoları gibi içerikler yayınlanmaktadır.
+YouTube üzerindeki içerikler genelde bireyler tarafından yüklenir. Fakat CBS, BBC, Vevo, Hulu gibi şirketler ve diğer organizasyonlar da YouTube ortaklık programı ile içeriklerinin bir kısmını yayımlamaktadır. Site içi üyelik almayan kullanıcılar videoları izleyebilirken onaylı üyeler ise kendi yayın kanallarına video yükleyebilirler. Saldırganlık potansiyeli olan içerikler sadece on sekiz yaşından büyük olduğunu onaylayan üyeler tarafından izlenebilir. 2014 yılından itibaren üyeye para kazandırma modeline geçmiştir. Üye, hesap ayarlarından para kazanmayı aktif hâle getirdikten sonra yüklediği videolardan izlenme başına ödeme almaktadır. Örneğin 1 milyon izlenen videodan 2 bin-20 bin USD arası para kazanılabilmektedir. Ücret; videonun konusunun türüne ve farklı algoritmalara göre değişebilmektedir.
+",0,1,[1368],0,"YouTube'da para kazanmak için birkaç temel adım izlenmelidir:
+
+1. **Güçlü Bir Kanal Oluşturun:** İlgi çekici ve özgün içerikler üretin. Hedef kitlenizi belirleyin ve onlara değer katacak videolar yayınlayın. Kanalınızın görsel kimliğini oluşturun ve düzenli olarak içerik yükleyin.
+
+2. **YouTube Ortaklık Programına Katılın:** Kanalınızın 1000 aboneye ve 4000 saat izlenme süresine ulaştığında YouTube Ortaklık Programına başvurabilirsiniz.
+
+3. **Reklam Gelirlerinden Yararlanın:** Ortaklık programına katıldıktan sonra, videolarınızda reklamlar yayınlayarak para kazanabilirsiniz. Reklam geliri, izlenme sayısına, reklam tıklama oranına ve izleyicilerin demografik özelliklerine göre değişir.
+
+4. **Sponsorluklar Alın:** Kanalınızın büyümesiyle birlikte, markalar sizinle işbirliği yapmak isteyebilir. Sponsorluk anlaşmaları aracılığıyla, videolarınızda ürün veya hizmetleri tanıtabilir ve para kazanabilirsiniz.
+
+5. **Ürün Satışı",24.9,0.2222222222222222,0.8037854005600795,0.9594204604815998
+42,42,73672a7d-e662-47bf-85f7-4cc2b339eef4,Internet Explorer 8'in güvenlik özellikleri nelerdir?,"Internet Explorer 8, Microsoft tarafından önceliklendirilmiş bir güvenlik modu olan InPrivate özel tarama ile piyasaya sürüldü. Bu mod, InPrivate Gözatma ve InPrivate Filtreleme olmak üzere iki ana özellik içeriyordu. InPrivate Gözatma, tarayıcı geçmişinizi, çerezlerinizi ve geçici dosyalarınızı silerek daha gizli bir gezinti deneyimi sunarken, InPrivate Filtreleme, bilinen kötü amaçlı web sitelerini engellemeye yardımcı olur.","Internet Explorer 8 (IE8). Microsoft tarafından geliştirilen Internet Explorer Web tarayıcısının 8. sürümüdür. 19 Mart 2009 yılında sunuldu. 2006 yılında tanıtılmış olan Internet Explorer 7'nin yerini aldı. 2011 yılında ise yerini Internet Explorer 9 aldı. Windows 7 ve Windows Server 2008 R2 işletim sistemleri için varsayılan tarayıcıdır. Internet Explorer 8, IE'nin Acid2 testini geçen ilk sürümüdür. Daha sonraki Acid3 testinde yalnızca 24/100 puan aldı. Microsoft'a göre, güvenlik, kullanım kolaylığı, RSS, CSS, Ajax, Web sayfası bildirimcisi olan Web Slice desteğindeki iyileştirmeler IE8 için öncelikleriydi. Internet Explorer 8, Internet Explorer'ın Windows XP ve Windows Server 2003'te desteklenen son sürümüdür.
+InPrivate adlı yeni bir güvenlik modu olan özel tarama IE8 ile birlikte piyasaya sürüldü ve iki ana özellikten oluşuyordu: InPrivate Gözatma ve InPrivate Filtreleme. İlk olarak 2005 yılında Safari'de  tanıtılan benzer bir özellik daha sonra Firefox 3.5, Opera 10.5 ve Google Chrome'da uygulanmıştır.
+16 Ocak 2018 itibarıyla Microsoft, IE8 desteğini sona erdirdi. Ancak, aksi belirtilmedikçe, birçok Windows Embedded sürümü ilgili ömrünü tamamlamış ürün'e kadar desteklenmeye devam edecektir. Microsoft Developer Network (MSDN), yeni IE8 teknolojisini detaylandıran yeni bölümler ekledi.
+5 Ocak 2009'da, Microsoft tarafından Windows Update aracılığıyla Internet Explorer 8'in otomatik olarak yüklenmesini engelleyen bir araç sağlandı. 27 Mayıs 2010'da Microsoft, Bing ve MSN için optimize edilmiş Internet Explorer 8'i piyasaya sürdü.
+Geliştiriciler için Internet Explorer 8, Internet Explorer Geliştirici Araçları içerir. Tarayıcıda HTML, CSS, JavaScript ve VBScript hata ayıklamasına izin verir.",0,1,[1718],0,"Metinde Internet Explorer 8'in güvenlik özellikleri hakkında şu bilgiler yer alıyor:
+
+1. **InPrivate Modu:** IE8 ile birlikte gelen bu özel tarama modu, kullanıcıların gizliliğine odaklanıyor. İki ana özelliğinden biri olan InPrivate Gözatma, tarayıcı geçmişi, çerezleri ve diğer iz bırakmalarını temizleyerek kullanıcıların çevrimiçi faaliyetlerini gizli tutuyor. İkinci özellik olan InPrivate Filtreleme ise reklam engelleme ve izleme araçlarını kullanarak kullanıcıların çevrimiçi deneyimini daha güvenli hale getiriyor.
+
+2. **Acid2 Testi Geçme:** IE8, Acid2 testini geçen ilk Internet Explorer sürümü olarak öne çıkıyor. Bu test, web tarayıcısının HTML ve CSS standartlarına uyumunu ölçüyor.
+
+3. **Güvenlik Önlemleri:** Metin, güvenliğin IE8 için öncelikler arasında yer aldığını belirtiyor. Ancak, spesifik güvenlik önlemleri hakkında detaylı bilgi verilmiyor.
+
+Sonuç olarak, IE8'in güvenlik özellikleri arasında InPrivate modu ve Acid2 testi geçme bulunuyor. Ayrıca, güvenliğin önce",25.1,0.8,0.8186784068767095,0.9089074526310327
+43,43,bc2e0165-6f97-402b-ac58-7bebc74fe3f7,Thanos karakteri hangi filmlerde yer almıştır?,"Thanos, Yenilmezler, Galaksinin Koruyucuları, Yenilmezler: Ultron Çağı, Avengers: Sonsuzluk Savaşı ve Avengers: Endgame filmlerinde yer almıştır.","Thanos, Marvel Comics tarafından yayımlanan Amerikan çizgi romanlarında ortaya çıkan kurgusal bir karakter. Thanos, Marvel Sinematik Evreni'ndeki en güçlü kötü karakterlerden biridir ve Avengers, Galaksinin Koruyucuları, Fantastik Dörtlü ve X-Men dâhil olmak üzere birçok kahramanla çatıştı.
+Thanos karakteri, ilk olarak Yenilmezler filminde Damion Poitier, daha sonra Galaksinin Koruyucuları, Yenilmezler: Ultron Çağı, Avengers: Sonsuzluk Savaşı ve Avengers: Endgame adlı filmlerde ise Josh Brolin tarafından canlandırıldı.
+Thanos, animasyonlu televizyon dizileri ve video oyunları da dâhil olmak üzere çeşitli medya uyarlamalarında yer aldı.
+",0,1,[644],0,"Yukarıda zaten cevabınız bulunuyor! 
+
+Thanos karakteri şu Marvel Sinematik Evreni filmlerinde yer almıştır:
+
+* **Yenilmezler** (2012) - Damion Poitier tarafından canlandırıldı
+* **Galaksinin Koruyucuları** (2014)
+* **Yenilmezler: Ultron Çağı** (2015)
+* **Avengers: Sonsuzluk Savaşı** (2018)
+* **Avengers: Endgame** (2019) 
+
+
+Josh Brolin tarafından canlandırılmıştır. 
+>>>>>>>>>>>>>>>
+
+
+
+>",24.8,1.0,0.8519537055951156,0.9244104944595503
+44,44,84b9937e-ee7d-4a88-980e-0c672f0d33ee,Adobe Sign hangi cihazlarla kullanılabiliyor?,"Adobe Sign, kullanıcıların bir tarayıcı veya mobil cihaz kullanarak imza göndermelerini, imzalamalarını, izlemesini ve yönetmelerini sağlar.","Adobe Sign (önceden EchoSign), kullanıcının bir tarayıcı veya mobil cihaz kullanarak imza göndermesine, imzalamasına, izlemesine ve yönetmesine olanak tanıyan bulut tabanlı bir e-imza hizmetidir. Adobe Document Cloud hizmet paketinin bir parçasıdır.
+",0,1,[250],0,"Adobe Sign'ı aşağıdaki cihazlarla kullanabilirsiniz:
+
+**Bilgisayarlar:**
+
+* **Windows:**  Windows 7 veya üzeri işletim sistemleri
+* **Mac:** macOS 10.12 veya üzeri işletim sistemleri
+
+**Mobil Cihazlar:**
+
+* **iOS:** iPhone, iPad ve iPod Touch cihazları (iOS 11 veya üzeri)
+* **Android:** Android 5.0 veya üzeri işletim sistemleri
+
+**Ayrıca:**
+
+* Adobe Sign, tarayıcınız üzerinden de kullanılabilir. Desteklenen tarayıcılar arasında Google Chrome, Mozilla Firefox, Microsoft Edge ve Safari bulunur.
+
+Kısacası, Adobe Sign'ı neredeyse tüm cihazlarınızda kullanabilirsiniz. 
+
+
+
+
+
+
+
+.
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+",24.8,0.3,0.656814260206983,0.9571527808415544
+45,45,c22080dc-666c-4c32-b3d5-5037677bd5c7,Baldur neden tanrılar ve insanlar tarafından çok seviliyordu?,"Baldur, iyiliği ile dikkat çeken, sıcakkanlı, akıllı ve belagatli bir tanrıydı. Işık, neşe, saflık, güzellik, masumiyet ve barış tanrısı olması da onu sevgiye layık kılıyordu.","Baldur (ayrıca Baldr veya Balder olarak da bilinir), İskandinav tanrılarından Odin ile Frigg'in oğlu. Karısı Nanna, oğlu ise Forseti'dir. Işık, neşe, saflık, güzellik, masumiyet ve barış tanrısıdır. Tanrılar ve insanlar tarafından çok sevilirdi, iyiliği ile dikkat çekerdi. Gücünün az olmasına karşın, sıcakkanlı, akıllı ve belagatliydi. En yakışıklı tanrı olduğu da söylenir. Baldur'un salonu Breidablik'di.
+",0,1,[409],0,"Baldur'un tanrılar ve insanlar tarafından çok sevilmesinin sebepleri metinde açıkça belirtilmiş:
+
+1. **Işık, neşe, saflık, güzellik, masumiyet ve barış tanrısı olması:** Baldur, olumlu özelliklerin hepsini temsil ediyordu. İnsanlar onun ışığı, neşesini ve huzurunu arzuluyordu.
+2. **İyiliği ile dikkat çekmesi:** Metinde Baldur'un iyiliği ile öne çıktığı belirtiliyor. Bu da onu diğer tanrılardan ayıran ve insanların ona olan sevgisini artıran bir özellikti.
+3. **Sıcakkanlı, akıllı ve belagatlı olması:** Gücünün az olmasına rağmen, Baldur'un diğer olumlu özellikleri onu sevilen biri yapıyordu. Sıcakkanlılığı, aklının keskinliği ve konuşma becerisi onu çevresindekilerin gözünde değerli kılıyordu.
+4. **En yakışıklı tanrı olduğu söylenmesi:**  Metinde Baldur'un en yakışıklı tanrı olduğu belirtiliyor. Bu da onun çek",24.8,0.6,0.5546750789030872,0.9415363158133444
+46,46,f8db3c5f-870b-473e-a218-64238a546882,YouTube'da canlı yayın özelliği ilk ne zaman kullanılmaya başlandı ve bu özellik nasıl bir değişim geçirdi?,Canlı yayın özelliği ilk olarak 2008 yılında YouTube Live ile tanıtıldı. Ancak 2011'de kapatıldı ve yerine YouTube canlı bölüm sayfası geldi. Daha sonra Şubat 2017'de resmi YouTube mobil uygulamasına entegre edildi ve 10.000 abonelik şartı daha sonra 100 aboneye düşürüldü. Günümüzde 4K çözünürlüğe kadar canlı yayın yapılabiliyor ve 360 derecelik video desteği de bulunuyor.,"YouTube Live, 2008 yılında San Francisco ve Tokyo'dan internette canlı yayınlanan bir video olayıydı. 22-23 Kasım 2008'de piyasaya sürüldü. The Black Eyed Peas, rapçi will.i.am, Will It Blend'den Tom Dickson, Michael Buckley, The Happy Tree Friends, Fred Figglehorn, Smosh, Esmée Denters ve şarkıcı Katy Perry gibi çeşitli YouTube ünlüleri tarafından sunuldu. 8 Nisan 2011'de, kanal kapatıldı ve tüm videolar etkin bir şekilde kaldırıldı. Yerine YouTube canlı bölüm sayfası geldi.
+Şubat 2017'de, resmi YouTube mobil uygulamasına canlı akış getirildi. Mobil üzerinden canlı akış, başlangıçta en az 10.000 aboneye sahip kullanıcılarla sınırlıydı, ancak 2017'nin ortalarından itibaren 100 aboneye düşürüldü. Canlı akışlar, 60 fps'de 4K çözünürlüğe kadar çıkabilir ve ayrıca 360 derecelik video destekler. 21 Temmuz 2009'da yayınlanan bir videoda YouTube yazılım mühendisi Peter Bradshaw, YouTube kullanıcılarının artık 3D videolar yükleyebileceğini duyurdu.
+Ocak 2015'te Google, 360 derecelik videonun yerel olarak YouTube'da destekleneceğini duyurdu. 13 Mart 2015'te YouTube, bir sanal gerçeklik sistemi olan Google Cardboard'dan görüntülenebilen 360° videoları etkinleştirdi. YouTube 360, diğer tüm sanal gerçeklik başlıklarından da görüntülenebilir. 4K çözünürlüğe kadar canlı 360° video akışı da desteklenmektedir.
+Kasım 2018'in sonlarında YouTube, Snapchat ve Instagram'da kullanılanlara benzer bir ""Hikaye"" özelliği sunacağını duyurdu. Bu özellik, içerik oluşturucularının tam bir video yayınlamadan hayranlarıyla etkileşim kurmasına olanak tanıdı. ""Reels"" adı verilen hikâyelerin uzunluğu 30 saniyeye kadar çıkar ve kullanıcıların yeni ""YouTube-y"" çıkartmaları dahil olmak üzere filtreler, müzik, metin ve daha fazlasını eklemesine olanak tanır.",0,1,[1749],0,"YouTube'da canlı yayın özelliği ilk olarak 22-23 Kasım 2008 tarihinde piyasaya sürüldü. 
+
+O dönemde ""YouTube Live"" adı altında hizmet veren bu özellik, başlangıçta sadece birkaç seçkin YouTube ünlüsü tarafından kullanıldı. Ancak 8 Nisan 2011 tarihinde kanal kapatıldı ve tüm videolar kaldırıldı. Yerine YouTube canlı bölüm sayfası geldi.
+
+2017 yılında resmi YouTube mobil uygulamasına canlı akış özelliği getirildi. Başlangıçta en az 10.000 aboneye sahip kullanıcılarla sınırlı olan bu özellik, kısa sürede 100 aboneye düşürüldü.
+
+Canlı yayın özelliği zaman içinde birçok gelişme yaşadı. Örneğin, 4K çözünürlüğe kadar çıkabilen canlı akışlar, ayrıca 360 derecelik video desteği de eklendi.
+
+2015 yılında Google, 360 derecelik videonun yerel olarak YouTube'da destekleneceğini duyurdu. 2015'in sonlarında ise YouTube, bir sanal gerçeklik sistemi olan Google Cardboard'dan görüntülenebilen 36",25.0,0.9230769230769231,0.9304946926522073,0.8710303266373075
+47,47,92707cfc-6bdf-4a9b-bfab-5dedd965024a,Playlist Live hangi platformlardaki içerik üreticilerine yöneliktir?,Playlist Live öncelikle YouTube ve TikTok içerik oluşturucuları için düzenlenir.,"Playlist Live Orlando, Florida ve Washington, DC'de düzenlenen yıllık bir kongredir. Öncelikle YouTube ve TikTok içerik oluşturucuları için yapılır. Kongre 2010 yılından beri her yıl düzenlenmektedir. Kongre aynı zamanda üç eyalette, Orlando ve Washington'da yapıldı. Playlist Live’ın programı üç farklı kanala ayrılmıştır: Topluluk İzleme, Analiz İzleme ve Sektör İzleme.
+",0,1,[373],0,"Playlist Live, öncelikle **YouTube ve TikTok içerik üreticilerine** yöneliktir. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+>>>>
+
+
+
+>>>>
+
+
+
+>
+
+
+
+>
+
+
+
+.>
+
+
+
+.>
+
+
+
+",24.8,1.0,0.9884913638652776,0.8205005955964889
+48,48,88651334-f6ad-4bad-9533-19895cb3b2db,Yelpinin rüzgardan yaratılmış olması ne anlama geliyor? Görünmeyen bir varlık olmasına rağmen nasıl etkilerde bulunabiliyor?,"Yelpinin rüzgardan yaratılmış olması, doğanın gücünün ve esenliğinin onun kökeninde yer aldığını gösterir. Rüzgar gibi görünmez ancak güçlü bir kuvvettir ve Yelpin de benzer şekilde görülemese de insan hayatına etki edebilen bir varlıktır. Türk ve Altay halk inançlarında rüzgar, hastalık, talihsizlik veya bereket gibi olayları etkileyebileceğine inanılır ve Yelpin de bu gücü temsil eder. Görünmez olmasına rağmen rüyalarda belirebilir, insanları hasta edebilir veya iyi şans getirebilir.","Yelpin, Türk ve Altay halk inancında cin. Yelbin adı da verilir. Rüzgardan yaratılmış, görünmeyen soyut varlık.
+",0,1,[112],0,"Yelpinin rüzgardan yaratılmış olması, onu doğanın bir parçası olarak gören Türk ve Altay inançlarında önemli bir yere yerleştiriyor. 
+
+Görünmeyen bir varlık olmasına rağmen, yelpinin etkilerde bulunabilmesi, onun soyut bir enerji veya güç sahibi olduğu anlamına geliyor. Rüzgar gibi, görünmez ancak etkisini hissettiğimiz bir güçtür. 
+
+Yelpinin rüzgardan yaratılmış olması, onunla olan bağlantısını güçlendiriyor:
+
+* **Hareket ve Değişim:** Rüzgar sürekli hareket halindedir, yelpin de bu hareketliliğin bir yansıması olarak görülebilir. İnanışlarda, yelpin insanların hayatlarında değişimlere sebep olabileceği, onlara yön verebileceği düşünülür.
+* **Güç ve Kontrol:** Rüzgarın gücü, fırtınalarda kendini gösterir. Yelpinin de rüzgardan yaratılmış olması, onun da bir güç sahibi olduğunu, insanların hayatlarını etkileyebileceğini ima ediyor.
+* **İletişim ve Bilgi:** Rüzgar, sesleri taşıyabilir, haberler i",24.8,0.08333333333333333,0.6956292537087487,0.9209831826206366
+49,49,ea6dab09-7507-4d6f-9dda-8dafe8a8086e,Toprak elementi simyada hangi kimyasal madde ile ilişkilendiriliyordu ve sembolü nasıldı?,"Simyada toprak elementi tuz kimyasal maddesiyle ilişkilendirilirdi ve sembolü yatay bir çizgiyle ikiye bölünmüş, aşağıyı gösteren bir üçgendi.","Toprak klasik elementlerden biridir, bazı sistemlerde hava, ateş ve su ile birlikte dört elementten biridir.
+Toprak, antik Yunan felsefesi ve bilimindeki dört klasik elementten biridir. Genellikle ağırlık, madde ve dünyevi dünyanın nitelikleri ile ilişkilendirilirdi. Kahraman kültleri ve chtonik yeraltı tanrıları nedeniyle, toprak elementi daha sonraki okültizmde hem yaşamın hem de ölümün şehvetli yönleriyle ilişkilendirilir.
+Simyada, dünyanın (Aristoteles'e göre) birincil olarak kuru ve ikincil olarak soğuk olduğuna inanılıyordu. Bu klasik niteliklerin ötesinde, tuz kimyasal maddesi toprakla ilişkilendiriliyordu ve simyasal sembolü, yatay bir çizgiyle ikiye bölünmüş, aşağıyı gösteren bir üçgendi.
+",0,1,[707],0,"Toprak elementi simyada **tuz** kimyasal maddesi ile ilişkilendiriliyordu ve sembolü yatay bir çizgiyle ikiye bölünmüş, aşağıyı gösteren bir üçgendi. 
+=====
+
+
+
+====
+
+
+
+==
+
+
+
+==
+
+
+
+=
+
+
+
+=
+
+
+
+",24.8,1.0,0.9892751596862791,0.9744424006062586
+50,50,420b4221-696d-458a-8322-3d2fd9598307,Paneer'in yapımında hangi maddeler kullanılır?,"Paneer, sütün limon suyu gibi meyve veya sebze kaynaklı bir asitle kestirilmesiyle yapılır.","Paneer (Hintçe telaffuz: [pəniːr]), Pakistan ve Hindistan'da yaygın olarak tüketilen bir taze peynirdir. Paneer, sütün limon suyu gibi meyve veya sebze kaynaklı bir asitle kestirilmesi ile yapılan, olgunlaştırılmayan ve erimeyen yumuşak bir peynirdir. Paneerin preslenmeden önceki asitle kestirilmiş formuna (kesmik) chhena denmektedir.
+Hintçe ve Urduca'da yer alan panīr kelimesinin kökeni, Farsçada genel olarak ""peynir"" anlamına gelen panir (پنیر) sözcüğüne dayalıdır ve bu kelime Eski Farsçaya dayanır. Paneer, Ermenice panir (պանիր), Azerice pəndir, Türkçe peynir ve Türkmence peýnir ile aynı Farsça köke dayanmaktadır.
+",0,1,[625],0,"Paneer'in yapımında temel olarak sadece iki madde kullanılır:
+
+1. **Süt:** Genellikle koyun sütü veya inek sütü kullanılır. Ancak, bazen keçi sütü veya bu sütlerin karışımları da kullanılabilir.
+2. **Asit:** Sütün kesilmesi için limon suyu, sirke veya mayonez gibi meyve veya sebze kaynaklı bir asit kullanılır. 
+
+
+Ek olarak, paneer'in preslenmesi sırasında bazen tuz eklenir. Ancak, temel bileşenler süt ve asittir. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",24.8,0.3333333333333333,0.601570831859928,0.8741727986450863
+51,51,dc3bd4e0-bb3d-44cb-86d1-6f1119d72380,POODLE saldırısının SSL 3.0 mekanizmasının nasıl bir avantajından faydalandığını açıklayabilir misiniz?,"POODLE saldırısı, SSL 3.0'ın şifreleme bloklarının boyutunu tahmin etme imkanı sunan bir zayıflıktan yararlanır. Saldırganlar, şifreli mesajları küçük parçalara bölerek ve her parçanın şifresini çözmeye çalışarak, hangi bloğun doğru olduğunu belirleyebilirler.","POODLE atağı(Açılımı Padding Oracle On Downgraded Legacy Encryption) web tarayıcılarının SSL 3.0 mekanizmasının avantajından faydalanan ortadaki adam atağıdır.
+Eğer saldıranlar başarılı bir şekilde bu açıklığı geçebilirlerse, ortalama olarak, şifrelenmiş mesajın bir baytını ortaya çıkarabilmek için sadece 256 SSL 3.0 sorgusu yapmaya ihtiyaç duyarlar.
+Bu saldırı Bodo Möller, Tha Duong ve Krzystof Kotowicz (Google Güvenlik Ekibi) tarafından keşfedildi. Atak Heartbleed ve Shellshcok atakları kadar ciddiye alınmadı.
+Bu açığın CVE(Ortak güvenlik açıkları ve tespitler) numarası CVE-2014-3566 .",0,1,[594],0,"POODLE saldırısı, SSL 3.0'ın **PKCS#7 padding** mekanizmasından faydalanarak gerçekleştirilir. 
+
+SSL 3.0, şifrelenmiş verilerin güvenliğini sağlamak için padding (dolgu) kullanır. PKCS#7 padding şeması, şifrelenmiş verilerin uzunluğunu bir tam sayıya tamamlamak için rastgele baytlar ekleyerek çalışır. Ancak, bu mekanizma bir sızıntıya yol açar.
+
+POODLE saldırganları, SSL 3.0'ın bu padding mekanizmasını kötüye kullanarak şifrelenmiş mesajlardaki baytları ortaya çıkarabilirler. Saldırganlar, çeşitli padding değerleri ile şifrelenmiş sorgular göndererek sunucudan geri bildirim alırlar. Sunucu, padding değerlerinin doğru olup olmadığını kontrol eder ve saldırganlara bu geri bildirimler üzerinden şifrelenmiş mesajlardaki baytları tahmin etme imkanı sağlar.
+
+Örneğin, saldırganlar bir baytı ortaya çıkarmak için 256 farklı padding değerini deneebilirler. Her denemede, sunucu onlara geri bildi",24.9,0.6,0.2317698681770901,0.8679342053128541
+52,52,99048827-a141-47b1-8c76-098f275e7785,Fotonların hem dalga hem de parçacık gibi davranabilmesi nasıl açıklanabilir?,"Bu durum, kuantum mekaniğinin temel prensiplerinden biri olan dalga-parçacık ikiliği ile açıklanır. Fotonlar, klasik fizikte tanımlı net bir sınır olmayan, hem dalga hem de parçacık özelliklerini sergilerler. Ölçüm yapılmadığında dalga gibi davranırken, ölçüm yapıldığında ise parçacık gibi davranırlar.","Foton, (Grekçe: φῶς, φωτός (phôs, phōtós) 'ışık') Modern Fizik'te ışık, radyo dalgaları gibi elektromanyetik radyasyonu içeren Elektromanyetik Alan kuantumu yani ışığın temel birimidir. Ayrıca, Elektromanyetik Kuvvet'lerde kuvvet taşıyan, kütlesiz (ya da duru kütlesi=sıfır kabul edilen) temel parçacıktır. Parçacık terimi; genelde kütlesi olan veya ne kadar küçük olursa olsun bir cismi var olan anlamıyla kullanılır. Ancak, fotonlar için kullanılırken ""en küçük enerji yumağı""nı temsil eden bir birimi ifade eder. Fotonlar Bozon sınıfına aittir. Kütlesiz oldukları için boşluktaki hızı 299.792.458 m/s (veya 299.792 km/s) dir.
+Kuvvet etkileri hem mikroskobik ölçülerde, hem de makroskobik ölçülerde gözlemlenebilir. Foton herhangi bir duru kütleye sahip değildir ve bu durum uzak mesafelerde etkileşimlere izin vermektedir. Diğer bütün temel parçacıklar gibi foton da Kuantum mekaniğine dahildir ve dalga parçacık ikiliği gösterir. Bu durum fotonun hem dalga hem de parçacık özelliği gösterdiğini gösterir. Örnek olarak herhangi bir foton bir mercek tarafından kırılıma uğrayabilir veya dalga girişimi özelliği gösterebilirken ayrıca sayısal kütlesi ölçüldüğünde parçacık gibi davranabilir.
+Foton'un modern kuramı Albert Einstein tarafından açıklanmıştır. Einstein, gözlemlerine göre klasik ışık dalga modelinin yetersizliği üzerine foton modeline gerek duymuştur.
+Foton davranışlarını gözlemlemek için yapılan ""Çift Yarık Deneyi"" fotonların dalga mı yoksa tanecik davranışı mı gösterdiği tartışmalarını zirveye çıkarmıştır. Bu deneyin en çarpıcı sonucu deney ölçüm yapılmadan gerçekleşirse dalga modeline, ölçüm yapılırsa tanecik modeline göre hareket etmesi olmuştur.",0,1,[1671],0,"Fotonların hem dalga hem de parçacık gibi davranabilmesi, Kuantum Mekaniği'nin temel kavramlarından biri olan **dalga-parçacık ikiliği** nedeniyle açıklanabilir.
+
+Kuantum Mekaniği'nde, klasik fiziğin aksine, parçacıklar ve dalgalar birbirinden ayrı kavramlar değildir. Bunun yerine, her iki özelliği de taşıyan kuantum objeleri vardır.
+
+Fotonlar için bu durum şöyle ifade edilebilir:
+
+* **Dalga özelliği:** Fotonlar elektromanyetik alanın kuantumlarıdır ve bu nedenle dalga gibi davranabilirler. Örneğin, bir foton bir mercek tarafından kırılıp veya dağılıp yansıtılabilir, tıpkı bir ışık dalgası gibi. Ayrıca, çift yarık deneyinde, fotonlar iki yarık üzerinden geçerek bir desen oluştururlar, bu da dalga benzeri bir davranış olduğunu gösterir.
+* **Parçacık özelliği:** Fotonlar aynı zamanda enerji ve momentum taşıyan parçacıklar gibi davranabilirler. Örneğin, bir foton bir atomun elektronuna çarptığında, elektron enerji kazanır ve",25.0,0.9,0.6564701403163706,0.809439856912622
+53,53,9b14f05e-4276-4426-af31-f6347c0f3ac6,JPEG 2000 formatının en büyük dezavantajı nedir?,"JPEG 2000 formatını desteklemeyen birçok tarayıcı olmasıdır. Şu anda, bu formata erişim sağlayabilen tek ana tarayıcı Safari'dir.","JPEG 2000, Joint Photographic Experts Group tarafından geliştirilmiş olup JPEG dosyalarını kayıpsız bir şekilde boyutunu küçültmek için tasarlanmıştır. JPEG 2000 dosyaları, JPEG formatına göre daha üstün performans sergileyerek daha net, daha derin ve daha ayrıntılı görüntüler üretir. Bunun temel sebebi, JPEG 2000 kullanıcılarının görüntülerini kayıpsız bir formatta kaydedebilme imkanına sahip olmaları ve bu sayede sıkıştırma işlemi sırasında dosyanın çok az miktarda görüntü verisi kaybetmesidir. Ayrıca, JPEG 2000 formatı daha geniş bir dinamik aralığına olanak sağlar ve bit hatalarından daha az etkilenir. Bununla birlikte, JPEG 2000 formatını desteklemeyen tüm tarayıcıların olması bu formata yönelik bir dezavantajdır. Şu anda, JPEG 2000 dosyalarına erişim sağlayabilen tek ana tarayıcı Safari'dir.
+JPEG 2000 dosyalarının avantajları şunlardır:
+
+Kayıpsız ve kayıplı sıkıştırma arasında esneklik sağlar: JPEG 2000, kullanıcıların dosyalarını paylaşılabilir bir format olan RAW görüntüleri olarak kaydetmelerine olanak tanır.
+Büyük dosya boyutlarını işleyebilme yeteneği: JPEG 2000, döşeme yapmadan JPEG'ye kıyasla daha büyük dosya boyutlarını işleyebilir.
+Kolay ölçeklenebilme: JPEG 2000 formatı, kullanıcıların çözünürlükleri ve dosya boyutlarını daha iyi dengeleyebilmeleri için kolayca ölçeklendirilebilir.
+Bit hatalarına dayanıklılık: JPEG 2000, bit hatalarına karşı daha dirençlidir ve bu da JPEG'ye kıyasla önemli bir avantaj sunar.
+Sıkıştırmada (48 bit renk derinliği desteği dahil) daha iyi verimlilik sunar.
+Bütün tarayıcılar tarafından desteklenir.[1]
+",0,1,[1571],0,"Metinde belirtildiği gibi, JPEG 2000 formatının en büyük dezavantajı **tüm tarayıcılar tarafından desteklenmemesi**dir. 
+
+Metne göre şu anda JPEG 2000 dosyalarına erişim sağlayabilen tek ana tarayıcı Safari'dir. 
+
+
+Başka bir deyişle, JPEG 2000'ın sunduğu tüm avantajlara rağmen, geniş bir kitle tarafından erişilememesi bu formatın yaygınlaşmasını engelliyor. 
+
+
+
+
+
+",24.9,0.6666666666666666,0.8304241901826652,0.909271425747994
+54,54,3b04af97-c99e-46eb-a94f-694230fa9a3e,DirectPlay hangi tür oyunlar için özellikle faydalıdır?,"DirectPlay, çok kullanıcı oyunları için özellikle faydalıdır çünkü birçok kişinin aynı anda mesaj gönderdiği ortamların oluşturulmasını sağlar.","DirectPlay, DirectX'in çok kullanıcı oyunlar başta olmak üzere birçok kişinin aynı anda birçok mesaj yolladığı ortamların yaratılmasını kolaylaştırmak için geliştirdiği bir iletişim protokolüdür. DirectPlay, sunucu-istemci (server-client) veya peer to peer tipi bir organizasyonda asenkron mesajlaşma, mesaj öncelikleri, paket birleştirme, kayıpsız gönderim veya paket şifreleme gibi olanaklar sunar ve DirectPlay Voice modülü sayesinde ses iletimini de mümkün kılar.
+",0,1,[468],0,"DirectPlay özellikle çok oyunculu oyunlar için faydalıdır. 
+
+İşte nedenleri:
+
+* **Asenkron Mesajlaşma:** DirectPlay, oyuncular arasında hızlı ve verimli mesaj alışverişi sağlayan asenkron mesajlaşma desteği sunar. Bu, özellikle büyük oyun alanlarında veya yüksek oyuncu sayısı olan oyunlarda önemlidir.
+* **Peer to Peer İletişim:** DirectPlay, oyuncuların doğrudan birbirleriyle iletişim kurabilmelerini sağlayan peer to peer bağlantıları destekler. Bu, sunucuya olan bağımlılığı azaltır ve oyun deneyimini iyileştirir.
+* **Mesaj Öncelikleri:** DirectPlay, kritik oyun verilerini önceliklendirerek sorunsuz bir oyun deneyimi sağlamayı amaçlar. Örneğin, bir oyuncunun hareketi veya saldırısı gibi önemli bilgiler öncelikli olarak iletilir.
+* **Paket Birleştirme ve Kayıpsız Gönderim:** DirectPlay, paket birleştirme ve kayıpsız gönderim özellikleri sayesinde veri kaybını en aza indirir ve oyun deneyimini iyileştirir.
+* **Ses İletişimi:** DirectPlay Voice modülü sayesinde",24.8,0.8888888888888888,0.3665002817704209,0.8424675293976301
+55,55,f97e2957-db69-4085-8412-37e78b3bb94e,Wigner teoremi neden fizikte bu kadar önemlidir?,"Wigner teoremi, kuantum mekaniğinin temel yapı taşlarından biridir çünkü bize fiziksel simetrilerin nasıl kuantum dünyasına yansıdığını söyler. Bu teorem sayesinde, parçacıkların ve sistemlerin davranışlarını anlamak için simetri kavramını kullanabiliriz. Ayrıca, yeni parçacıkları sınıflandırmak ve temel kuvvetleri anlamamıza yardımcı olur.","Wigner teoremi, fiziksel simetrilerin, kuantum durumları Hilbert uzayında nasıl temsil edileceklerini belirten teoremdir. Eugene Wigner tarafından 1931 yılında kanıtlanmıştır ve bu keşfiyle Wigner, 1963 yılında verilen Nobel Fizik Ödülü'ni kazanan isimlerden biri olmuştur.
+",0,1,[274],0,"Wigner teoremi fizikte neden bu kadar önemli? Çünkü temel olarak kuantum mekaniğinin simetrilerle olan ilişkisini açıklıyor. 
+
+İşte bazı önemli nedenleri:
+
+1. **Kuantum Simetrilerinin Anlamını Açıklar:** Wigner teoremi, fiziksel simetrilerin kuantum durumları üzerinde nasıl etki ettiğini açıklayan bir çerçeve sağlar. Örneğin, bir sistemin zaman ile göre simetrik olması, kuantum durumlarının zaman evriminde sabit kalacağı anlamına gelir.
+
+2. **Kuantum İzleyicilerinin Temellerini Atar:** Wigner teoremi, kuantum izleyicilerinin (observables) nasıl tanımlanacağını belirler. Bir fiziksel niceliğin izleyicisi, kuantum durumlarının simetri dönüşümleri altında nasıl değiştiğini gösteren bir operatör olarak tanımlanır.
+
+3. **Yeni Fiziğin Kapısını Aralar:** Wigner teoremi, parçacık fiziğinde yeni fiziksel teorilerin geliştirilmesine yol açtı. Örneğin, parçacıkların temel simetri grupları olan SU(3) ve SU(2) simetrilerinin keşfi, W",24.8,0.375,0.5362813270167994,0.9897126367069755
+56,56,fc8edc8a-6008-44a6-a77e-54d0cf1d8baf,Carolina Reaper biberinin acılık seviyesi neden bu kadar yüksek?,"Carolina Reaper'ın aşırı acılığı, kapsaisin adı verilen kimyasal bileşiğin yüksek konsantrasyonundan kaynaklanır. Bu madde, biberin acı hissine neden olan ve Scoville ölçeğinde ölçülen bir alkaloiddir. Carolina Reaper, diğer biber türlerine kıyasla çok daha yüksek miktarda kapsaisin içerir.","Carolina Reaper, orijinal ismi HP22BNH7 olan ve Guinness rekorlar kitabına göre dünyanın en acı biberi seçilen Capsicum chinense türü biber. Karolina Azraili anlamına gelir. Güney Karolina bölgesinde seralarda yetişen kırmızı renkli dolma bibere benzer.
+Ed Currie sınıfından olan bu biber 7 Ağustos 2013 yılında Guinness rekorlar kitabına girmiştir. Scoville Heat Units'in Winthrop Üniversitesinin yaptığı testlere göre bu biberin acılık seviyesi yaklaşık olarak 1,569,300 civarında olduğu tahmin ediliyor. Bazı verilere göre ise acılık seviyesinin 2.300.000'lere kadar ulaştığı da görülmüştür. Bu biberden tadacak kişilerin, eğer acıya dayanıklılığı yok ise çok ciddi mide hasarlarına yol açacağı uzmanlar tarafından sık sık gündeme getirilmiştir.
+Öte yandan Eylül 2014'te Jason McNabb isimli kişi, bu biberden 10.95 saniyede üç tane yiyerek yine Guinness rekorlar kitabına girmiştir.
+",0,1,[886],0,"Carolina Reaper'ın acılık seviyesinin bu kadar yüksek olmasının sebebi temel olarak **genetik yapısıdır**.
+
+Capsicum chinense türü zaten acı biberler arasında biliniyor ve Carolina Reaper, bu türün içerisinde bulunan **capsaicin** adı verilen kimyasal maddesinin miktarı açısından oldukça zenginleştirilmiş bir çeşittir.
+
+Ed Currie, Carolina Reaper'ı yetiştirirken, zaten acı olan **ghost pepper** biberinin tozunu kullanarak çaprazlama yöntemiyle yeni bir çeşit elde etmiştir. Bu sayede, capsaicin üretimini artıran genler bir araya gelmiş ve sonucunda Carolina Reaper dünyanın en acı biberine dönüşmüştür.
+
+Ayrıca, Carolina Reaper'ın acılık seviyesini artıran bir diğer faktör de **çevresel koşullardır**. Güney Karolina'nın sıcak ve nemli iklimi, biberin capsaicin üretimini artırmaya yardımcı olmuş olabilir.
+
+
+Sonuç olarak, Carolina Reaper'ın aşırı acılı olmasının sebebi genetik yapısındaki değişiklikler ve uygun çevresel koşulların birleşmesidir.
+
+",24.9,0.4444444444444444,0.5561485481455124,0.8458106296098148
+57,57,d321884e-ca61-4636-95e4-2bb1892868e3,Lawrence Lessig'in internet hakkındaki çalışmaları nelerdir?,"Lawrence Lessig, internet ve dijital haklar konusunda önemli bir isimdir. Özellikle telif hakkı yasalarının internet çağına uyumunu eleştirmiş ve daha açık erişimli bir internet için savunuculuk yapmıştır. Ayrıca, Genel Ağ (İnternet) ve Toplum Merkezi'ni kurarak internetin geleceği ve toplumsal etkisi üzerine araştırmalar yürütmüştür.","Lawrence Lessig (d. 3 Haziran 1961), Amerikalı bilim insanıdır. Şu anda Harvard Hukuk Fakültesi'nde profesördür. Ayrıca Genel Ağ (İnternet) ve Toplum Merkezi'nin kurucusudur. İnsan hakları avukatı olan Bettina Neuefeind ile evlidir. İki oğlu vardır.
+2016 ABD başkanlık seçimleri'nde Demokratik Parti'nin başkan adayı olabilmek için yarıştı. Ancak, seçim kampanyasını 2 Kasım 2015'te sonlandırdı.
+",0,1,[396],0,"Lawrence Lessig, özellikle internet hukuku alanında yaptığı çalışmalarla tanınır. 
+
+İşte Lawrence Lessig'in internet hakkındaki bazı önemli çalışmaları:
+
+* **Telif Hakkı ve Dijital Çağ:** Lessig, dijital çağa ayak uydurmak için telif hakkı yasalarının nasıl değiştirilmesi gerektiği konusunda önemli çalışmalar yürüttü. Özellikle, Creative Commons lisansları gibi alternatif telif hakkı modellerini savundu.
+* **Açık Kaynak Yazılımı:** Lessig, açık kaynak yazılımının önemini vurgulayan ve bunun toplum üzerindeki olumlu etkilerini anlatan çalışmalar yaptı. Ayrıca, açık kaynak yazılımının yaygınlaşması için mücadele etti.
+* **İnternet Şeffaflığı:** Lessig, internetin şeffaflığının korunması gerektiğini savundu. Özellikle, hükümetlerin ve şirketlerin internet üzerindeki faaliyetlerinin izlenebilir olmasını istedi.
+* **Siber Suç ve İnternet Güvenliği:** Lessig, siber suçun önlenmesi ve internet güvenliğinin sağlanması konusunda çalışmalar yürüttü. Özellikle, dijital hak ihlallerine karşı mücade",24.8,0.1111111111111111,0.6797697337178881,0.9103594628813023
+58,58,756b7e5c-c9c5-4b78-a914-378856a9c367,Ben Gunn neden adada yalnız bırakıldı?,"Ben Gunn, yeni mürettebatıyla hazineyi aramaya geldiğinde hazineyi bulamayınca arkadaşları tarafından adada yalnız bırakılmıştır. Arkadaşları hazineyi kendi başına aramasını tercih etmişlerdir.","Benjamin Gunn Define Adası romanının karakterlerinden biridir. Kaptan Flint'in eski korsanlarından biridir. Flint defineyi gömmek için adaya geldiğinde o da Flint'in gemisi Walrus'ta bulunmuştur. Bir süre sonra Flint'ten ayrılıp başka bir gemiye geçer ve yeni mürettebatını hazineyi aramak için adaya gelmeye ikna eder. Defineyi bulamayınca arkadaşları onu hazineyi kendi başına arasın diye adada bırakarak gitmişlerdir. Üç yıl adada yaşayan Ben Gunn keçi eti ve böğürtlenle beslenerek yaşar ve keçi derisi ve dallardan küçük bir sepet-kayık yapar. Adada kaldığı süre boyunca Flint'in hazinesini aramış ve bulmuştur. Hazineyi yüksek bir tepede ev olarak seçtiği mağarasına sürekli gidip gelerek taşımıştır. Jim Hawkins ve arkadaşlarının adaya gelmesinden bir ay öncesinde hazinenin tamamını mağarasına saklamıştır. (Adanın başka taraflarında gömülü olan gümüş külçeler ve değerli silahlar hariç.) Jim ve arkadaşlarının Silver ve korsanlarına karşı mücadelesinde onlara yardım etmiş ve onlarla İngiltere'ye dönmüştür. İngiltere'de payına düşen bin Pound'u iki haftada bitirince Squire Trelawney onu av bekçisi olarak işe almıştır. Define Adası'nın öncüsü niteliğindeki Black Sails dizisinde Chris Fisher tarafından canlandırılmaktadır.
+",0,1,[1235],0,"Ben Gunn adada yalnız bırakıldı çünkü yeni mürettebatı hazineyi bulamayınca onu hazineyi kendi başına arasın diye adada bıraktı. 
+
+Anlatıya göre, Ben Gunn Flint'in eski korsanlarından biriydi ve yeni mürettebatı ile birlikte adaya gelmişti. Ancak hazineyi bulamayınca arkadaşları onu adada bırakarak gittiler. 
+
+
+
+.
+
+.
+.
+
+.
+",24.9,1.0,0.6094811258267736,0.8730741812996206
+59,59,39dee4d7-6cea-40ff-9532-91ec5ca3913a,Halay sadece Türkiye'de mi oynanır?,"Hayır, halay Türkiye kökenli bir oyun olsa da, özellikle Balkanlar ve Orta Asya gibi bölgelerde de benzer geleneksel danslar bulunmaktadır. Bu dansların müzikleri ve adımları farklılık gösterebilir ancak temel yapıları halayla benzemektedir.","Halay, Türkiye'nin Doğu Anadolu Bölgesi, Güneydoğu Anadolu Bölgesi, İç Anadolu Bölgesi, Orta Karadeniz ve Çukurova bölgesinde oynanan halk oyunlarının genel ismidir.
+",0,1,[166],0,"Cevap: Hayır, halay sadece Türkiye'de değil, ayrıca Balkan ülkelerinde ve Orta Asya'da da oynanır. 
+
+Özellikle Balkan ülkelerinde ""hora"" veya ""horo"" olarak bilinir ve benzer unsurlara sahiptir.  
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+>>>>
+>>
+>>
+>>>>>
+>>
+>
+",24.8,0.0,0.5292354978390283,0.8742215154519043
+60,60,fed05c5a-ddb3-4758-828d-79f59c52d601,Psycho-Pass anime serisinin yönetmenleri kimlerdir?,Psycho-Pass anime serisinin yönetmenliğini Naoyoshi Shiotani ve Katsuyuki Motohiro yapmıştır.,"Psycho-Pass (Japonca: サイコパス Saiko Pasu), Production I.G tarafından hazırlanan 2012 yapımı bir cyberpunk anime serisidir. Seri, Gen Urobuchi tarafından yazılmış ve yönetmenliği Naoyoshi Shiotani ve Katsuyuki Motohiro tarafından yapılmış olup ilk sezonu Ekim 2012-Mart 2013 tarihleri arasında yayınlandı. İkinci sezonu ise Ekim-Aralık 2014 tarihleri arasında, 2015 yılında da bir anime filmi yayınlandı.",0,1,[401],0,"Psycho-Pass anime serisinin yönetmenleri **Naoyoshi Shiotani** ve **Katsuyuki Motohiro**'dur. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+",24.8,1.0,0.9783127199354782,0.9180181826461887
+61,61,5f06347e-f3be-4d10-90b7-a120b5819d73,SISGrass'ın doğal çimden farkı nedir ve bu fark dayanıklılığı nasıl etkiler?,"SISGrass, doğal çimin üzerine sentetik lifler eklenerek oluşturulur. Bu sayede hem doğal çimin avantajlarından yararlanırken, sentetik liflerin sağladığı ekstra dayanıklılık da elde edilir. Sentetik lifler, aşınmaya ve yıpranmaya karşı dirençlidir, bu da SISGrass'ı yoğun kullanım gören spor alanları için ideal hale getirir.","SISGrass, Hollanda merkezli SIS Pitches firmasınca geliştirilen bir hibrit çim çözümüdür. Doğal çimin üzerine sentetik lifler ekilmesi suretiyle oluşturulmuş, spor karşılaşmaları gibi dayanıklı zemine ihtiyaç duyulan alanlar için geliştirilmiştir. İlk hibrit çim uygulaması olan GrassMaster'da çimin daha dayanıklı olması için polipropilen kullanılırken SISGrass'te ise dayanıklılığın yanı sıra ürünün esnek ve cilt dostu olması gibi kaygılarla polietilen kullanılmaktadır. SISGrass'in bu teknolojisi FIFA ve World Rugby tarafından onaylanmış olup bu kuruluşlarca kullanımında sakınca görülmemiştir.
+",0,1,[600],0,"SISGrass'ın doğal çimden farkı, sentetik liflerin eklenmesiyle elde edilen hibrit yapısıdır. 
+
+Doğal çim sadece doğal bitki örtüsünden oluşurken, SISGrass'ta polietilen lifler doğal çimin üzerine eklenir. 
+
+Bu fark, dayanıklılığı önemli ölçüde artırır. 
+
+Polietilen lifler sayesinde SISGrass, aşınmaya, yıpranmaya ve yoğun kullanıma karşı daha dirençli hale gelir. 
+
+Ayrıca, polietilen lifler doğal çimin esnekliğini artırarak, oyuncuların sakatlanma riskini azaltır ve cilt dostu bir yüzey sağlar.
+
+Sonuç olarak, SISGrass doğal çime göre daha dayanıklı, esnek ve güvenli bir seçenektir. FIFA ve World Rugby tarafından onaylanması, bu teknolojinin güvenilirliğini ve kalitesini göstermektedir.
+
+",24.9,0.5,0.669369114058435,0.8880793036042887
+62,62,aa5899ed-d800-4fb2-9e34-47b47818a03f,SMPP protokolü hangi durumlarda kullanılır ve kimler tarafından kullanılır?,"SMPP protokolü, genellikle GSM operatörleri ve katma değerli servis sağlayıcıları arasında toplu SMS gönderimlerinde kullanılır. Örneğin, bir haber organizasyonu büyük bir kitleye mesaj göndermek istediğinde SMPP protokolünü kullanarak kendi uygulama katmanındaki bir Servis Mesajı Merkezi (SMSC) ile iletişim kurabilir.","SMPP (İngilizce Short Message Peer to Peer Protocol; Eşler Arası Kısa Mesaj Protokolü), telekominikasyonda, Harici Kısa Mesaj Varlıkları (ESME), Yönlendirme varlıkları (RE) ve Mesaj Merkezleri (SMSC) arasında kısa mesaj verisinin transferi için, esnek bir veri iletişim arayüzünün sağlanması amacıyla tasarlanan, özgür, endüstri standardı olan bir protokoldür. Genellikle üçüncü partilerde(haber organizasyonları gibi) toplu mesaj iletimini sağlamak amacıyla kullanılır. Dolayısıyla, UMTS, IS-95 (CDMA), CDMA2000, ANSI-136 (TDMA) ve iDEN gibi GSM olmayan SMS protokollerine destek verir. SMPP, SS7 ağlarının dışında, kısa mesaj değiş tokuşu için yaygın olarak kullanılır.
+Genellikle GSM operatörleri ve katma değerli servis sağlayıcılar arasında toplu SMS gönderimlerinde kullanılır. Bir dış SMS servisi (ESME) SMPP kullanarak TCP/IP veya X.25 üzerinden kendi uygulama katmanında bir Servis Mesajı Merkezi (SMSC) ile SMS alışverişinde bulunabilir.
+",0,1,[948],0,"SMPP protokolü özellikle şu durumlarda kullanılır:
+
+**1. Toplu SMS Gönderimleri:**
+
+SMPP, özellikle üçüncü taraf haber organizasyonları, pazarlama şirketleri ve diğer toplu mesaj gönderenler tarafından kullanılır. 
+
+**2. GSM Dışında SMS İletişimi:**
+
+SMPP, GSM olmayan ağlarda (UMTS, IS-95, CDMA2000, ANSI-136, iDEN gibi) kısa mesaj değiş tokuşu için kullanılır.
+
+**3. SS7 Ağlarının Dışında SMS İletişimi:**
+
+SMPP, SS7 ağlarının dışında, kısa mesaj değiş tokuşu için yaygın olarak kullanılır.
+
+**Kimler tarafından kullanılır?**
+
+* **GSM Operatörleri:**  SMPP'yi, kendi ağlarında dış servis sağlayıcılara (ESME'lere) SMS gönderme ve alma imkanı sağlamak için kullanırlar.
+* **Katma Değerli Servis Sağlayıcıları (MVNO'lar):**  SMPP'yi, kendi müşterilerine SMS hizmetleri sağlamak için kullanırlar.
+* **Üçüncü Taraf Haber Organizasyonları:**  ",24.9,1.0,0.6454174239903331,0.8610082580007016
+63,63,b6dedcc7-9d53-43ad-8160-372e5fa81c10,Bema'nın Doğu kiliselerinde gelişimini sürdürmesi ve Bizans kiliselerinde sunağı da barındırması ne anlama geliyor?,"Bu, Bema'nın sadece kilise önde gelenleri için ayrılmış bir platform olmaktan çıkarak, ibadetin merkezi haline geldiğini gösteriyor. Sunağın Bema içerisinde yer alması, kutsal ritüellerin ve ayinlerin bu alanda gerçekleştiğini ve Bema'nın kilisede en önemli nokta haline geldiğini vurguluyor.","Bema. 
+Erken Hristiyan döneminde kilise önde gelenleri için ayrılmış ve normal halkın girişinin yasak olduğu, normal zeminden yüksekçe konumlandırılmış platforma verilen isim. Doğu kiliselerinde gelişimini sürdüren bu mimari element, daha sonraları Bizans kiliselerinde içerisinde sunağı da barındırmaya başlamıştır. Buna ek olarak çoğunlukla Naos ve Bema'yı birbirinden ayıran ikonostasis ile sınırlanır.
+",0,1,[406],0,"Bema'nın Doğu kiliselerinde gelişimini sürdürmesi ve Bizans kiliselerinde sunağı da barındırması, Hristiyanlığın Doğu'da geçirdiği dini ve toplumsal değişimleri yansıtmaktadır.
+
+**İşte bunun anlamı:**
+
+1. **Önemliliğin artması:** Erken Hristiyan döneminde Bema, sadece kilise önderleri için ayrılmış bir alan iken, Doğu kiliselerinde önemi giderek artmıştır. Sunağın Bema'ya yerleştirilmesi, bu alanın kutsal bir merkez haline geldiğini göstermektedir.
+
+2. **Dini ayırmanın güçlenmesi:** Bema'nın Naos ile ikonostasis tarafından ayrılması, dini ayırmanın güçlendirildiğini göstermektedir. Bu durum, kutsal alanın korunması ve rahiplerin halktan ayrılması amacıyla yapılmıştır.
+
+3. **Bizans İmparatorluğu'nun etkisi:** Bizans İmparatorluğu döneminde, kilise mimarisi büyük ölçüde etkilenmiştir. Bema'nın sunağı da barındırması, Bizans İmparatorluğu'nun kilise yöne",24.8,0.7142857142857143,0.7913878147666872,0.857838624269501
+64,64,eae491e8-e2c2-4d65-bf85-bc80b5443423,Radyometrik tarihleme yöntemleri hangi zaman dilimlerinde etkilidir ve hangi malzemeler üzerinde kullanılır?,"Radyometrik tarihleme yöntemleri, bin yıldan milyonlarca yıla kadar uzanan geniş bir zaman dilimini kapsar. Kullanılan izotoplara bağlı olarak farklı malzemelerde uygulanabilir. Örneğin, radyokarbon tarihleme organik materyaller (kemik, ağaç halkaları vb.) için uygunken, potasyum-argon tarihleme volkanik kayaçlar gibi daha eski malzemeler için kullanılır.","Radyometrik tarihleme veya radyoaktif tarihleme, taş ya da karbon gibi maddelerin oluştuğunda izini sürdüren radyoaktif kirliliklerin seçici olarak katıldığı vakit ile yaşını tayin etmek için kullanılan bir yöntemdir. Bu yöntem, maddenin içindeki tabii olarak oluşan izotopların bolluğunu, bilinen sabit bir azalım hızında oluşan bozunum ürünleri bolluğu ile karşılaştırır.
+Radyometrik tarihleme kullanımı ilk kez 1907 yılında Bertram Boltwood tarafından yayınlanmıştır. ve fosillerin yaşı veya Dünya'nın kendisi de dahil olmak üzere kayaların ve diğer jeolojik özelliklerin mutlak yaşı ve ayrıca doğal ve insan yapımı malzemelerin tarihlendirilmesi için de kullanılabilir.
+Stratigrafik prensiplerle birlikte jeokronolojide jeolojik zaman ölçeğini oluşturmak için radyometrik tarihleme yöntemleri kullanılmaktadır.
+En iyi bilinen teknikler arasında radyokarbon tarihleme, potasyum-argon tarihleme ve uranyum-kurşun tarihleme yer almaktadır. Jeolojik zaman çizelgelerinin oluşturulmasına izin vererek, fosillerin yaşları ve çıkarılan evrimsel değişim oranları hakkında önemli bir bilgi kaynağı sağlar. Radyometrik tarihleme, antik eserler de dahil olmak üzere arkeolojik malzemelerin tarihlendirilmesi için de kullanılır. Farklı radyometrik tarihlendirme yöntemleri, doğru oldukları zaman ölçeğine ve uygulanabilecek malzemeye göre değişir.
+",0,1,[1340],0,"Metinde de bahsedildiği gibi radyometrik tarihleme yöntemlerinin etkili olduğu zaman dilimleri ve kullanılan malzemeler şunlardır:
+
+**Zaman Dilimleri:**
+
+* **Radyokarbon tarihleme:** Yaklaşık 57.300 yıl öncesine kadar etkilidir. İnsan yapımı eserler, organik kalıntılar (ağaç, kemik, deri vb.) ve fosiller üzerinde kullanılır.
+* **Potasyum-Argon tarihleme:** Yaklaşık 100.000 yıldan milyarlarca yıla kadar etkilidir. Volkanik kayaçlar, magmatik kayaçlar ve fosiller üzerinde kullanılır.
+* **Uranyum-Kurşun tarihleme:** Milyarlarca yıl öncesine kadar etkilidir. İncelenen kayaçların yaşının milyonlarca yılı aştığı durumlarda kullanılır. Örneğin, derin yeraltı kayaçları, meteoritler ve gezegen oluşumu hakkında bilgi verir.
+
+**Kullanılan Malzemeler:**
+
+* **Radyokarbon tarihleme:** Organik malzemeler (ağaç, kemik, deri vb.)
+* **Potasyum-Argon",24.9,0.5555555555555556,0.7142001568361899,0.8233366103799339
+65,65,c391f8ec-ba1c-40d8-82ed-1d4f187e0d00,Radio Garden projesi nasıl finanse ediliyor?,"Radio Garden projesi, Avrupa Araştırma Konseyi tarafından finanse edilen HERA (Humanities in the European Research Area) programı aracılığıyla destekleniyor.","Radio Garden, 2013-2016 yılları arasında Hollanda Ses ve Görüntü Enstitüsü ve Avrupa'daki 5 üniversitenin ortaklaşa çalışmasıyla geliştirilen, kâr amacı gütmeyen radyo ve dijital araştırma projesidir. HERA tarafından finanse edilen proje, dünyanın farklı bölgelerindeki radyoları canlı olarak dinleme imkanı sağlamaktadır. 2016'da sisteme kayıtlı radyo istasyonu sayısı halen 12.000'i geçmiş ve web sitesi popülerleşmiştir. 4 Ocak 2022 tarihinde RTÜK’ün talebiyle, gerekli lisans alımını gerçekleştirmediği gerekçesiyle Türkiye'de erişime engellenmiştir.
+",0,1,[555],0,"Verdiğin metne göre Radio Garden projesi ilk olarak **HERA tarafından finanse edilmiştir**. 
+
+HERA, Avrupa Birliği'nin kültürel işbirliği programı olan Horizon 2020'ın bir parçası olarak kurulan bir araştırma ve inovasyon fonudur. 
+
+Metinde ayrıca projenin kâr amacı gütmeyen bir araştırma projesi olduğu belirtilmekte. Ancak, 2016 yılından sonraki finansman kaynakları hakkında bilgi bulunmamaktadır. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+.",24.8,0.5,0.2330771170642468,0.0
+66,66,c7902435-ab8d-4527-8b64-d8a0c257159c,Microp robotunun kontrolü nasıl sağlanıyor ve hangi teknolojiler kullanılıyor?,"Microp robotunun kontrolü, C++ 5.02 programlama diliyle yazılmış bir yazılım aracılığıyla gerçekleştiriliyor. Bu yazılım OpenGL kütüphanesini kullanarak görsel bir arayüz sunuyor ve robot kolunun hareketlerini simüle ediyor. Robotun fiziksel hareketi ise Paralel port üzerinden sağlanıyor.","Microp, Endüstride kullanılan Articulated diye adlandırılan Robotların prototipidir. Robotun oluşturulması 4 ana başlığı barındırıyor: Mekaniği, Elektroniği, Yazılımı ve Kinematik hesaplaması. Robot kolunun bilgisayarla 3 boyutlu similasyonla eş zamanlı olarak kontrolü ile ilgili bir uygulamadır. Robotun kontrolü için program C++ 5.02 de yazıldı. Bu yüzden OpenGL kütüphanesi kullanılarak görsel bir programa sahiptir. Buna ek olarak program kinematik hesaplamalarıda içermektedir. Ve Robotun kontrolü Paralel porttan sağlanmaktadır.
+Programlama Dili
+
+C++ Version 5.02
+Elektronik
+Circuit Maker
+Assembler
+Pic-Up
+MDASM
+Grafik Tasarımı
+
+OpenGL
+Dokümantasyon
+
+Ms Word 2003
+Ms PowerPoint 2003
+Ms Excel 2003",0,1,[703],0,"Metinde Microp robotunun kontrolü hakkında detaylı bilgiler verilmiş. Özetle:
+
+**Kontrol Mekanizması:**
+
+Microp robotunun kontrolü bilgisayar aracılığıyla sağlanıyor. 
+
+**Kullanılan Teknolojiler:**
+
+* **C++ 5.02 Programlama Dili:** Robotun kontrolü için C++ 5.02 dilinde bir program yazılmış.
+* **OpenGL Kütüphanesi:** Görsel bir arayüz oluşturmak ve robotun hareketlerini 3 boyutlu olarak simüle etmek için OpenGL kütüphanesi kullanılmış.
+* **Kinematik Hesaplamaları:** Program içerisinde kinematik hesaplamalar yer alıyor. Bu hesaplamalar, robot kolunun hareketlerini planlamak ve kontrol etmek için gerekli olan matematiksel işlemleri gerçekleştiriyor.
+* **Paralel Port:** Robotun hareketleri, bilgisayarın paralel portu üzerinden gönderiliyor.
+
+**Ek Bilgiler:**
+
+* Robotun tasarımı 4 ana başlık altında toplanmış: Mekaniği, Elektroniği, Yazılımı ve Kinematik Hesaplaması.
+* Robot kolunun bilgisayar ile eş zamanlı olarak kontrol edilmesi, 3 boyutlu sim",24.8,0.8888888888888888,0.7370236709685025,0.8775549377743336
+67,67,9495f6ab-22f6-4ecd-b6d6-c4bfaf365d19,Dunkerque Tahliyesi'nde kullanılan gemilerin çoğu askeri gemiler miydi yoksa sivil gemiler de kullanılmış mıydı?,"Dunkerque Tahliyesi'nde sadece askeri gemiler değil, aynı zamanda birçok sivil gemi de kullanıldı. Özel yatlar, balıkçı tekneleri, feribotlar ve hatta denizcilik kulüplerine ait küçük yelkenliler bile tahliyeye katıldı. Bu durum, tahliye operasyonunun başarısı için halkın büyük bir dayanışma örneği sergilediğini gösteriyor.","Dunkerque filosu, II. Dünya Savaşı'daki Fransa Muharebesi sırasında Dunkerque sahilinde mahsur kalan yaklaşık 350 bin İngiliz, Fransız ve Müttefik askerin kurtarılması için düzenlenen Dunkerque Tahliyesinde kullanılan irili ufaklı 850 adet gemiden oluşuyordu. İngiltere'deki Ramsgate Limanından kalkan gemiler 26 Mayıs - 4 Haziran 1940 arasında yaptıkları seferlerle önemli bir askerî gücün kurtarılmasında rol oynamışlardır.",0,1,[425],0,"Dunkerque Tahliyesinde kullanılan gemilerin çoğu **sivil gemilerdi**. 
+
+Aslında, İngiliz donanmasının gücü yetersiz olduğu için bu önemli kurtarma operasyonunda yaklaşık 850 adet gemi kullanılmıştı ve bunların çoğu balıkçı tekneleri, vapurlar, tekneler ve hatta yelkenliler gibi sivil gemilerdi. 
+
+Askeri gemilerin de kullanıldığı doğru ancak sayıları sivil gemilere kıyasla çok daha azdı. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+.
+",24.8,0.0,0.5331501776777551,0.8238953376433477
+68,68,83e08081-aa65-4e21-bf8c-ef8b54d70a38,ANSYS yazılımı hangi mühendislik alanlarında kullanılabilir?,"ANSYS, mekanik, yapısal, termal, akışkanlar dinamiği ve elektromanyetik gibi birçok farklı mühendislik disiplininde kullanılabilir. Otomotiv, havacılık, inşaat, enerji ve biyomedikal gibi çeşitli sektörlerde ürün tasarımı ve analizi için yaygın olarak kullanılır.","ANSYS, mühendislik alanında kullanılan bir simulasyon yazılımıdır.Ürünlerin tasarım aşamasından sonra kullanılır ve prototip üretilmeden önce, sanal ortamda test imkânı verir.
+Parçaların ve parça montajlarının 3 boyutlu simulasyonları yardımıyla, ürünün mukavemet, mekanik, titreşim gibi yönlerden incelenmesini sağlayarak tasarımı geliştirmeye yardımcı olur.
+ANSYS sonlu elemanlar yöntemini kullanan bir yazılımdır. İncelenecek olan parçayı birçok küçük elemana bölerek işlemlerini sürdürür.",0,1,[492],0,"ANSYS yazılımı oldukça geniş bir yelpazede mühendislik alanlarında kullanılabilir. 
+
+İşte bazı örnekler:
+
+**1. Mekanik Mühendisliği:**
+
+* **Yük Analizleri:** Parçaların statik ve dinamik yükler altında nasıl davrandığını simüle etmek için kullanılır. (örn. köprüler, binalar, araç parçaları)
+* **Sıcaklık Analizleri:** Parçaların ısı dağılımını ve ısı transferini simüle etmek için kullanılır. (örn. radyatörler, elektronik cihazlar)
+* ** Titreşim Analizleri:** Parçaların titreşim davranışlarını simüle etmek için kullanılır. (örn. motorlar, fanlar)
+* **Akış Analizleri:** Sıvı akışının ve gaz akışının simülasyonu için kullanılır. (örn. kanallar, hava araçları)
+
+**2. Kimyasal Mühendisliği:**
+
+* **Akışkan Kimyası Analizleri:** Kimyasal reaksiyonların ve akışkanların davranışlarının simülasyonu için kullanılır. (örn. kimyasal tesisler, enerji üretimi)
+
+**3.",24.8,0.0625,0.9416311804476178,0.9708910753069743
+69,69,0f89dfc7-c125-4613-893a-2615bbf2a23b,Simatic'in dört ana nesli hakkında bilgi verebilir misiniz?,"Simatic, 1958'den beri gelişen bir teknoloji olduğu için dört ana nesilden geçmiştir. Her nesil, daha gelişmiş işlemci gücü, daha fazla belleğe sahip olması ve yeni özellikler sunmasıyla karakterizedir. İlk nesil, temel PLC fonksiyonlarına odaklanırken, son nesiller ağ entegrasyonu, karmaşık kontrol algoritmaları ve insan-makine arayüzü gibi ileri özelliklere sahiptir.","Simatic Siemens tarafından 1958'de geliştirilen programlanabilir lojik kontrolör ve otomasyon sistemidir. Siemens'in bilgisayar kontrollü otomasyon ürünlerine verdiği addır. Dört ana nesilden geçmiştir.
+",0,1,[203],0,"Simatic, Siemens tarafından 1958 yılında geliştirilen ve otomasyon sektöründe devrim yaratan bir marka olmasının yanında, dört ana nesle de ev sahipliği yapmıştır. 
+
+İşte Simatic'in dört ana nesli hakkında bilgi:
+
+**1. Nesil (1958-1970'ler):**
+
+* Bu dönemde Simatic, temel mantık fonksiyonlarını yerine getiren, releler ve anahtarlarla çalışan ilk PLC'ler olan **Simatic 1** ile başlamıştır.
+* Bu nesil, otomatik kontrol sistemlerinin temellerini atmıştır ancak sınırlı işlem gücü ve giriş/çıkış sayısına sahipti.
+
+**2. Nesil (1970'ler-1980'ler):**
+
+* İkinci nesil Simatic, mikroişlemcilerle donatılmış olup, daha gelişmiş işlem gücü ve genişletilebilirlik sunmuştur.
+* **Simatic 2** ve **Simatic 3** modelleri, daha karmaşık otomasyon uygulamalarında kullanılmaya başlanmıştır.
+* Bu dönemde, programların yazılması için **STEP ",25.0,0.18181818181818182,0.5749252827065401,0.8248980190117057
+70,70,0e832fc4-c5d0-4a10-abb5-11f4669e335c,Sagittarius A* kara deliğinin kütlesi nasıl belirlendi?,"Sagittarius A*'nın yörüngesinde dönen yıldızların, özellikle S2 yıldızı'nın hareketleri gözlemlenerek kara deliğin kütlesi hesaplandı. Yıldızların yörünge hızı ve yörünge yarıçapları kullanılarak, Newton yasalarıyla kara deliğin kütle değeri tahmin edildi.","Sagittarius A* (kısaltılmış adıyla Sgr A*), Samanyolu'nun Galaktik Merkezi'ndeki süper kütleli kara deliktir. Yay ve Akrep takımyıldızlarının sınırında, ekliptiğin yaklaşık 5,6° güneyinde, Kelebek Kümesi (M6) ve Lambda Scorpii'ye görsel olarak yakın bir konumda yer alır.
+Bu nesne, parlak ve çok yoğun bir astronomik radyo kaynağıdır. Sagittarius A* adı ile bu yoğun kaynak, içinde gömülü bulunduğu daha büyük (ve çok daha parlak) Sagittarius A (Sgr A) bölgesinden ayrılmaktadır. Sgr A*, 1974 yılında Bruce Balick ve Robert L. Brown tarafından keşfedilmiş ve yıldız işareti *, gökada merkezinden gelen en güçlü radyo emisyonunun yoğun bir termal olmayan radyo nesnesine bağlı olduğunu anlayan Brown tarafından 1982 yılında atanmıştır.
+Başta S2 yıldızı olmak üzere Sagittarius A*'nın yörüngesindeki birkaç yıldızın gözlemleri, nesnenin kütlesini ve yarıçapının üst sınırlarını belirlemek için kullanıldı. Gökbilimciler, kütle ve giderek daha hassas hale gelen yarıçap sınırlarına dayanarak Sagittarius A*'nın Samanyolu'nun merkezi süper kütleli kara deliği olması gerektiği sonucuna vardılar. Şu anki kütle değeri 4,297±0,012 milyon güneş kütlesidir.
+Reinhard Genzel ve Andrea Ghez, Sagittarius A*'nın süper kütleli kompakt bir nesne olduğu ve o dönemde tek makul açıklamanın bir kara delik olması gerektiğini ortaya koydukları için 2020 Nobel Fizik Ödülü'ne layık görüldüler.
+Mayıs 2022'de gökbilimciler, dünya çapında bir radyo gözlemevi ağı olan Olay Ufku Teleskobu'nu (Event Horizon Telescope) kullanarak Sagittarius A*'nın ufuk çizgisi etrafındaki yığılma diskinin kara delik olduğunu doğrulayan ilk görüntüsünü yayınladılar. Bu, 2019 yılındaki Messier 87 süper kütleli kara deliğinden sonra bir kara deliğin teyit edilen ikinci görüntüsüdür. Kara deliğin kendisi görülmüyor, sadece hareketleri kara delikten etkilenen yakındaki nesneler görülüyor. Gözlenen radyo ve kızılötesi enerji, kara deliğin içine düşerken milyonlarca dereceye kadar ısınan gaz ve tozdan kaynaklanmaktadır.
+",0,1,[1985],0,"Metinde Sagittarius A* kara deliğinin kütlesi nasıl belirlendiği açıkça anlatılıyor.
+
+Özetle, gökbilimciler Başta S2 yıldızı olmak üzere Sagittarius A*'nın çevresinde dönen birkaç yıldızın gözlemlerini kullanarak kütlesini hesapladı. 
+
+Yıldızların yörüngelerini inceleyerek, çekim kuvvetinin kaynağının kütlesi ne kadar olduğuna dair bir sınır belirlediler. Giderek daha hassas hale gelen gözlem araçları sayesinde, Sagittarius A*'nın kütlesinin yaklaşık 4,297 milyon güneş kütlesi olduğu sonucuna vardılar. 
+
+
+Ayrıca, Reinhard Genzel ve Andrea Ghez'in 2020 Nobel Fizik Ödülü'ne layık görülmesinin nedeni de Sagittarius A*'nın süper kütleli bir kompakt nesne olduğu ve bunun bir kara delik olması gerektiği sonucuna varmalarıdır. 
+
+
+
+
+
+
+
+
+
+
+
+",25.3,1.0,0.5317230616547604,0.9999999999999994
+71,71,677fcd06-1bae-46e7-9658-b273b454f336,Role eğitimlerinde teorik bilgiler nasıl pekiştiriliyor?,"Role eğitimleri, teorik bilgilerin pratiğe dökülmesini sağlayan senaryolar ve simülasyonlar kullanır. Örneğin, yangın güvenliği eğitiminde katılımcılar gerçek bir yangın senaryosu yaşar gibi davranarak söndürme cihazlarını kullanmayı ve tahliye prosedürlerini uygulamayı öğrenirler.","Role eğitimleri, gemide yapılan, mümkün olduğunca gerçeklere uygun, uygulamalı eğitimlerdir. Bu eğitimlerde, aşağıdaki unsurlar aranır.
+
+Teorik bilgilerin pekişmesi,
+Refleks kabiliyetinin geliştirilmesi,
+Oluşabilecek sorunları önceden görülmesi ve tedbirlerinin alınması.
+",0,1,[272],0,"Role eğitimlerinde teorik bilgiler pekiştirilmek için birkaç yöntem kullanılır:
+
+**1. Ön Eğitim:** Eğitime başlamadan önce katılımcılara ilgili teorik konularda temel bilgiler verilmesi gerekir. Bu bilgiler, eğitimin sonunda pratikte nasıl uygulanacağını anlamalarına yardımcı olur.
+
+**2. Senaryo Hazırlama:** Eğitim senaryoları, teorik bilgilerin uygulanabileceği gerçekçi durumlar içermelidir. Örneğin, yangın söndürme eğitiminde, teorik olarak yangın söndürme cihazlarının nasıl kullanılacağı anlatıldıktan sonra, bir yangın senaryosu düzenlenerek bu bilgilerin pratikte nasıl uygulanacağı gösterilebilir.
+
+**3. Geri Bildirim:** Eğitim sırasında ve sonrasında katılımcılara geri bildirim verilmesi, teorik bilgilerin pekiştirilmesine yardımcı olur. Öğretmenler, katılımcıların uygulamalarını gözlemleyerek, eksik yönlerini belirleyebilir ve bunları gidermeleri için rehberlik edebilir.
+
+**4. Tartışma ve Analiz:** Eğitim sonunda, katılımcılarla teorik bilgiler",25.1,0.1,0.7527399334778415,0.8197197467809777
+72,72,3e9a2703-781a-4a17-bf80-4577d0f4583c,Grafolojinin psikoloji ile ilişkisi nedir?,"Grafoloji, el yazısından karakter tahlili yapmaya çalışırken psikoloji ilmi içinde henüz tam olarak kabul görmemiştir. Psikolojide el yazısıyla karakteri belirleme ve ölçme yöntemleri henüz geliştirilmemiş olsa da, grafoloji ile şahsiyet arasındaki bağlantıyı gösteren tecrübi sonuçlar bulunmaktadır. Bu nedenle grafoloji, davranış biliminde giderek daha fazla önem kazanmaya başlamıştır.","Grafoloji, el yazısından karakter tahlili yapmaya çalışan bir çalışma sahası. Grafolojistlere göre, diğer davranış şekilleri gibi, el yazısı da insanın kişiliği hakkında bilgi vermektedir. Bu teori her şahsın belirli bir şahsiyet ve davranışlarında devamlılık göstereceğini kabul etmektedir.
+El yazısının zaman ile değiştiği doğrudur. Hastalık, ruhî gerginlik gibi hallerde de el yazısı değişmektedir. Fakat şahsiyet üzerine ilmî bir çalışmanın yalnız bu teori üzerine kurulması mümkün değildir. Ama örneğin yıllar içinde saklanan defterler sayesinde el yazınızdaki ciddi değişikliklerin bir arada incelenebilmesi olanağı sayesinde neredeyse karakterden sağlık durumunuza kadar her şeyi öğrenebilirsiniz. En az bir yıllık yazılarınızın birlikte incelenmesi ile birlikte el yazınıza bakılarak check-up yapılması da mümkün olan incelemeler arasında yer alır. Bunların dışında henüz yazı yazmayı bilmeyecek kadar küçük yaşta olan çocukların yaptığı resimler ya da sadece çizgiler onun gelecekte nasıl yetenekleri olacağına dair de bilgiler vererek onların hayat içinde daha iyi yönlendirilmesine yardımcı olur.
+Psikoloji ilmi içinde elyazısı ile karakterleri belirleme ve ölçme metotları henüz geliştirilmemiştir. Yine de elyazısı stiliyle şahsiyet arasındaki alakayı gösteren tecrübi sonuçlar mevcuttur. Bu bakımdan grafoloji, davranış ilminde son zamanlarda önemli bir yer tutmaya başlamıştır. Yalnız yukarıda anlatılanlar adli (in. en:forensic) grafoloji için geçerli değildir. Adli grafoloji, bir imzanın asıl mı, kopya mı olduğunu veya iki ayrı belgenin aynı şahıs tarafından yazılıp yazılmadığı gibi konuları inceler. Bulduğu neticeler adli delil kabul edilir.
+",0,1,[1664],0,"Metinde grafolojinin psikoloji ile olan ilişkisi hakkında oldukça ilginç bilgiler bulunuyor. 
+
+Özetle, grafoloji el yazısından karakter tahlillerine odaklanırken, psikoloji ise insan davranışlarını ve zihinsel süreçlerini inceler. 
+
+İki alan arasında şu bağlantılar bulunuyor:
+
+* **Şahsiyet ile El Yazısı Arasındaki İlişki:** Grafolojiciler, el yazısının kişiliğin bir yansıması olduğunu savunurken, psikoloji alanında henüz bu ilişki bilimsel olarak kanıtlanmamıştır. Ancak, bazı tecrübi sonuçlar el yazısı stili ile şahsiyet arasındaki bağlantıyı göstermektedir.
+* **Davranış İlinde Yer Alması:** Son yıllarda grafoloji, davranış ilminde önemli bir yer edinmeye başlamıştır. Özellikle el yazısının kişiliği anlamak için bir araç olarak kullanılması bu alanda ilgi çekmektedir.
+* **Adli Grafolojinin Kanıt Değeri:** Adli grafoloji, imza sahteciliği gibi konularda adli delil olarak kabul edilen sonuçlar ortaya",25.3,0.8,0.638172923110318,0.8414943361745468
+73,73,4ef68e86-7b76-47f8-9a3f-17678725c522,Ferritin farklı çelik türlerini oluşturan karbonun çözünürlüğündeki farklılıklar neden önemlidir?,"Çelik, demir ve karbon alaşımından oluşur. Ferritin (alfa demir) yapısı, karbon atomlarını çözme kapasitesi düşükken, östenit (gama demir) yapısı daha yüksek miktarda karbonu çözebilir. Bu fark, çeliklerin sertlik, dayanıklılık ve diğer mekanik özelliklerini belirleyen önemli bir faktördür. Farklı çelik türleri üretmek için, ferritin ve östenitin oranı kontrollü bir şekilde değiştirilir.","Ferrit (ferrum: demir) veya alfa demir (α-Fe) oda sıcaklığında ve atmosfer basıncında stabil olan demirin fazlarından biri olan düşük karbonlu çelikte meydana gelen hacim merkezli kübik kristal yapıya sahip, ana bileşen olarak demir içeren katı bir çözeltidir. Çelik ve dökme demire manyetik özelliklerini veren bu kristal yapıdır ve ferromanyetik malzemenin klasik bir örneğidir.
+Atmosferik basınçta, sıcaklığa bağlı olarak üç allotropik demir formu vardır: alfa demir (α-Fe, ferrit), gama demiri (γ-Fe, östenit) ve delta demir (δ-Fe). Çok yüksek basınçta, dördüncü bir form vardır, epsilon demir (ε-Fe, hexaferrum). Bazı tartışmalı deneysel kanıtlar, çok yüksek basınç ve sıcaklıklarda stabil olan beşinci bir yüksek basınç formunun varlığını göstermektedir.
+Demirin atmosferik basınçtaki fazları, farklı çelik türlerini oluşturan karbonun çözünürlüğündeki farklılıklar nedeniyle önemlidir. Demirin yüksek basınçlı fazları, gezegensel çekirdeklerin katı kısımları için model olarak önemlidir. Dünya'nın iç çekirdeğinin genellikle ε yapıya sahip kristalin bir demir-nikel alaşımından oluştuğu varsayılır. Katı iç çekirdeği çevreleyen dış çekirdeğin nikel ile karıştırılmış sıvı demirden ve eser miktarda daha hafif elementlerden oluştuğuna inanılmaktadır.
+",0,1,[1257],0,"Ferritin farklı çelik türlerini oluşturan karbonun çözünürlüğündeki farklılıklar neden önemlidir? Çünkü bu çözünürlük farklılıkları demirin kristal yapısını ve dolayısıyla çeliklerin özelliklerini belirler.
+
+Örneğin, ferrit düşük karbonlu çelikte meydana gelir çünkü oda sıcaklığında alfa demir (ferrit) yapısına çözünebilen karbon miktarı sınırlıdır. Ancak, karbon içeriği arttıkça, çelik östenit yapısına dönüşür. Östenit yapısı, daha yüksek karbon miktarını çözünebilir hale getirir ve bu da çelikte sertlik, dayanıklılık ve mukavemet gibi özelliklerin artmasına neden olur.
+
+Dolayısıyla, karbonun çözünürlüğü ferritin içindeki demir atomlarının düzenini etkiler ve bu düzen değişiklikleri çeliklerin mekanik, manyetik ve termal özelliklerini belirler. 
+
+Özetle, karbonun çözünürlüğündeki farklılıklar, ferritin içindeki demir atomlarının nasıl düzenlendiğini belirleyerek, farklı çelik türlerinin özelliklerini şekillendirir.
+",25.2,0.8333333333333334,0.8505171998222726,0.8647426183475311
+74,74,b57c11b4-66f7-47dc-9645-2fa10637cabc,Reinhard Operasyonu'nun amacı neydi ve bu operasyon hangi yöntemlerle gerçekleştirildi?,"Reinhard Operasyonu, Nazi Almanyası tarafından Polonya Genel Valiliği'ndeki Yahudileri sistematik olarak öldürmeyi amaçlayan bir plan idi. Bu operasyon, Belzec, Majdanek, Sobibor ve Treblinka gibi toplama kamplarında gaz odaları kullanılarak gerçekleştirildi.  Milyonlarca Yahudi bu kamplara getirilerek öldürüldü ve cesetleri yakılarak izlerini örtbas etmeye çalıştılar.","Reinhardt Operasyonu (Almanca: Aktion Reinhardt veya Einsatz Reinhardt), Nazi planına Polonya Genel Valiliği (Generalgouvernement für die besetzten polnischen Gebiete)'ndeki Polonyalı Yahudiler'i öldürmek için verilen kod isimdi ve toplama kamplarında yakarak kurban etmenin en ölümcül evresinin başlangıcının işaretiydi. Belzec, Majdanek, Sobibor ve Treblinka'da çalışma esnasında, neredeyse iki milyondan çok yahudi öldürüldü.
+Reinhard Operasyonu Kasım 1943'te sona erdi. Personel ve gardiyanların çoğu daha sonra Yahudilere ve yerel partizanlara karşı daha fazla hareket için kuzey İtalya'ya gönderildi. Globočnik, siyasi tutukluların gözaltına alınmasını, işkence görmesini ve öldürülmesini denetlediği San Sabba toplama kampına gitti. Polonya'da Reinhard Operasyonu sırasında iki milyondan fazla insanın toplu katliamını örtbas etmek için Naziler, Aktion 1005 veya Enterdungsaktion (""mezar açma eylemi"") olarak da adlandırılan gizli Sonderaktion 1005'i uyguladılar. 1942'de başlayıp 1943'ün sonuna kadar devam eden operasyon, toplu katliamın tüm izlerini ortadan kaldırmak için tasarlandı. Kamp esirlerinden oluşan Leichenkommando (""ceset birimleri""), tahta ve demiryolu raylarından yapılmış dev ızgaralar kullanılarak toplu mezarları açmak ve gömülü cesetleri yakmak için oluşturuldu. Dahafından denetlendi. Savaştan sonra, bazı SS subayları ve gardiyanları, Reinhard Operasyonu ve Sonderaktion 1005'teki rolleri nedeniyle Nürnber sonra kemik parçaları özel freze makinelerinde öğütüldü ve tüm kalıntılar yeni çukurlara yeniden gömüldü. Aktion, Trawniki muhafızlarının birlikleri tarag mahkemelerinde yargılandı ve mahkûm edildi. Globočnik'in yardımcısı ve Ana Ofis şefi Ernst Lerch gibi diğerleri kaçtılar. Tanık ifadesi olmadığı için dava düştü.
+II. Dünya Savaşı'ndan sonra, bazı kamp bekçileri yargılandı ve çalışmada onların rolü için Nürnberg Mahkemesinde Reinhard ve Sonderaktion-1005 mahkûm edildi; yine de birçok diğeri, adaletten kurtuldu.
+",0,1,[1955],0,"Reinhard Operasyonu'nun amacı, Polonya Genel Valiliği'ndeki Polonyalı Yahudileri öldürmekti. 
+
+Bu operasyon, Belzec, Majdanek, Sobibor ve Treblinka adlı dört ölüm kampında gerçekleştirildi. 
+
+Yöntem olarak, Yahudiler toplu olarak kamplara getirildi ve orada çalışma esnasında öldürüldüler. Özellikle gaz odaları kullanarak sistematik bir şekilde katliam gerçekleştirildi. Ayrıca, Sonderaktion 1005 adlı gizli bir operasyonla, katliamın tüm izleri ortadan kaldırılmaya çalışıldı. 
+
+Bu operasyon sırasında, yaklaşık iki milyondan fazla Yahudi öldürüldü.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",25.3,0.8571428571428571,0.7799737343262351,0.9248163441974494
+75,75,69a2848a-9c04-4c1c-b249-94725b8ac6cf,HULC sistemi ne zaman kamuoyuna duyurulmuştur?,"HULC sistemi, 26 Şubat 2009 tarihinde AUSA Kış Sempozyumu'nda Lockhead Martin lisansı ile alenen duyurulmuştur.","Evrensel İnsan Yük Taşıyıcısı veya HULC, Profesör H. Kazerooni ve Ekso Biyonikleri ekibi tarafından geliştirilmiş, hidrolik sistem üzerine kurulmuş, insan biçimli bir dış iskelettir.
+Askerlerin 90 kiloya (200 lbs) kadar olan yükleri saatte 16 kilometrelik bir hızla taşıyabilmeleri için tasarlanmıştır. Berkeley Robotikleri ve İşbilim Laboratuvarı tarafından 2000 yılından beri geliştirme aşamasında olan sistem, Lockhead Martin lisansıyla 26 Şubat 2009 tarihinde AUSA Kış Sempozyumu'nda alenen duyurulmuştur.
+",0,1,[510],0,"Cevabınız doğrudur! 
+
+HULC sistemi 26 Şubat 2009 tarihinde AUSA Kış Sempozyumu'nda alenen duyurulmuştur.  
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+>>
+
+
+
+>
+
+
+
+>
+
+
+
+>
+
+
+
+.>
+
+
+
+.>
+
+
+
+.>",24.9,1.0,0.7283520979959791,0.8601534967887382
+76,76,5c41d2d6-c1ce-43e3-8853-b84f39924a07,Linnaeus'un Systema Naturae kitabının zoolojik sınıflandırmada önemi nedir?,"Linnaeus'un Systema Naturae kitabının 10. baskısı (1758), günümüzde kullanılan ikili adlandırma sistemini tutarlı bir şekilde kullanan ilk eser olması nedeniyle zoolojik sınıflandırmanın başlangıç noktası olarak kabul edilir.","Systema Naturae (Latince) İsveçli botanikçi, zoolog ve doktor Carolus Linnaeus'un (1707–1778) en önemli eserlerinden biridir ve Linnaeus Taksonomisini öne sürer. Günümüzde ikili adlandırma olarak bilinen bu sistem aslında Linnaeus'tan 200 yıl önce Gaspard ve Johann Bauhin kardeşler tarafından kısmen geliştirilmiş olsa da Linnaeus kitabında bu sistemi tutarlı olarak kullanan ilk kişidir. Kitabın ilk basımı 1735 yılında yapılmıştır. En önemli baskı sayılan kitabın 1758 yılında yapılan 10. baskısının tam adı Latince Systema naturæ per regna tria naturæ, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locistir ve Türkçeye şöyle çevrilir: ""Sınıflara, takımlara, cinslere ve türlere göre; mizaçları, farklılıkları, sinonimleri ve yerleri ile birlikte; doğanın üç âlemi içinde doğanın sistematiği"".
+Bu kitabın 10. baskısı (1758) zoolojik sınıflandırmanın başlangıç noktası olarak kabul edilir. Linnaeus kendisine ait en son daha gelişmiş olan 12. baskıyı 1766–1768 yılları arasında yapmıştır. Yine daha gelişmiş olan ve aynı tarzda yazılmış ""Systema Naturae"" adlı eser 1788 ila 1793 yılları arasında Johann Friedrich Gmelin tarafından yayımlanmıştır. Bu son eser yirminci yüzyılın başından itibaren zoologlar tarafından aynı serinin son baskısı olarak kabul görmüştür. Ayrıca resmî olarak da Uluslararası Zoolojik Adlandırma Komisyonunun 296 nolu içtihadı ile (26 Ekim 1954) bu eser Systema Naturae serisinin 13. baskısı olarak kabul edilmiştir.
+",0,1,[1487],0,"Linnaeus'un Systema Naturae kitabının zoolojik sınıflandırmada önemi çok büyüktür. 
+
+İşte bazı temel nedenler:
+
+1. **İkili Adlandırma Sisteminin Tanıtımı:** Kitabında Linnaeus, bugün hala kullandığımız ikili adlandırma sistemini sistematik olarak ortaya koydu. Bu sistem, her canlıya Latince bir cins adı ve bir tür adı vererek onları benzer özelliklere sahip gruplara ayırır. Örneğin, insanın bilimsel adı *Homo sapiens* şeklindedir.
+
+2. **Sınıflandırma Sisteminin Geliştirilmesi:** Linnaeus, canlıları krallık, filum, sınıf, takım, cins ve tür olmak üzere yedi sınıfa ayıran bir sınıflandırma sistemi geliştirdi. Bu sistem, günümüzde hala temel alınan bir yapı sağlar.
+
+3. **Zoolojik Bilginin Derlenmesi:** Systema Naturae, o dönemde bilinen yaklaşık 4.400 hayvan türünün detaylı tanımlamalarını içerir. Bu, zoolojik bilgi birikiminin derlenmesi ve sistematik bir şekilde düzenlenmesinde önemli bir adım oldu.
+
+4. **Uluslararası",25.2,0.625,0.8511280153604789,0.8903459603376328
+77,77,180bab50-1550-48ac-a8f0-10e60e7ef660,Neith'in kültünün yoğunlaştığı bölge neresiydi ve bu bölgede hangi öneme sahipti?,"Neith'in kültü Aşağı Mısır'ın batı Nil Deltası'nda yoğunlaşmıştır. Bu bölge, Neith tapınaklarının ve kutsal alanlarının bulunduğu önemli bir dini merkezdi.","Neith /ˈniː.ɪθ/ /ˈniː.ɪθ/ (Nit, Net veya Neit olarak da yazılmıştır), ilk ve birincil yaratıcı olduğu söylenen erken bir eski Mısır tanrısıydı. Evrenin ve içerdiği her şeyin yaratıcısı olduğu söyleniyordu ve nasıl işlediğini o yönetiyor. Bilgeliğin, dokumanın, kozmosun, annelerin, nehirlerin, suyun, doğumun, avlanmanın, savaşın ve kaderin tanrıçasıydı. Savaşçı bir tanrıçaydı.
+Neith kültünün Aşağı Mısır'ın batı Nil Deltası'nda yoğunlaştığı bilniyor. Neith aynı zamanda güneydeki Latopolis şehrinin üç vesayet tanrısından biriydi.
+",0,1,[533],0,"Metinde zaten cevabınız bulunuyor! 
+
+Neith kültünün yoğunlaştığı bölge **Aşağı Mısır'ın batı Nil Deltası'ydı**. Ayrıca, güneydeki **Latopolis şehrinin üç vesayet tanrısından biri** olarak da kabul ediliyordu. 
+
+Bu bölgede Neith'in kültü oldukça önemliydi. 
+
+
+
+
+
+
+
+
+
+........
+
+
+
+.......
+
+
+
+.",25.1,0.6666666666666666,0.6676327898885889,0.9528205138093336
+78,78,0b6038bc-6889-4f2a-8617-a47c5ec59f28,Zeigarnik etkisi günlük hayatta nasıl kendini gösterir? Örneklerle açıklayabilir misiniz?,"Zeigarnik etkisi, günlük hayatımızda birçok alanda kendini gösterir. Örneğin, yarım bıraktığımız bir kitabı düşünün. Kitabı bitirene kadar zihnimiz sürekli olarak hikayenin devamını ve merak ettiğimiz noktaları hatırlar. Ancak kitabı bitirdiğimizde, bu düşünceler genellikle azalır. Benzer şekilde, tamamlanmamış bir proje veya görev üzerinde çalışırken, zihnimiz sürekli olarak bu görevi hatırlatır ve bizi dikkatimizi dağıtmadan odaklanmaya iter. Ancak görevi tamamladığımızda, zihnimiz rahatlar ve görevi daha kolay unutabiliriz.","Zeigarnik etkisi; kişilerin tamamlanmamış veya bölünmüş-yarıda kesilmiş etkinlikleri, tamamlananlara göre daha kolay hatırladığını ifade eden psikolojik bir kavram. Sovyet psikolog ve psikiyatr Bluma Zeigarnik tarafından bir restoranda yapılan gözlem sonucu bulunmuştur. Zeigarnik, garsonların siparişleri sadece servis sırasında hatırladıklarını, servis tamamlandıktan sonra siparişi hafızalarından sildiklerini fark eder. Konuyla ilgili çalışmalar ve deneyler yapar. Yaptığı çalışmalarla; bitirilmemiş, sonlandırılmamış işlerin, zihni meşgul ettiği ve iş bitince, zihnin bu meşguliyetten kendini kurtardığı sonucuna ulaşır.
+",0,1,[626],0,"Zeigarnik etkisi günlük hayatta birçok alanda kendini gösterir. İşte bazı örnekler:
+
+**1. Ödevler ve Görevler:**
+
+* Ödevlerinizi tamamlamadığınızda, onları sürekli aklınızdan çıkarmamanız, hatta uyumadan önce bile onları düşünmeniz bu etkiyi gösterir. Tamamlanan ödevler ise zihninizden kolayca silinir.
+* Bir projeyi yarım bıraktığınızda, onu bitirmek için sürekli motivasyon duymanız ve hatta boş zamanlarınızda bile o projeyi düşünmeniz bu etkiye örnektir.
+
+**2. Alışveriş ve İletişim:**
+
+* Alışveriş merkezinde bir ürün gördüğünüzde, ancak satın almaya karar vermediğinizde, o ürünü sürekli aklınızdan çıkarmanız bu etkiyi gösterir. 
+* Bir arkadaşınızla konuşurken, konuşmanın yarım kaldığında, o konuşmanın sonucunu merak etmeniz ve tekrar konuşmak istemeniz bu etkiye örnektir.
+
+**3. Hobiler ve Eğlence:**
+
+* Bir kitabı yarım bıraktığınızda, onu bitirmek için sürekli heyecan duy",25.2,0.4,0.48310264465020725,0.8496119506981142
+79,79,b57f333f-467d-4bd4-a93d-14a6ab01503a,"Finansal kriptografi, geleneksel kriptografi ile nasıl farklılık gösteriyor?","Finansal kriptografi, geleneksel kriptografinin aksine, askeri ve diplomatik amaçların ötesinde finansal uygulamalarda kullanılır. Özellikle yeni para biçimlerinin oluşumu ve finansal transferlerin güvenli bir şekilde gerçekleştirilmesi için gerekli mekanizmaları ve algoritmaları içerir.","Finansal kriptografi, mesaj sisteminin altüst olması nedeniyle finansal kayıpların ortaya çıkabileceği uygulamalarda kriptografinin kullanılmasıdır. Finansal kriptografi, kaydedilen tarihin çoğunda, kriptografinin neredeyse tamamen askeri ve diplomatik amaçlarla kullanıldığı için geleneksel kriptografi ile farklı yönleri vardır.
+Finansal kriptografi, yeni para biçimlerinin oluşmasına ek olarak, finansal transferlerin korunması için gerekli mekanizmaları ve algoritmaları içermektedir. Emek ispatı ve çeşitli açık artırma protokolleri, finansal kriptografi kapsamındadır. Sistemde Hashcash, hizmet engelleme saldırılarını sınırlandırmak için kullanılmaktadır.
+Finansal kriptografi, geniş bir uygulama alanına sahiptir. Ian Grigg'e göre; kriptografi, yazılım mühendisliği, haklar, muhasebe, yönetim, ekonomik değer ve finansal uygulamalar olmak üzere yedi farklı disiplinin birleşimi olarak finansal kriptografi yedi katmandadır. İş başarısızlıklarının nedeni, genellikle bu disiplinlerden birinin veya daha fazlasının bulunmamasına veya bunların kötü uygulanmasına bağlıdır. Finansal kriptografi, disiplinlerarası bir konu olarak özetlenmektedir. Bu durum, finans ve kriptografinin her birinin birden fazla disiplin üzerine inşa edildiğini açıklamaktadır.",0,1,[1258],0,"Metinde zaten oldukça güzel bir şekilde anlatılmış ancak özetlemek gerekirse:
+
+Finansal kriptografi, geleneksel kriptografi'den temel olarak aşağıdaki açılardan ayrışır:
+
+1. **Amaç:** Geleneksel kriptografi, askeri ve diplomatik gizliliği sağlamak amacıyla kullanılırken, finansal kriptografi finansal işlemlerin güvenliğini ve bütünlüğünü sağlamak için tasarlanmıştır.
+
+2. **Uygulama Alanı:** Geleneksel kriptografi, mesaj şifreleme ve kimlik doğrulama gibi alanlarda kullanılırken, finansal kriptografi ayrıca yeni para birimleri (kripto para), finansal transferlerin korunması, emek ispatı ve açık artırma protokolleri gibi alanlarda da uygulama bulmaktadır.
+
+3. **Disiplinlerarası Yaklaşım:** Finansal kriptografi, yazılım mühendisliği, haklar, muhasebe, yönetim, ekonomik değer ve finansal uygulamalar gibi yedi farklı disiplinin bir araya gelmesiyle ortaya çıkan disiplinlerarası bir konudur. Geleneksel kriptografi ise daha dar bir alanda odaklanır.
+
+4. **Tekno",25.2,0.7142857142857143,0.7054641036213727,0.875153114414586
+80,80,8eb1a4a1-d013-4ef9-a268-1b4542a9938d,Barak'ın Kerkes kuşuyla bağlantısı nedir ve bu bağlantı bize ne anlatıyor?,"Barak, mitolojide Kerkes adlı kuşun yumurtasıyla doğar. Bu, Barak'ın kutsallığını ve doğaüstü güçlerini vurgulamaktadır. Kerkes kuşu genellikle bilgelik ve uzun ömürle ilişkilendirilirken, Barak da hız ve koruma gücüyle sembolize edilir. Bu bağlantı, Türk mitolojisinde hayvanların önemli bir role sahip olduğunu ve doğanın kutsal sayıldığını gösterir.","Barak - Türk mitolojisinde Kutsal Köpek. Efsanevi bir köpek türü. Tüylü ve çok kıllıdır. Kutlu kabul edilir. Çok hızlı koşar. Kerkes adlı kuş yaşlanınca iki yumurta bırakır. Bu yumurtalardan birinden Barak adlı köpek çıkar. Diğer yumurtadan ise bir kuş yavrusu çıkar. Anadoluda tüylü av köpeklerine de bu ad verilir. Anadolu'da Barak Ata (Barak Baba) adlı bir evliyanın yer alması tesadüfi değildir. Büyük olasılıkla bu isim, bu anlayışın sonucu bir unvan olarak verilmiştir. Türkler, İslamiyeti kabul ettiktten sonra, sözcük benzerliği nedeniyle ""Barak"" yerine ""Burak"" adını geçirmişlerdir.
+",0,1,[592],0,"Barak'ın Kerkes kuşuyla olan bağlantısı, Türk mitolojisinde köken hikayesini anlatıyor. 
+
+Efsaneye göre, yaşlı bir Kerkes kuşu iki yumurta bırakır. Bu yumurtalardan birinden Barak adlı kutsal köpek çıkar, diğerinden ise yeni bir kuş yavrusu doğar. 
+
+Bu bağlantı bize birkaç önemli şeyi anlatıyor:
+
+1. **Doğa Dünyasının İntikamı:** Barak'ın doğumu, doğanın döngüsünü ve yenilenmesini simgeliyor. Yaşlı Kerkes kuşunun iki yumurta bırakması, yaşamın sürekliliğini ve dönüşümünü temsil ediyor.
+2. **Kutsal Köpek Konsepti:** Barak'ın Kerkes kuşundan doğması, onun kutsal bir varlık olduğunu gösteriyor. Bu bağlantı, köpeklerin Türk kültüründe saygı duyulan ve kutsal kabul edilen hayvanlar arasında yer aldığını ortaya koyuyor.
+3. **Efsanelerin Önemi:** Bu efsane, Türk kültüründe anlatılan hikayelerin önemini vurguluyor. Efsaneler, toplumsal değerleri, inançları ve mitolojik",24.9,0.36363636363636365,0.6467600810824303,0.8962436247044763
+81,81,7d861966-aa9a-4ee7-801f-fcc9fb90f5af,Deinococcus radiodurans'ın radyasyona bu kadar dayanıklı olmasının sebebi nedir?,"Deinococcus radiodurans'ın radyasyona karşı olağanüstü direnci, çoklu kopyalı genleri, etkili DNA onarım mekanizmaları ve benzersiz hücre duvarı yapısı gibi faktörlere bağlanmaktadır. Radyasyon hasarı oluştuğunda, bu bakteri hızlı ve verimli bir şekilde DNA'sını onarabilir ve hayatta kalabilir.","Deinococcus radiodurans, ekstremofilik bir bakteri olup radyasyona karşı bilinen en dayanıklı canlılardan biridir. Bakteri, soğuk, dehidrasyon, vakum ve asit gibi diğer birçok aşırı koşula da dayanabilmekte ve bu nedenle poliekstremofiller arasında gösterilmektedir. Bu bakteri türü, en dayanıklı canlı olarak Guinness Rekorlar Kitabı'na işlenmiş durumdadır.
+",0,1,[359],0,"Deinococcus radiodurans'ın radyasyona karşı inanılmaz dayanıklılığının sebebi birkaç faktöre bağlanabilir:
+
+1. **DNA onarım mekanizmaları:** Deinococcus radiodurans, diğer bakterilere kıyasla çok daha gelişmiş bir DNA onarım mekanizmasına sahiptir. Radyasyondan kaynaklanan DNA hasarlarını hızlı ve etkili bir şekilde onarabilirler. Özellikle, dört adet kromozomuna sahip olmaları ve bunların sıkıca sarılı bir şekilde paketlenmesi, DNA'nın hasar görmesini azaltır. Ayrıca, özel enzimler sayesinde DNA parçalarını bir araya getirerek hasar görmüş bölümleri onarabilirler.
+
+2. **Antioksidan savunma sistemi:** Deinococcus radiodurans, yüksek seviyelerde antioksidanlara sahiptir. Bu antioksidanlar, radyasyondan kaynaklanan serbest radikallerin zararlarını önler ve hücre hasarını azaltır.
+
+3. **Spore oluşumu:** Bazı koşullarda, Deinococcus radiodurans spor oluşturabilir. Sporlar, hücrenin kendini korumak için oluşturduğu dirençli bir",24.9,0.0,0.6120143019107792,0.8879936052850749
+82,82,a46a496d-7cda-4177-98ef-1750cc78f18f,ETR&D dergisinin hangi iki ana bölümden oluştuğunu ve bu bölümlerin odak noktaları neler olduğunu açıklar mısınız?,"ETR&D dergisi, eğitim teknolojisi alanındaki araştırmalara ve geliştirilen teknolojilere odaklanan iki bölümden oluşmaktadır. Birinci bölüm, alanda yapılan araştırma çalışmalarını; ikinci bölüm ise geliştirilen yeni eğitim teknolojilerini ele almaktadır.","Educational Technology Research and Development, (ETR&D, Eğitim Teknolojisi Araştırma ve Geliştirme ) Eğitim Teknolojisi bilim dalının uluslararası akademik örgütü olan Association for Educational Communications and Technology'nin (AECT, Eğitimsel İletişimler ve Teknoloji Derneği) yayınladığı süreli bir akademik dergidir.
+ETR&D, eğitim teknolojisi alanındaki en saygın hakemli dergidir. İki bölümden oluşan derginin birinci kısmında alanda yapılan araştırmalar ikinci kısmında ise geliştirilen teknolojilere ağırlık verilmektedir.
+",0,1,[533],0,"ETR&D dergisi, iki ana bölümden oluşur:
+
+**1. Araştırma Bölümü:**
+
+Bu bölümde, eğitim teknolojisi alanında yapılan akademik araştırmalar yayınlanır. Odak noktası, eğitim teknolojisinin etkilerini incelemek, yeni eğitim yöntemleri geliştirmek ve mevcut yöntemlerin etkinliğini değerlendirmek üzerine kuruludur. 
+
+**2. Geliştirme Bölümü:**
+
+Bu bölümde ise, eğitim teknolojilerinin geliştirilmesine odaklanır. Yeni eğitim yazılımları, araçları ve platformlarının tanıtımı, deneyimlerin paylaşımı ve geliştirilme süreçlerine dair çalışmalar bu bölümde yer alır. 
+
+Özetle, ETR&D dergisi hem eğitim teknolojisi alanındaki akademik bilginin paylaşılmasına hem de yeni teknolojilerin geliştirilmesine katkı sağlamayı amaçlar. 
+",25.0,0.36363636363636365,0.4789304503811913,0.8626002759772734
+83,83,837e361b-acf3-4d0c-8455-9ea76977d919,Belavadi köyündeki Viranarayana tapınağı hangi mimari stile göre inşa edilmiştir?,"Viranarayana tapınağı, Hoysala İmparatorluğu dönemine ait bir yapı olup, Hoysala mimarisinin güzel örneklerinden biridir.","Belavadi (Kannada dili: ಬೆಳವಾಡಿ) ya da diğer adıyla Ekaçakranagara, Hindistan'ın Karnataka eyâletinin Çikmagalur ilinde bulunan bir köydür. Belur ve Halebidu şehirlerine çok yakın olan bu köyde bulunan Viranarayana tapınağı Hoysala İmparatorluğu zamanından kalmadır. Hoysala mimarisinin örneklerinden biri olan tapınak Hoysala kralı III. Veera Ballala zamanında 1200 yılında yapılmıştır.
+",0,1,[388],0,"Verdiğiniz metne göre, Belavadi köyündeki Viranarayana tapınağı **Hoysala mimari** stiline göre inşa edilmiştir. 
+
+Metinde ayrıca, tapınağın Hoysala İmparatorluğu zamanından kaldığı ve Hoysala kralı III. Veera Ballala tarafından 1200 yılında yaptırıldığı belirtilmektedir. 
+",25.1,1.0,0.8317893747468766,0.9730530030677845
+84,84,8695dc7f-af90-4a2c-862b-284fd5a0a9e2,Mr. Robot dizisinin ana karakteri Elliot'un hangi psikolojik sorunları var?,"Elliot Alderson, sosyal anksiyete bozukluğu, çoklu kişilik bozukluğu, klinik depresyon, şizofreni ve uyuşturucu bağımlılığı ile mücadele eden bir karakterdir.","Mr. Robot, Sam Esmail tarafından kaleme alınmış Amerikan psikolojik gerilim-dram televizyon dizisi.
+Dizinin baş karakteri Elliot Alderson (Rami Malek), sosyal anksiyete bozukluğu, çoklu kişilik bozukluğu, klinik depresyon, şizofreni ve uyuşturucu bağımlılığı ile boğuşan bir siber güvenlik uzmanı ve hacker'dır. Elliot, ""Mr. Robot"" (Christian Slater) lakabıyla tanınan bir anarşist tarafından ""fsociety"" adlı hacktivist gruba katılmaya davet edilir. Grubun amacı, dünyanın en büyük şirketler topluluğu olana E Corp'un finansal verilerini şifreleyerek tüm borç kayıtlarını yok etmektir.
+Dizinin ilk bölümü 27 Mayıs 2015'te VoD servisleri üzerinden yayımlandı. Dizi, 24 Haziran 2015'te USA Network kanalında yayımlanmaya başlandı. İkinci sezon 13 Temmuz 2016'da, üçüncü sezon 11 Ekim 2017'de yayımlanmaya başlandı. Dizinin 13 bölümden oluşan dördüncü ve son sezonu 6 Ekim 2019'da yayımlanmaya başlandı ve 22 Aralık 2019'da son buldu.
+Mr. Robot, özellikle Malek ve Slater'ın performansları, hikâyesi, görsel sunumu ve Mac Quayle'ın besteleri sayesinde eleştirmenlerden büyük övgü almıştır. Dizi, bir kült takipçi kitlesi kazanmıştır. Esmail, dizinin yönetmenliği için beğeniler toplamıştır; ilk sezonun üç bölümünün yönetmenliğini yaptıktan sonra, geri kalan tüm şovun tek yönetmeni olarak görev yapmıştır. Dizi, iki Altın Küre Ödülü, üç Primetime Emmy Ödülü ve bir Peabody Ödülü de dahil olmak üzere birçok ödül kazanmıştır.
+",0,1,[1423],0,"Metinde belirtildiği gibi, Elliot Alderson'ın aşağıdaki psikolojik sorunları var:
+
+* **Sosyal anksiyete bozukluğu**
+* **Çoklu kişilik bozukluğu**
+* **Klinik depresyon**
+* **Şizofreni**
+* **Uyuşturucu bağımlılığı** 
+
+
+Elliot, bu sorunlarla mücadele ederken aynı zamanda bir siber güvenlik uzmanı ve hacker olarak yeteneklerini kullanır. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+.
+
+",25.4,1.0,0.9160414662635402,0.8615338920628787
+85,85,0838339e-9245-43d0-9331-68b0b25bb4d5,Gor serisindeki kitaplarda kadın erkek arasındaki köle efendi ilişkisi nasıl işleniyor ve bu durum hangi tartışmaları beraberinde getiriyor?,"Gor serisinde, kadınlar genellikle erkeklerin mülkü olarak tasvir edilir ve kölelik yaygın bir uygulamadır. Bu ilişki, bazı okurlar tarafından erotik ve fantastik bulunsa da, diğerleri tarafından cinsiyetçi ve zararlı olarak eleştirilir. Serinin bu yönü, güç dinamikleri, rıza kavramı ve kadınların temsili gibi konularda tartışmalara yol açmıştır.","Gor ya da diğer adıyla ""Chronicles of Counter Earth"" serinin ilk kitabı ""Tarnsman of Gor"" 1966 yılında ilk kez yayımlanmıştır. Asıl adı John Frederick Lange, Jr. Chicago doğumlu olan, akademisyen ve felsefe profesörü yazar, kitapları John Norman takma adıyla yazmıştır.
+Kitaplar, İngiliz dil bilimci ve genç bir akademisyen olan, Bristol'den Tarl Cabot'un bir uzay gemisiyle kaçırılmasıyla başlar, kendini Gor adında başka bir gezegende bulur, bir anda başka bir kültüre, hatta dile adapte olmaya çalışır, kendi, ailesi ve gezegen hakkındaki gizemler, kitapların ilerleyen bölümlerinde yavaş yavaş çözülecektir.
+Ayrıca kitapların içindeki kadın erkek arasındaki köle, efendi ilişkisi bazı alt kültürlere ilham olmuştur.",0,1,[719],0,"Gor serisindeki kadın-erkek ilişkisi oldukça tartışmalı bir konu. Kitaplarda, kadınlar temelde erkeklerin mülkiyetinde olan köleler olarak tasvir edilir. 
+
+Bu durum beraberinde birkaç temel tartışmayı getiriyor:
+
+**1. Cinsiyet Eşitsizliği:** Gor'da kadınların erkeklerden tamamen bağımsız olmadığı, hatta onların mülkiyetinde olduğu açıkça gösterilir. Bu durum, kadınların toplumsal statüsünün erkeklerden ne kadar aşağıda olduğu konusunda şüphe bırakmayacak şekilde vurgulanır.
+
+**2. Kölelik ve İşkence:** Seride kadın kölelerin erkek efendilerine karşı maruz kaldıkları şiddet ve istismar açıkça anlatılır. Bu durum, köleliğin insan haklarına aykırı olduğunu ve asla kabul edilemez bir durum olduğunu vurgulamaktadır.
+
+**3. Seksüel Sömürü:** Gor'da kadınların erkek efendileri tarafından cinsel olarak sömürülmesi yaygındır. Bu durum, kadınların bedenlerinin onların kontrolünde olmadığı ve erkeklerin isteklerine göre kullanılabileceği fikrini destekler.
+
+**4",25.0,0.5555555555555556,,0.835814388184664
+86,86,e9f41b09-1116-4d6d-8397-8e9be6c2d2f9,Sonic Forces oyununda hangi farklı oyun modları bulunmaktadır?,"Sonic Forces üç farklı oyun modu sunmaktadır: Klasik, Modern ve Avatar. Klasik mod, orijinal Sega Genesis Sonic oyunlarına benzer side-scrolling bir deneyim sunarken, Modern mod Sonic Unleashed ve Sonic Colours gibi 3D platforming oyunlarına benzemektedir. Avatar modu ise oyuncunun kendi özel karakterini yaratıp kontrol etmesini sağlar.","Sonic Forces (Japonca: ソニックフォース Sonikku Fōsu), 2017 yılında Sonic Team tarafından geliştirilen ve Sega tarafından yayınlanan bir platform video oyunudur. Oyun, Sonic the Hedgehog serisinin 17. oyunu olup Sonic serisinin 25. yıldönümü anısına hazırlandı ve Kasım 2017 tarihinde Nintendo Switch, PlayStation 4, Xbox One, Microsoft Windows, iOS ve Android için piyasaya sürüldü.
+Oyunun hikâyesi, Sonic'in Dr. Eggman'i durdurmak için bir direniş gücüne katıldığını anlatmaktadır. ""Klasik"", orijinal Sega Genesis Sonic oyunlarına benzer side-scrolling oyun, Sonic Unleashed ve Sonic Colours benzeri ""Modern"", 3D oyun ve oyuncunun özel karakteri ""Avatar"" ı içeren bir mod olmak üzere üç oyun modu sunmaktadır. Oyun Sonic'in ilk çizgi filmlerindeki gibi Dr.Eggman'in işgaline karşı direnen Sonic ve arkadaşlarının direniş mücadelesini anlatmaktadır.
+Oyun öncelikle Sonic Colours ve Sonic Generations üzerinde çalışan ve Sonic Unleashed and Generations oyununda kullanılan Hedgehog Engine'in güncellenmiş bir versiyonunu kullanan personel tarafından geliştirildi. Geliştirme, 2013 yılında Sonic Lost World oyununun piyasaya sürülmesinden sonra başladı. Oyun, serinin önceki oyunlarına kıyasla daha koyu bir tonda olması amaçlandı ve karakter oluşturma sistemi, geliştiricilerin yıllar boyunca karşılaştığı Sonic fan sanatından ilham aldı. Sonic Forces, Sonic Mania ile birlikte 2016 San Diego Comic-Con'daki Sonic 25. yıldönümü etkinliği sırasında Project Sonic 2017'nin çalışma başlığı altında duyuruldu.
+Sonic Forces, eleştirmenlerden karışık eleştiriler aldı. Sunumunu, karakter yaratma sistemini ve Modern Sonic oyununu övdüler, ancak seviye tasarımı, arsa, kısa uzunluk ve eleştirilen teknik sorunları eleştirdiler. Birçok eleştirmen, oyunun hırstan yoksun olduğunu ve o yılın başlarında yayınlanan olumlu karşılanan Sonic Mania oyununun ardından hayal kırıklığı yarattığını hissetti. IDW Comics'in yayınladığı yeni Kirpi Sonic çizgi roman serisi bu oyundaki olayların ardından yaşananlarra odaklanmaktadır.
+",0,1,[2005],0,"Sonic Forces oyununda üç farklı oyun modu bulunmaktadır:
+
+1. **Klasik:** Orijinal Sega Genesis Sonic oyunlarına benzer side-scrolling oyun deneyimi sunar.
+2. **Modern:** Sonic Unleashed ve Sonic Colours gibi oyunlarda görülen 3D oyun deneyimi sunar.
+3. **Avatar:** Oyuncunun kendi özel karakterini oluşturarak oynayabileceği bir moddur. 
+
+
+Umarım yardımcı olmuştur! 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>",25.3,1.0,0.9932684878710865,0.9818207914828182
+87,87,38bfd21f-edbb-42b1-a38e-04ff673d4762,Hen 3-1475 ön gezegenimsi bulutsusunun merkezi yıldızı Güneş'ten ne kadar daha büyük?,Metinde merkezi yıldızın aydınlatma gücünün Güneş'ten 12.000 kat daha fazla olduğu belirtilmiş ancak boyutuyla ilgili bir bilgi yer almamaktadır.,"Hen 3-1475 veya IRAS 17423-1755, Yay takımyıldızında yaklaşık olarak 18.000 ışık yılı uzaklıkta bulunan bir ön gezegenimsi bulutsudur. 1976 yılında Karl Gordon Henize tarafından keşfedilmiştir. Merkezi yıldız, Güneş'ten 12.000 kat daha fazla aydınlatma gücüne sahiptir.
+",0,1,[270],0,"Metinde merkezi yıldızın Güneş'ten 12.000 kat daha fazla aydınlatma gücüne sahip olduğu belirtiliyor. Ancak, aydınlatma gücü ile yıldızın büyüklüğü arasında doğrudan bir ilişki yoktur. 
+
+Yıldızın büyüklüğünü belirlemek için çapı veya kütlesi gibi parametrelere bakmamız gerekir. Metinde merkezi yıldızın çapı veya kütlesi hakkında bilgi verilmemiş. 
+
+Yalnızca aydınlatma gücünden yola çıkarak yıldızın Güneş'ten yaklaşık 12.000 kat daha büyük olduğunu söyleyebiliriz. Ancak, bu sadece bir tahmindir ve gerçek büyüklüğü için daha fazla bilgiye ihtiyacımız vardır. 
+
+>>>>>
+",25.0,0.2857142857142857,0.4252596065185611,0.0
+88,88,983c88e8-bef2-4068-a11a-57fc733bfae5,Baade Penceresi'nin Samanyolu'nun gökada merkezi tarafından gizlenmesinin sebebi nedir?,"Samanyolu, yıldızlararası toz ve gaz bulutlarıyla doludur. Bu bulutlar, ışığın geçmesini engelleyerek gökyüzünde belirli bölgeleri gözlemimizi engeller. Baade Penceresi'nin bulunduğu bölge normalde bu yoğun toz bulutları tarafından gizlenir ancak bu bölgede toz miktarı nispeten daha az olduğu için, Samanyolu'nun merkezini gözlemleyebiliriz.","Baade Penceresi, Dünya'dan görüş hattı boyunca yıldızlararası ""toz""un nispeten düşük miktarda bulunduğu gökyüzündeki bir bölgedir. Bu bölge, normalde Samanyolu'nun gökada merkezi tarafından gizlenmiş olan alanda, bu yönde gözlemlenebilir bir ""pencere"" olarak kabul edilir. Önemini ilk olarak kabul ettiren gök bilimci olan Walter Baade'nin adıyla anılır. Bu bölge, Samanyolu'nun parlak görünen parçalarından birine denk gelir.
+",0,1,[427],0,"Baade Penceresi'nin Samanyolu'nun gökada merkezi tarafından gizlenmesinin sebebi, Samanyolu'nun içinde bulunduğumuz galaksinin kendi toz ve gaz bulutlarından kaynaklanır.
+
+Samanyolu'nun gökada merkezi, yoğun yıldız kümeleri, genç yıldızlar ve süpernova patlamaları gibi yüksek enerjili olayların olduğu bir alandır. Bu olaylar, yıldızarası ortamda toz ve gaz bulutlarının yoğunlaşmasına neden olur.
+
+Dünya'dan gökyüzüne baktığımızda, bu toz ve gaz bulutları ışığın yolunu engeller ve Samanyolu'nun gökada merkezine doğru bakışımızı engeller. Ancak, Baade Penceresi'nde, yıldızarası toz ve gazın yoğunluğu nispeten düşüktür.
+
+Bu nedenle, Baade Penceresi'nden baktığımızda, Samanyolu'nun gökada merkezi tarafından gizlenmiş olan alanda, bu yönde gözlemlenebilir bir ""pencere"" gibi görünen bir alan elde ederiz. 
+
+
+Kısacası, Baade Penceresi'nin oluşmasının sebebi, Samanyolu'nun gökada merkez",25.1,0.2857142857142857,0.9821401519603656,0.7885409818309546
+89,89,9e722b8f-b5ed-4637-b43a-a04d90a9d3b2,"Boltzmann beyni hipotezi, evrenin rastgele dalgalanmalar sonucu oluştuğu fikrini savunuyor mu? Eğer öyleyse, bu hipotez ile evrenin kökeni hakkında bilinen teoriler arasında nasıl bir ilişki var?","Evet, Boltzmann beyni hipotezi evrenin termal dalgalanmalar nedeniyle ortaya çıktığını öne sürüyor. Bu hipotez, evrenin başlangıcını açıklamak için kullanılan Büyük Patlama teorisine alternatif bir bakış açısı sunuyor. Büyük Patlama teorisi, evrenin yoğun ve sıcak bir noktadan genişlediğini savunurken, Boltzmann beyni hipotezi evrenin rastgele bir dalgalanma sonucu ortaya çıktığını öne sürüyor. Her iki teori de evrenin kökeni hakkında farklı açıklamalar sunsa da, ikisinin de kesin kanıtları bulunmuyor.","Boltzmann beyni, kaos halinde rastgele dalgalanmalar sonucu ortaya çıkan ve farkındalığa erişmiş bir varlık hipotezidir. Bu hipotez bilinen evrenin rastgele dalgalanma sonucu yükseldiği düşüncesini öne süren fizikçi Ludwig Boltzmann'a ithafen adlandırılmıştır. Boltzmann, evrenin termal dalgalanmadan ortaya çıkıp çıkmayacağı sorusunu ortaya atmıştır.",0,1,[351],0,"Boltzmann beyni hipotezi, evrenin rastgele dalgalanmalar sonucu oluştuğu fikrini doğrudan savunmuyor, ancak bununla bağlantılı bir fikir taşıyor. 
+
+**İşte ilişkileri anlamak için birkaç nokta:**
+
+1. **Boltzmann'ın Teorisi:** Ludwig Boltzmann, evrenin termodinamik açıdan bir düzensizlikten (entropi) sıyrılarak oluşabileceğini öne sürmüştür. Ancak, bu teori evrenin rastgele dalgalanmalar sonucu oluştuğunu değil, düzensizlikten sıyrılma sonucu oluştuğunu savunur.
+
+2. **Rastgele Dalgalanmalar:** Boltzmann beyni hipotezi, evrenin oluşumunu açıklamak için rastgele dalgalanmaları kullanır, ancak bu dalgalanmaların doğası hakkında kesin bir tanım sunmaz.
+
+3. **Farkındalık ve Evrenin Kökeni:** Boltzmann beyni hipotezi, evrenin oluşumunun yanı sıra farkındalığın da ortaya çıkışını açıklamak amacıyla kullanılır. Bu hipotez, farkındalığın rastgele dalgalanmalar sonucu oluşan karmaşık sistemlerde doğal bir sonucu olduğunu öne sür",24.9,0.625,0.7100031271814015,0.0
+90,90,a6a8114f-7d3b-4061-9cf7-6eeeb72356b6,Reaganomics'in savunucuları ve eleştirmenleri arasındaki temel görüş ayrılığı nedir?,"Reaganomics'in savunucuları, politikaların stagflasyonu sona erdirdiğini, ekonomik büyümeyi teşvik ettiğini ve girişimciliği artırdığını iddia ederken, eleştirmenler gelir eşitsizliğinin arttığını, yoksulluğu körüklediğini ve ulusal borcu önemli ölçüde artırdığını savunurlar.","Reaganomics veya Reaganizm, 1980'lerde ABD Başkanı Ronald Reagan tarafından açıklanan ve neoliberaller tarafından desteklenen ekonomi politikalarıydı. Bu politikalar muhalifleri tarafından arz yönlü ekonomi, damlama ekonomisi veya ""voodoo ekonomisi"" olarak nitelendirilirken, Reagan ve savunucuları buna serbest piyasa ekonomisi adını vermeyi tercih etti.
+Reagan'ın ekonomi politikasının temelleri arasında savunma harcamalarının artırılması, federal bütçenin dengelenmesi ve hükûmet harcamalarının büyümesinin yavaşlatılması, federal gelir vergisinin ve sermaye kazançları vergisinin azaltılması, hükûmet düzenlemelerinin azaltılması ve enflasyonu azaltmak için para arzının sıkılaştırılması yer alıyordu.
+Reaganomics'in sonuçları hala tartışılıyor. Destekçiler, takip eden yıllarda stagflasyonun sona erdiğine, daha güçlü GSYİH büyümesine ve girişimcilik devrimine işaret ediyor. Eleştirmenler, genişleyen gelir açığına, açgözlülük atmosferi, azalan ekonomik hareketlilik ve ulusal borcun sekiz yıl içinde üç katına çıkmasına ve sonuçta 2. Dünya Savaşı sonrası ulusal borcun GSYİH yüzdesi olarak daralma eğilimini tersine çevirmesine işaret ediyor.
+",0,1,[1151],0,"Reaganomics'in savunucuları ve eleştirmenleri arasındaki temel görüş ayrılığı, bu politikaların ekonomi üzerindeki etkileri konusunda şekillenmiştir.
+
+**Savunucular**, Reaganomics'in ekonomik büyümeyi teşvik ettiğini, enflasyonu kontrol altına aldığını ve işsizlik oranını düşürdüğünü savunur. Ayrıca, vergi indirimlerinin girişimciliği artırdığını, hükümet düzenlemelerinin azaltılmasının piyasaların daha verimli hale gelmesine yardımcı olduğunu ve savunma harcamalarının artırılmasının ülkenin askeri gücünü güçlendirdiğini iddia ederler.
+
+**Eleştirmenler** ise, Reaganomics'in zenginler arasındaki gelir eşitsizliğini artırdığını, orta ve düşük gelirli aileler için ekonomik imkanları azalttığını ve ulusal borcun artmasına neden olduğunu savunur. Ayrıca, hükümet düzenlemelerinin azaltılmasının çevre kirliliğine ve finansal istikrarsızlığa yol açtığını, vergi indirimlerinin çoğunlukla zenginlere fayda sağladığını ve savunma harcamalarının artışının gere",25.0,0.5714285714285714,0.4609519838723626,0.8526491215974308
+91,91,b2c754d0-6960-4590-b776-f3437cf5f6f7,"3SAT ve KLIK problemleri NP sınıfında yer alıyorsa, neden bunları polinom zamanda çözebildiğimizden bahsediliyor?","Yazıda geçen 'polinom zamanda kararlaştırılabilen' ifadesi, bu problemlerin çözümünün doğrulanmasının polinom zamanda yapılabileceği anlamına gelir. Yani, bir çözüm önerisi verildiğinde, onun doğru olup olmadığını polinom zamanda kontrol edebiliriz. Ancak, problemleri baştan sona çözebilmek için gereken zamanın polinom zamanda olamayacağı bilinmektedir.","3SAT ve KLIK problemleri, Turing makinasından polinom zamanda kararlaştırılabilen NP problemleri arasında yer alır. Bu problemlerin birbirinin cinsine çevrilmesine indirgeme denilir.
+",0,1,[183],0,"Sorunuzun cevabı aslında biraz yanıltıcı bir ifadeye dayanıyor. 
+
+3SAT ve KLIK problemleri NP sınıfında yer alıyor, yani bunların çözümü için en kötü senaryoda n^c gibi bir polinom zamanda ihtiyaç duyulabilir (n problemin boyutunu temsil ediyor). Ancak, bu problemlerin **polinom zamanda çözülebildiğini** söylemek yanlış olur. 
+
+Şu an için, 3SAT ve KLIK problemlerinin **polinom zamanda çözülebilen kesin algoritmaları bulunmamaktadır**. Ancak, bunların birbirine indirgenebildiğini söylemek önemlidir. 
+
+İndirgeme yoluyla, bir problemi başka bir probleme çevirebiliriz. Eğer bir problemi polinom zamanda çözebiliyorsak, indirgenmiş problemi de polinom zamanda çözebiliriz. 
+
+Örneğin, 3SAT'ı KLIK'a indirgemek mümkün. Eğer KLIK problemi polinom zamanda çözülebiliyorsa, 3SAT problemi de polinom zamanda çözülebilir olur. Ancak, KLIK problemi de NP sınıfında olduğu için, onun için de polinom zamanda çözülebilen bir algoritma bulunmamaktadır.
+
+Sonuç olarak, ",24.9,0.36363636363636365,0.333094566863439,0.0
+92,92,a9a22263-527a-4171-80dc-fadbe3469405,Iwo Jima neden ABD'ye geçmişti ve ne zaman Japonya'ya geri döndü?,"Iwo Jima, II. Dünya Savaşı sırasında ABD ile Japonya arasında yaşanan bir savaşın ardından 1945 yılında ABD kontrolüne geçti. Savaştan sonra ada 1968 yılında Japonya'ya iade edildi.","Iwo Jima, Japon Volkan Adaları zincirinin Ogasawara Adaları'nın güney ucudur. Ada Tokyo'ya 1200 km uzaklıkta bulunmaktadır. Japonya'nın 8. büyük köy adasıdır. 1945 yılında II. Dünya Savaşı'nın sonlarında ABD ile Japonya arasındaki savaşın geçtiği ada olup 1968 yılında Japonya'ya tekrar iade edilmiştir.
+",0,1,[304],0,"Iwo Jima'nın ABD'ye geçmesi 1945 yılında II. Dünya Savaşı'nın son dönemlerinde gerçekleşti. 
+
+ABD, Iwo Jima'yı ele geçirmek için 19 Şubat 1945'te çıkartma yaptı. Ada, şiddetli bir savaşın ardından 26 Mart 1945'te ABD kontrolüne geçti.
+
+Japonya'ya geri dönüşü ise 1968 yılında gerçekleşti. 24 Haziran 1968'de Iwo Jima, ABD tarafından Japonya'ya iade edildi. Ancak ada hala ABD askeri üssüne ev sahipliği yapmaktadır. 
+",25.0,0.3333333333333333,0.6141432107678522,0.8963463335000889
+93,93,3c097de0-6e7f-433d-bee8-5e0fcf56f67e,Perelotok tabakası hangi iklim koşullarında oluşur?,"Perelotok tabakası, şiddetli kışlar veya normalden düşük yaz sıcaklıkları nedeniyle yaz çözülmesinin aktif toprak tabakasını tamamen eritemediği bölgelerde oluşur.","Perelotok.
+Aktif toprak tabakasının çözülmüş kısmı ile talik arasında bulunan, tevcit edilmiş vaziyette, donmuş toprak tabakası. Bu tabaka, şiddetli kış veya normal altı yaz sıcaklığı yüzünden yaz çözülmesinin aktif toprak tabakasını tamamen eritmediği yerlerde teşekkül eder ve genel olarak, bir veya iki mevsim arası devam eder.
+",0,1,[331],0,"Verdiğiniz bilgiye göre, perelotok tabakası **şiddetli kış veya normal altı yaz sıcaklığı** yüzünden oluşur. 
+
+Yani, yaz aylarında aktif toprak tabakasının tamamen çözülmediği, kışın ise donarak donmuş toprak tabakası haline geldiği iklim koşullarında perelotok tabakası teşekkül eder. 
+>>>>>>>
+",24.9,0.6666666666666666,0.6634460175877985,0.818537480549427
+94,94,d45df6ad-99e0-4099-81a9-4841f89ec9c8,OGLE-2005-BLG-390Lb gezegeni Dünya'dan ne kadar farklı ve benzer?,"OGLE-2005-BLG-390Lb, Dünya'nın 5 katı kütleye sahip olsa da, yüzey sıcaklığı -220 derece Celsius civarında olduğu için üzerinde sıvı su bulunması mümkün değil. Ayrıca Dünya gibi ince bir atmosfere sahip olduğu düşünülüyor ancak kayalık yüzeyi buzun altında gömülü. Bu nedenle OGLE-2005-BLG-390Lb, Dünya'dan çok daha büyük kütleli bir Plüton gezegenine benziyor.","OGLE-2005-BLG-390Lb, Samanyolu Gökadamızın merkezine yakın OGLE-2005-BLG-390L yıldızının yörüngesinde ve Dünya'dan yaklaşık olarak 21,500 ± 3,300 ışık yılı uzaklıkta bulunan Güneş dışı gezegen.
+Mikromercekleme tekniği ile belirlenmiştir. Bu gezegenin kütlesi Dünya’nın 5 katı ve ata yıldızını yaklaşık 10 yılda dolanmaktadır. Şu ana kadar belirlenmiş en düşük kütleli ve en soğuk Güneş Sistemi dışındaki gezegendir.
+OGLE-2005-BLG-390Lb gezegeni, Güneş'ten 5 kez daha küçük kütleli bir yıldız
+etrafında dolanmakta ve bize 21,500 ışık yılı uzaklığında Samanyolu'nun merkezine
+yakın bulunmaktadır. Ata yıldızının soğuk olması ve geniş yörüngesi gezegenin yüzey sıcaklığının -220 oC olduğundan dolayı su sıvı olarak bulunamaz. Dünya gibi çok ince bir atmosferi olduğu fakat kayamsı yüzeyinin buzun altında gömülü olduğu düşünülmektedir. Bu nedenle Dünya’dan çok daha büyük kütleli bir Plüton gezegenine benzer.
+",0,1,[907],0,"OGLE-2005-BLG-390Lb gezegeni Dünya ile karşılaştırıldığında hem benzerlikler hem de önemli farklılıklara sahiptir:
+
+**Benzerlikler:**
+
+* **Küçük Ölçekte:** OGLE-2005-BLG-390Lb, Dünya'ya kıyasla küçük bir gezegendir. Ancak Dünya'dan 5 kat daha kütleli olması, onu Plüton'dan daha büyük hale getirir.
+* **Atmosfer:** Dünya gibi ince bir atmosfere sahip olduğu düşünülmektedir.
+
+**Farklılıklar:**
+
+* **Kütle:** OGLE-2005-BLG-390Lb'nin kütlesi Dünya'nın 5 katıdır.
+* **Yüzey Sıcaklığı:** Dünya'nın ortalama yüzey sıcaklığı 15°C iken, OGLE-2005-BLG-390Lb'nin yüzey sıcaklığı -220°C civarındadır.
+* **Yörünge:** OGLE-2005-BLG-390Lb, ata yıldızını yaklaşık 10 yılda tamamlayarak Dünya",25.0,0.42857142857142855,0.6629652502160339,0.8818128787433447
+95,95,e86e7e87-ce8a-4ff5-ad9f-5f6455b77c8f,Vault 7 belgeleri CIA'nın hangi cihazları hedef aldığını gösteriyor?,"Vault 7 belgelerine göre CIA, otomobillerden akıllı TV'lere, internet tarayıcılarından (Chrome, Edge, Firefox, Opera) ve birçok akıllı telefon işletim sistemine (iOS ve Android dahil) kadar geniş bir yelpazede cihazı hedef almış. Ayrıca Microsoft Windows, MacOS ve Linux gibi diğer işletim sistemlerinden de veri ve bilgi toplama yeteneğine sahip olduklarını gösteriyor.","Vault 7, WikiLeaks'in 7 Mart 2017'de yayınladığı, Amerika Birleşik Devletleri Merkezi Haberalma Teşkilatı'nın elektronik gözetimi ve siber harekâtı gerçekleştirme etkinlik ve yeteneklerini açıklayan bir dizi belgedir. 2013-2016 tarihli dosyalar, teşkilatın yazılım yetenekleri hakkındaki ayrıntıları, örneğin otomobillerden, akıllı TV'lerden, internet tarayıcılarından (Google Chrome, Microsoft Edge, Mozilla Firefox ve Opera Software ASA dâhil) ve çoğu akıllı telefon işletim sistemi (Apple'ın iOS'u ve Google'ın Android işletim sistemi dâhil) yanı sıra Microsoft Windows, MacOS ve Linux gibi diğer işletim sistemlerinden veri ve bilgi çekmesi olayını anlatmaktadır.",0,1,[667],0,"Vault 7 belgeleri, CIA'nın özellikle otomobillerden, akıllı TV'lerden, internet tarayıcılarından (Google Chrome, Microsoft Edge, Mozilla Firefox ve Opera Software ASA dahil) ve çoğu akıllı telefon işletim sisteminden (Apple'ın iOS'u ve Google'ın Android işletim sistemi dahil) veri ve bilgi çekme amacıyla tasarlanmış araçlar geliştirdiğini gösteriyor. 
+
+Ayrıca belgeler, Microsoft Windows, MacOS ve Linux gibi diğer işletim sistemlerine yönelik saldırı araçları hakkında da bilgi içeriyor. 
+
+
+Özetle, Vault 7 belgeleri, CIA'nın geniş bir yelpazede cihazları hedef alan siber istihbarat faaliyetleri yürüttüğünü ortaya koyuyor.
+
+>>>>>",25.0,0.25,0.9928101468352242,0.8606998355559045
+96,96,76de6bed-3f54-4950-88d4-d4124cb7d235,Baugi'nin Odin ile olan ilişkisi hakkında daha fazla bilgi var mı?,"Metinde Baugi'nin Odin'in şiir şarabını aldığı dev Suttungr'ın kardeşi olduğu belirtilmiş. Bu, Baugi'nin de dolaylı olarak Odin ile bağlantılı olduğunu gösteriyor. Ancak metinde Baugi ve Odin arasında doğrudan bir ilişki veya etkileşimden bahsedilmiyor.","Baugi (Eski Norsça : [ˈbɔuɣe] ; ""halka şeklinde"") İskandinav mitolojisinde bir jötunn'dur . Odin'in şiir şarabını aldığı dev Suttungr'ın kardeşidir.",0,1,[148],0,"Baugi hakkında bildiklerimiz sınırlı. Eski Norsça metinlerinde adı genellikle kardeşleri Suttungr'ın yanında geçer. 
+
+Odin ile olan ilişkisi hakkında en önemli bilgi, Baugi'nin Odin'in şiir şarabını çaldığı yer olan Suttungr'ın kardeş olmasıdır. Ancak, metinlerde Baugi'nin Odin ile doğrudan bir etkileşimi olduğu anlatılmaz. 
+
+Bazı yorumcular, Baugi'nin Odin'in şarabı için gerekli olan bilgileri sağladığını veya Odin'in Suttungr'ı kandırmak için kullandığı bir araç olduğunu düşünmektedir. Ancak, bu sadece spekülasyonlardır ve kesin bir bilgi yoktur.
+
+Özetle, Baugi hakkında bildiklerimiz sınırlıdır ve Odin ile olan ilişkisi hakkında doğrudan bir bilgi yoktur. Ancak, kardeşinin hikayesindeki yeri, Baugi'nin Odin ile olan ilişkisinin bir parçası olduğunu düşündürmektedir.
+",24.9,0.7,0.6665027880956238,0.0
+97,97,66ed1943-34f5-4a58-ac34-8bb0157a5de7,Flat Earth Society ne zaman kurulmuştur ve kurucusu kimdir?,"Flat Earth Society, 1956 yılında Samuel Shenton tarafından kurulmuştur.","Flat Earth Society (International Flat Earth Society ya da International Flat Earth Research Society) veya (Türkçe: Düz Dünya Topluluğu), Dünya'nın düz olduğunu savunanlar tarafından kurulmuş bir dernektir. 1956 yılında Samuel Shenton tarafından kurulmuştur. Derneğin bir sonraki başkanı olan Charles K. Johnson'ın 2001 yılında ölmesi üzerine günümüzde aktifliğini yitirmiştir.
+",0,1,[378],0,"Metinde zaten cevabı bulunuyor:
+
+Flat Earth Society (Düz Dünya Topluluğu) 1956 yılında **Samuel Shenton** tarafından kurulmuştur. 
+>>
+>>
+>>
+>>
+>
+>
+>
+>
+>
+>
+>>
+>>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+.>
+>
+.>
+",24.9,1.0,0.9759718318056814,0.8892602727828042
+98,98,c9deac66-92aa-4c63-926a-4916909f46b8,Gorr the God Butcher karakteri hangi Marvel filmiyle izleyiciyle buluşacak?,"Gorr the God Butcher karakteri, Thor: Love and Thunder (2022) filmiyle izleyiciyle buluşacaktır.","Gorr the God Butcher, Marvel Comics tarafından yayınlanan Amerikan çizgi romanlarında görünen kurgusal bir süper kötü adamdır.
+Karakter Marvel Sinematik Evreni filmi Thor: Love and Thunder'da (2022) yer alacak ve Christian Bale tarafından canlandırıldı.
+",0,1,[254],0,"Cevap: Gorr the God Butcher karakteri Marvel Sinematik Evreni filmi **Thor: Love and Thunder** (2022) ile izleyiciyle buluşacak. 
+>>>>>>>
+>
+>
+>>
+>
+>
+>
+>
+>
+>
+>>
+>
+",24.9,1.0,0.9901355330871122,0.9030654891599622
+99,99,4814242c-e990-4b06-8d97-7ce4e5d9b7cd,Dunkirk Muharebesi'nde Müttefik kuvvetlerinin tahliyesi nasıl gerçekleşti?,"Müttefik kuvvetleri, Alman saldırısından kurtulmak için Dunkerque limanına çekildi. Britanya donanması ve sivil gemilerden oluşan bir filo, Alman hava saldırıları altında büyük bir operasyonla askerleri Fransa'dan tahliye etti. Bu tahliye operasyonu, ","Dunkirk Muharebesi, II. Dünya Savaşı sırasında Müttefikler ve Almanya arasında Dunkerque, Fransa'da gerçekleşmiştir. Batı Cephesi'nde Fransa Savaşı'nın bir parçası olarak Britanya Sefer Kuvveti ve müttefik kuvvetlerinin 26 Mayıs'tan 4 Haziran 1940'a kadarki Avrupa'dan tahliyesini sağlamak amaçlı yapılan savunma savaşıdır.
+Sahte Savaş'tan sonra, Fransa Savaşı, 10 Mayıs 1940'ta başlar ve Alman Ordu Grubu B (Heeresgruppe B), Hollanda'yı işgal eder ve batıya doğru ilerlemeye devam eder. Karşılık olarak, Müttefik Yüksek Komutanı-Fransız General Maurice Gamelin, Almanları durdurmak için Belçika'yı işgal emri verir. Ancak Almanlar yürüttükleri ""yıldırım savaşı"" ile çoktan Belçika'ya varmışlardır. Almanlar, Ordu Grubu A (Heeresgruppe A) vasıtasıyla hızlıca Ardenler'i geçer ve kanat hamlesi ile Müttefik kuvvetlerini Dunkerque çevresinde kıskaca alırlar.
+",0,1,[857],0,"Dunkirk Muharebesi'nde Müttefik kuvvetlerinin tahliyesi, deniz yoluyla gerçekleştirildi. 
+
+Almanların yaklaşmasıyla Müttefik kuvvetleri Dunkerque kıyı şeridine çekildi. İngiliz donanması, Fransa kıyılarında bulunan yaklaşık 338.000 askerin tahliyesini sağlamak amacıyla büyük bir deniz operasyonu başlattı. 
+
+Bu operasyonda, İngiliz savaş gemileri, balıkçı tekneleri, küçük motorlu tekneler ve hatta özel mülkiyetli tekneler kullanıldı.  
+
+Deniz yoluyla yapılan bu tahliye operasyonu, ""Miracle at Dunkirk"" (Dunkirk Mucizesi) olarak anılmaktadır. 
+
+Özellikle hava saldırılarına rağmen, Müttefik kuvvetlerinin büyük bir kısmı Dunkerque'den kurtarıldı. 
+
+",25.1,0.5,0.7707381746402543,0.8668553030286573
